@@ -1,0 +1,32 @@
+name: Update scanner
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths-ignore: ["announcements.json"]
+  schedule:
+    - cron: "0 6,9,12,15,18 * * 1-5"
+    - cron: "0 9 * * 0,6"
+permissions:
+  contents: write
+concurrency:
+  group: scanner
+  cancel-in-progress: false
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python fetch.py
+        env:
+          COMPANIES_HOUSE_API_KEY: ${{ secrets.COMPANIES_HOUSE_API_KEY }}
+      - run: |
+          git config user.name "scanner-bot"
+          git config user.email "scanner-bot@users.noreply.github.com"
+          git add announcements.json
+          git commit -m "Update announcements" || exit 0
+          git pull --rebase
+          git push
