@@ -1,12 +1,29 @@
 {
-"updated": "2026-10-13 13:31 UTC",
+"updated": "2026-10-13 20:35 UTC",
 "last_run": {
 "searches": 80,
-"failed": 6,
-"headlines_read": 373,
-"new": 19
+"failed": 13,
+"headlines_read": 376,
+"new": 9
 },
 "items": [
+{
+"id": "bbabfe1fbb3d",
+"date": "2026-10-13",
+"company": "Mastercard",
+"what_it_does": "",
+"how_it_uses_smart_data": "Account-to-account payments",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Banking (payments)",
+"headline": "ISX Financial® partners with Mastercard to scale global account-to-account payments",
+"summary": "",
+"source": "FF News",
+"url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZGN4NFpHZWpObU8ycjhHR2hQQXl6bWJ4SVZIbmloQVlBLVlFU3NzLWVtblBGdzdyeHpaY2F1UVZ4X1FvbG1weTA4Wkl2T2FwbWExVzBpU2xkVFVQd1UzN3JSdmNPcHIzWnhXSXZoSmRhSVFyclJob0E1MlNnNHFnMFUzZHlEVUJvdXdMVm5FVkJ2UTRYdzJ3YUI2NjVIUDJobHZwOWltTVhxYVpZTzRDZVdIMHhjeXVKNGVwcQ?oc=5",
+"score": 4,
+"found_by": "\"open banking\" UK"
+},
 {
 "id": "e49ff039d313",
 "date": "2026-10-12",
@@ -57,6 +74,23 @@
 "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSnBuREIzUlFFeUJCWW1iWUN2ZkVBWWdtVmUxV2wtSHd3alUyaHRGWlI5MTZzV3hxREZYX1RuNTFXZFRkd1c5Y0tjRjAzNlFKdmhoLXk5Z1NqUGVyd2lieW1wNFVCYmJfNDRNSUhCMExkQVc3YTNGR1h1ZmVyREs2TnpNREhFYzR3a19YNXRR?oc=5",
 "score": 4,
 "found_by": "\"open banking\" UK"
+},
+{
+"id": "abc5169d72b2",
+"date": "2026-10-12",
+"company": "",
+"what_it_does": "",
+"how_it_uses_smart_data": "Bank payments made with customer permission (open banking)",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Banking (payments)",
+"headline": "Pay-by-Bank Could Win 32% of Bill Payments With the Right Incentives",
+"summary": "Digital bank customers are more willing than the broader banking population to move transactions to Pay by Bank when the payment method comes with ...",
+"source": "Bing News",
+"url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ace95bb1aed4f00ba6b3460ce5bb8dd&url=https%3a%2f%2fwww.pymnts.com%2fnews%2fpayment-methods%2f2026%2fpay-by-bank-could-win-32-percent-of-bill-payments-with-the-right-incentives%2f&c=6022425682905316066&mkt=en-gb",
+"score": 4,
+"found_by": "\"pay by bank\""
 },
 {
 "id": "7d3b5a78f012",
@@ -637,6 +671,23 @@
 "found_by": "\"pay by bank\""
 },
 {
+"id": "ea7f554ce76f",
+"date": "2026-10-06",
+"company": "",
+"what_it_does": "",
+"how_it_uses_smart_data": "Bank payments made with customer permission (open banking)",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Banking (payments)",
+"headline": "Mollie strengthens Pay by Bank",
+"summary": "Mollie has launched a renewed version of Pay by Bank, built on the technology of GoCardless, which Mollie acquired earlier this year. Pay by Bank lets consumers pay directly from their bank account, ...",
+"source": "Bing News",
+"url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ace95bb1aed4f00ba6b3460ce5bb8dd&url=https%3a%2f%2fwww.finextra.com%2fpressarticle%2f111156%2fmollie-strengthens-pay-by-bank&c=2439619999569205418&mkt=en-gb",
+"score": 5,
+"found_by": "\"pay by bank\""
+},
+{
 "id": "357cbac6ee0a",
 "date": "2026-10-06",
 "company": "",
@@ -1079,6 +1130,23 @@
 "found_by": "\"data portability\" UK"
 },
 {
+"id": "5d4b1b628174",
+"date": "2026-06-29",
+"company": "",
+"what_it_does": "",
+"how_it_uses_smart_data": "Bank payments made with customer permission (open banking); Account-to-account payments",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Banking (payments)",
+"headline": "Pay by Bank vs Card Acquiring: Vladyslav Kolodistyi on the Margin Math Behind A2A Payments",
+"summary": "In this finance-focused breakdown, payments expert Vladyslav Kolodistyi walks through the five P&L lines where card acquiring eats merchant margin and explains where Pay by Bank delivers measurable ...",
+"source": "Bing News",
+"url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ace95bb1aed4f00ba6b3460ce5bb8dd&url=https%3a%2f%2fwww.finextra.com%2fblogposting%2f32124%2fpay-by-bank-vs-card-acquiring-vladyslav-kolodistyi-on-the-margin-math-behind-a2a-payments&c=4855229695763961045&mkt=en-gb",
+"score": 7,
+"found_by": "\"pay by bank\""
+},
+{
 "id": "5be6440860a7",
 "date": "2026-06-16",
 "company": "",
@@ -1249,6 +1317,23 @@
 "found_by": "\"smart data\" UK"
 },
 {
+"id": "3af50d25c84b",
+"date": "2025-06-11",
+"company": "",
+"what_it_does": "",
+"how_it_uses_smart_data": "Bank payments made with customer permission (open banking)",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Banking (payments)",
+"headline": "Shoppers urged by Which? to consider protections when using ‘pay by bank’",
+"summary": "Shoppers are being urged to consider what protections they have when making payments, with the rise in “pay by bank” as an option. Pay by bank allows people to quickly and securely pay money directly ...",
+"source": "Bing News",
+"url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ace95bb1aed4f00ba6b3460ce5bb8dd&url=https%3a%2f%2fwww.itv.com%2fnews%2f2025-06-11%2fshoppers-urged-by-which-to-consider-protections-when-using-pay-by-bank&c=12626076189762328927&mkt=en-gb",
+"score": 4,
+"found_by": "\"pay by bank\""
+},
+{
 "id": "ad62bc1d7244",
 "date": "2025-02-24",
 "company": "",
@@ -1264,6 +1349,23 @@
 "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ace328b188b4c8eab88f5c8732c550c&url=https%3a%2f%2fwww.lawgazette.co.uk%2fnews%2fupfront-information-helpful-for-mortgage-decisions-says-lender%2f5122442.article&c=10248199932947013431&mkt=en-gb",
 "score": 4,
 "found_by": "\"upfront information\" property"
+},
+{
+"id": "6e2a9e5dc447",
+"date": "2025-01-31",
+"company": "",
+"what_it_does": "",
+"how_it_uses_smart_data": "Bank payments made with customer permission (open banking)",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Banking (payments)",
+"headline": "Taxpayers pay HMRC over £12 billion using Pay by Bank",
+"summary": "@2024 - All Right Reserved.",
+"source": "Bing News",
+"url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ace95bb1aed4f00ba6b3460ce5bb8dd&url=https%3a%2f%2flondonlovesbusiness.com%2ftaxpayers-pay-hmrc-over-12-billion-using-pay-by-bank%2f&c=8418451511545677735&mkt=en-gb",
+"score": 5,
+"found_by": "\"pay by bank\""
 },
 {
 "id": "f7a0ff689ce6",
@@ -1317,6 +1419,23 @@
 "found_by": "\"pensions dashboard\""
 },
 {
+"id": "fda6509ef5f6",
+"date": "2024-10-17",
+"company": "",
+"what_it_does": "",
+"how_it_uses_smart_data": "Bank payments made with customer permission (open banking)",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Banking (payments)",
+"headline": "Generation Pay by Bank: Why Gen Z and Millennials Hold the Key to Widespread Adoption",
+"summary": "We’d love to be your preferred source for news. Please add us to your preferred sources list so our news, data and interviews show up in your feed. Thanks! Add as Preferred Source Pay by bank is a new ...",
+"source": "Bing News",
+"url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ace95bb1aed4f00ba6b3460ce5bb8dd&url=https%3a%2f%2fwww.pymnts.com%2fdigital-payments%2f2024%2fgeneration-pay-by-bank-why-gen-z-and-millennials-hold-the-key-to-widespread-adoption%2f&c=7811442902358014499&mkt=en-gb",
+"score": 4,
+"found_by": "\"pay by bank\""
+},
+{
 "id": "cfc2cd5b7f47",
 "date": "2024-09-01",
 "company": "",
@@ -1332,6 +1451,23 @@
 "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ace3269f80a4b37af8469e97b904bb9&url=https%3a%2f%2fuk.finance.yahoo.com%2fnews%2fmoneybox-natwest-cushon-smart-pensions-dashboard-coalition-050043504.html&c=10632680200021336666&mkt=en-gb",
 "score": 4,
 "found_by": "\"pensions dashboard\""
+},
+{
+"id": "71a12081a57e",
+"date": "2024-08-14",
+"company": "",
+"what_it_does": "",
+"how_it_uses_smart_data": "Bank payments made with customer permission (open banking)",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Banking (payments)",
+"headline": "Pay By Bank: What Will It Take To Become Mainstream?",
+"summary": "Paying directly through your bank has been around for a long time, but it's not uncommon for people to hate carrying and dealing in cash. Checks helped solve this problem and offered convenience, ...",
+"source": "Bing News",
+"url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ace95bb1aed4f00ba6b3460ce5bb8dd&url=https%3a%2f%2fwww.forbes.com%2fcouncils%2fforbestechcouncil%2f2024%2f08%2f14%2fpay-by-bank-what-will-it-take-to-become-mainstream%2f&c=8948773151154058954&mkt=en-gb",
+"score": 4,
+"found_by": "\"pay by bank\""
 },
 {
 "id": "c2321f0c8383",
@@ -1485,6 +1621,23 @@
 "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ace2e3491aa4097b65894e265f1b4a3&url=https%3a%2f%2fwww.information-age.com%2fuk-banks-prioritising-open-banking-yapily-19456%2f&c=8481399725403311364&mkt=en-gb",
 "score": 6,
 "found_by": "\"open banking\" UK"
+},
+{
+"id": "c9546389ec3e",
+"date": "2022-01-18",
+"company": "",
+"what_it_does": "",
+"how_it_uses_smart_data": "Open banking: customer-permissioned bank data",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Banking (payments)",
+"headline": "Toolstation pioneers ‘pay-by-bank’ online payments as retailers search for new payment experiences",
+"summary": "DIY and tool retailer Toolstation has become one of the largest online retailers to offer customers ‘pay-by-bank’ payments, as it adopts a series of different open banking enabled products to maximise ...",
+"source": "Bing News",
+"url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ace95bb1aed4f00ba6b3460ce5bb8dd&url=https%3a%2f%2finternetretailing.net%2ftoolstation-pioneers-pay-by-bank-online-payments-as-retailers-search-for-new-payment-experiences-24275%2f&c=4478745687337149151&mkt=en-gb",
+"score": 4,
+"found_by": "\"pay by bank\""
 },
 {
 "id": "28470034eb80",
