@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en-GB"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Smart Data Company Announcements</title>
+<style>
+:root{--red:#cf102d;--navy:#0b0c3b;--grey:#f3f3f5;--line:#d9d9de}*{box-sizing:border-box}
+body{margin:0;font-family:Arial,Helvetica,sans-serif;color:#1b1b1f;background:#fff}
+header{background:var(--navy);color:#fff;padding:20px 32px;border-bottom:5px solid var(--red);display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:12px}
+header h1{margin:0;font-size:23px}header p{margin:4px 0 0;opacity:.8;font-size:13px}
+.btns{display:flex;gap:10px;flex-wrap:wrap}
+.btn{padding:11px 18px;border:0;border-radius:5px;font-weight:bold;font-size:15px;cursor:pointer;text-decoration:none;display:inline-block}
+.primary{background:var(--red);color:#fff}.ghost{background:#fff;color:var(--navy)}.small{padding:7px 12px;font-size:13px;background:var(--grey);color:var(--navy)}
+.on{outline:3px solid #ffd400}
+.wrap{display:grid;grid-template-columns:340px 1fr;gap:24px;padding:22px 32px}@media(max-width:900px){.wrap{grid-template-columns:1fr}}
+.panel{background:var(--grey);border-radius:6px;padding:14px}
+.cal-head{display:flex;justify-content:space-between;align-items:center;margin-bottom:8px}.cal-head b{font-size:16px;color:var(--navy)}
+.cal{display:grid;grid-template-columns:repeat(7,1fr);gap:4px}.dow{font-size:11px;text-align:center;color:#666}
+.day{background:#fff;border:1px solid var(--line);border-radius:4px;height:44px;padding:3px;font-size:11px;cursor:pointer;position:relative}
+.day .n{position:absolute;bottom:3px;right:5px;font-weight:bold;font-size:14px;color:var(--navy)}
+.day.l1{background:#fde4e7}.day.l2{background:#f7a9b4}.day.l3{background:#e8586d;color:#fff}.day.l3 .n{color:#fff}.day.l4{background:var(--red);color:#fff}.day.l4 .n{color:#fff}
+.day.sel{outline:3px solid var(--navy)}.day.blank{background:transparent;border:0;cursor:default}.day.today{border:2px solid var(--navy)}
+h2{font-size:15px;color:var(--navy);margin:18px 0 8px}
+.kpis{display:grid;grid-template-columns:1fr 1fr;gap:8px}.kpi{background:#fff;border-left:4px solid var(--red);padding:8px 10px}.kpi b{display:block;font-size:20px;color:var(--navy)}.kpi span{font-size:11px;color:#555}
+.barrow{display:flex;align-items:center;gap:6px;font-size:12px;margin:3px 0}.barrow .lab{width:120px}.barrow .bar{height:12px;background:var(--red);border-radius:2px}
+.list{list-style:none;padding:0;margin:0;font-size:12px}.list li{padding:3px 0;border-bottom:1px solid var(--line);display:flex;justify-content:space-between}
+.title{display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:8px}.title h2{font-size:20px;margin:0}
+.card{border:1px solid var(--line);border-left:5px solid var(--red);border-radius:5px;padding:12px 14px;margin:10px 0}
+.card .co{font-weight:bold;font-size:15px;color:var(--navy)}.card a{color:#1b1b1f;font-size:14px}
+.meta{font-size:12px;color:#555;margin-top:6px;display:flex;gap:14px;flex-wrap:wrap}
+.tag{background:#e8e8f2;color:var(--navy);border-radius:10px;padding:2px 8px;font-size:11px}
+.use{background:#fff6d6;border-radius:3px;padding:2px 6px;font-size:12px;display:inline-block;margin-top:6px}
+.empty{background:var(--grey);padding:22px;border-radius:6px;line-height:1.6}
+select.st{font-size:12px}footer{padding:14px 32px;font-size:11px;color:#666;border-top:1px solid var(--line)}
+</style></head><body>
+<header>
+ <div><h1>Smart Data Company Announcements</h1><p id="meta">UK, all sectors except health</p></div>
+ <div class="btns">
+  <button class="btn primary" id="bToday">Today's announcements</button>
+  <button class="btn ghost" id="bMonth">This month</button>
+  <a class="btn ghost" id="bRefresh" target="_blank" rel="noopener" title="Opens GitHub. Click 'Run workflow' and results update in about 3 minutes">Refresh now ↻</a>
+ </div>
+</header>
+<div class="wrap">
+ <aside>
+  <div class="panel">
+   <div class="cal-head"><button class="btn small" id="prev">◀</button><b id="mlabel"></b><button class="btn small" id="next">▶</button></div>
+   <div class="cal" id="cal"></div>
+   <h2>Month at a glance</h2>
+   <div class="kpis" id="kpis"></div>
+   <h2>By sector</h2><div id="sectors"></div>
+   <h2>Most active companies</h2><ul class="list" id="tops"></ul>
+  </div>
+ </aside>
+ <main>
+  <div class="title"><h2 id="vtitle"></h2><div><button class="btn small" id="csv">Download as spreadsheet (CSV)</button></div></div>
+  <div id="out"></div>
+ </main>
+</div>
+<footer>Finds announcements by how companies describe Smart Data activity (for example connecting bank accounts, sharing energy usage or price data), not just the words "Smart Data". Based on the team's Smart Data definition, the Guidebook glossary and the Smart Data 2035 sectors. Results are a starting point; mark each one in or out of scope. Your marks are saved in this browser.</footer>
+<script>
+const $=i=>document.getElementById(i),esc=s=>String(s??"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const MARK=JSON.parse(localStorage.getItem("sd-mark")||"{}");
+let ITEMS=[],view={type:"day",day:iso(new Date())},cur=new Date();cur.setDate(1);
+function iso(d){return new Date(d.getTime()-d.getTimezoneOffset()*6e4).toISOString().slice(0,10)}
+const ym=d=>iso(d).slice(0,7),fmt=s=>new Date(s+"T12:00").toLocaleDateString("en-GB",{weekday:"long",day:"numeric",month:"long",year:"numeric"});
+// Refresh button -> this repo's "Update scanner" workflow page
+(()=>{const owner=location.hostname.split(".")[0],repo=location.pathname.split("/").filter(Boolean)[0]||"";
+ $("bRefresh").href=`https://github.com/${owner}/${repo}/actions/workflows/update.yml`})();
+const get=u=>fetch(u+"?"+Date.now()).then(r=>{if(!r.ok)throw r.status;return r.json()});
+get("announcements.json").catch(()=>get("data/announcements.json")).catch(()=>({updated:"",items:[]})).then(d=>{
+ ITEMS=d.items||[];
+ if(d.updated)$("meta").textContent=`UK, all sectors except health · last checked ${d.updated}`+(d.last_run?` · ${d.last_run.headlines_read} headlines read`:"");
+ if(!d.updated){$("out").innerHTML=`<div class="empty"><b>Not run yet.</b> Click <b>Refresh now</b>, then the grey <b>Run workflow</b> button on GitHub. Come back in about 3 minutes.</div>`}
+ draw();
+});
+const inView=()=>ITEMS.filter(i=>view.type==="day"?i.date===view.day:i.date.startsWith(view.month));
+function draw(){cal();month();list()}
+function cal(){
+ const m=ym(cur),days=new Date(cur.getFullYear(),cur.getMonth()+1,0).getDate(),start=(cur.getDay()+6)%7,today=iso(new Date());
+ $("mlabel").textContent=cur.toLocaleDateString("en-GB",{month:"long",year:"numeric"});
+ const cnt={};ITEMS.forEach(i=>{if(i.date.startsWith(m))cnt[i.date]=(cnt[i.date]||0)+1});
+ let h=["Mon","Tue","Wed","Thu","Fri","Sat","Sun"].map(x=>`<div class="dow">${x}</div>`).join("")+'<div class="day blank"></div>'.repeat(start);
+ for(let d=1;d<=days;d++){const k=`${m}-${String(d).padStart(2,"0")}`,n=cnt[k]||0,l=n?n>=10?4:n>=6?3:n>=3?2:1:0;
+  h+=`<div class="day l${l} ${view.type==="day"&&view.day===k?"sel":""} ${k===today?"today":""}" data-d="${k}">${d}${n?`<span class="n">${n}</span>`:""}</div>`}
+ $("cal").innerHTML=h;
+ document.querySelectorAll(".day[data-d]").forEach(e=>e.onclick=()=>{view={type:"day",day:e.dataset.d};draw()});
+}
+function month(){
+ const m=ym(cur),R=ITEMS.filter(i=>i.date.startsWith(m)),cos={},sec={};
+ R.forEach(r=>{if(r.company)cos[r.company]=(cos[r.company]||0)+1;sec[r.sector]=(sec[r.sector]||0)+1});
+ const days=new Set(R.map(r=>r.date)).size,inS=R.filter(r=>MARK[r.id]==="in scope").length;
+ $("kpis").innerHTML=[["Announcements",R.length],["Companies",Object.keys(cos).length],["Active days",days],["Marked in scope",inS]].map(([l,n])=>`<div class="kpi"><b>${n}</b><span>${l}</span></div>`).join("");
+ const S=Object.entries(sec).sort((a,b)=>b[1]-a[1]),mx=S.length?S[0][1]:1;
+ $("sectors").innerHTML=S.map(([s,n])=>`<div class="barrow"><span class="lab">${esc(s)}</span><span class="bar" style="width:${Math.max(4,n/mx*150)}px"></span>${n}</div>`).join("")||'<small>None yet</small>';
+ $("tops").innerHTML=Object.entries(cos).sort((a,b)=>b[1]-a[1]).slice(0,8).map(([c,n])=>`<li><span>${esc(c)}</span><b>${n}</b></li>`).join("")||'<li>None yet</li>';
+}
+function list(){
+ const R=inView().sort((a,b)=>b.date.localeCompare(a.date)||b.score-a.score);
+ $("vtitle").textContent=view.type==="day"?fmt(view.day)+` – ${R.length} announcement${R.length===1?"":"s"}`:new Date(view.month+"-15").toLocaleDateString("en-GB",{month:"long",year:"numeric"})+` – ${R.length} announcements`;
+ $("bToday").classList.toggle("on",view.type==="day"&&view.day===iso(new Date()));$("bMonth").classList.toggle("on",view.type==="month");
+ if(!ITEMS.length)return;
+ if(!R.length){const last=ITEMS[0]?.date;$("out").innerHTML=`<div class="empty">No Smart Data announcements found for this ${view.type==="day"?"day":"month"} yet.${last&&view.type==="day"?` The most recent ones are from <a href="#" id="jump">${fmt(last)}</a>.`:""}</div>`;
+  const j=$("jump");if(j)j.onclick=e=>{e.preventDefault();view={type:"day",day:last};cur=new Date(last+"T12:00");cur.setDate(1);draw()};return}
+ $("out").innerHTML=R.map(r=>`<div class="card">
+  <div class="co">${esc(r.company||r.registered_name||"Company not named in headline")}</div>
+  <a href="${esc(r.url)}" target="_blank" rel="noopener">${esc(r.headline)}</a>
+  <div><span class="use">${esc(r.how_it_uses_smart_data)}</span></div>
+  <div class="meta"><span class="tag">${esc(r.sector)}</span>${view.type==="month"?`<span>${esc(r.date)}</span>`:""}<span>${esc(r.source)}</span>
+   ${r.what_it_does?`<span>${esc(r.what_it_does)}</span>`:""}${r.hq?`<span>HQ: ${esc(r.hq)}</span>`:""}${r.size?`<span>Size: ${esc(r.size)}</span>`:""}
+   ${r.companies_house?`<a href="${esc(r.companies_house)}" target="_blank">Companies House</a>`:""}
+   <select class="st" data-id="${r.id}">${["to review","in scope","out of scope"].map(s=>`<option ${(MARK[r.id]||"to review")===s?"selected":""}>${s}</option>`).join("")}</select></div></div>`).join("");
+ document.querySelectorAll("select.st").forEach(s=>s.onchange=()=>{MARK[s.dataset.id]=s.value;localStorage.setItem("sd-mark",JSON.stringify(MARK));month()});
+}
+$("bToday").onclick=()=>{view={type:"day",day:iso(new Date())};cur=new Date();cur.setDate(1);draw()};
+$("bMonth").onclick=()=>{view={type:"month",month:ym(cur)};draw()};
+$("prev").onclick=()=>{cur.setMonth(cur.getMonth()-1);view={type:"month",month:ym(cur)};draw()};
+$("next").onclick=()=>{cur.setMonth(cur.getMonth()+1);view={type:"month",month:ym(cur)};draw()};
+$("csv").onclick=()=>{const c=["date","company","what_it_does","how_it_uses_smart_data","hq","size","turnover","sector","headline","source","url"];
+ const L=[c.concat("status").join(",")].concat(inView().map(r=>c.map(k=>`"${String(r[k]??"").replace(/"/g,'""')}"`).concat(`"${MARK[r.id]||"to review"}"`).join(",")));
+ const a=document.createElement("a");a.href=URL.createObjectURL(new Blob(["\ufeff"+L.join("\n")],{type:"text/csv"}));
+ a.download=`smart-data-announcements-${view.day||view.month}.csv`;a.click()};
+</script></body></html>
