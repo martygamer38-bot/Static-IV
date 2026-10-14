@@ -1,12 +1,29 @@
 {
-"updated": "2026-10-14 11:31 UTC",
+"updated": "2026-10-14 16:53 UTC",
 "last_run": {
 "searches": 80,
-"failed": 0,
-"headlines_read": 393,
-"new": 4
+"failed": 15,
+"headlines_read": 386,
+"new": 3
 },
 "items": [
+{
+"id": "ac3d9e955fae",
+"date": "2026-10-14",
+"company": "",
+"what_it_does": "",
+"how_it_uses_smart_data": "Pensions dashboard: customer-requested pension data",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Financial services",
+"headline": "Pensions industry needs to prepare for dashboard rush",
+"summary": "The pensions industry needs to brace itself for a surge in demand following the Pensions Dashboard project’s latest milestone.",
+"source": "Bing News",
+"url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acfb33c7c3e46bdb4cdda0765c4752e&url=https%3a%2f%2fwww.ftadviser.com%2fcontent%2f285ffbb3-7d57-489e-9937-d41b27d3d062&c=15753183354016879647&mkt=en-gb",
+"score": 4,
+"found_by": "\"pensions dashboard\""
+},
 {
 "id": "bbabfe1fbb3d",
 "date": "2026-10-13",
@@ -244,6 +261,23 @@
 "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWWd2Yno3dHJxSUpfZko4MEhWem5pT3RwVXd6RHNvbnY4YlVrUU5LS3ZIb1ZVbkRWaWpnQ2FCaW9GYnBLRmtCc3RzLVg1a0JuXzNnSExMejE3eERaa1NPX3BKdHc3T3l0clU5MDQ3MkdJcmdTcm9xWlhndHkzSTZ3RUt2Mm9HTHc?oc=5",
 "score": 4,
 "found_by": "\"real-time fuel prices\" UK"
+},
+{
+"id": "4fded560b6c3",
+"date": "2026-10-09",
+"company": "",
+"what_it_does": "",
+"how_it_uses_smart_data": "Smart Data (named directly)",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Cross-sector",
+"headline": "Westminster eForum Policy Conference | Next Steps for Smart Data - Policy, Regulation and Scheme Implementation",
+"summary": "",
+"source": "Fragomen",
+"url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNdHkxUFhRRVVJU2F2RXd0RTBYMjg0QXg0bk5Rdm8xY2VsR0tKYUNDbHlxQVc0UHAtMW9wcXBwM3RwNHFIR1p0b2k4d2NzR1p0dHFKRDk3NGtsM1ZDZFFyaURPVHpUSG9sdFhJUER1Y0o5alJCYnRnMnFhT1VOaHdsRlBxbE8yc3VYWVVwSjN5cThLVXphRmpMeHBscnNYU2I5cFNMS3lfeWEwZVhqLU5xSnFDSGtRSVJ0d2VwcjJXWWdxVklCZzRpOVRkU3E2N09FM2NNaWlGM1pLN1FXbUE?oc=5",
+"score": 4,
+"found_by": "\"smart data\" UK"
 },
 {
 "id": "7a7cc2bb6334",
@@ -1281,6 +1315,23 @@
 "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ace2e3c658b4fa894b3b0bfbba40da2&url=https%3a%2f%2fwww.irishnews.com%2flife%2fwhat-is-fuel-finder-and-how-will-it-help-motorists-KNJDSX52ARPO7NSBHHUP3Q2OBM%2f&c=1052038138731062210&mkt=en-gb",
 "score": 4,
 "found_by": "\"Fuel Finder\""
+},
+{
+"id": "801b44451f3c",
+"date": "2026-02-03",
+"company": "",
+"what_it_does": "",
+"how_it_uses_smart_data": "Bank payments made with customer permission (open banking)",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Banking (payments)",
+"headline": "Pay by bank - what is it and what protections do you give up when you use it?",
+"summary": "It offers an easier and faster way to buy online, but there are some issues you need to be aware of when it comes to pay by bank. Read on to find out more. You might have seen it or used it - pay by ...",
+"source": "Bing News",
+"url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acfb334ede9481b98569f1013757664&url=https%3a%2f%2fnews.sky.com%2fstory%2fpay-by-bank-what-is-it-and-what-protections-do-you-give-up-when-you-use-it-13502733&c=3630083898041913776&mkt=en-gb",
+"score": 4,
+"found_by": "\"pay by bank\""
 },
 {
 "id": "309f09cc498d",
