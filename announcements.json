@@ -1,10 +1,10 @@
 {
-"updated": "2026-10-13 20:35 UTC",
+"updated": "2026-10-14 11:31 UTC",
 "last_run": {
 "searches": 80,
-"failed": 13,
-"headlines_read": 376,
-"new": 9
+"failed": 0,
+"headlines_read": 393,
+"new": 4
 },
 "items": [
 {
@@ -1300,6 +1300,23 @@
 "found_by": "\"open finance\" UK"
 },
 {
+"id": "efe55a4036c7",
+"date": "2025-06-19",
+"company": "",
+"what_it_does": "",
+"how_it_uses_smart_data": "Smart Data (named directly); Open banking: customer-permissioned bank data",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Banking (payments)",
+"headline": "GUEST ARTICLE: What should future smart data schemes learn from Open Banking?",
+"summary": "Smart data gives consumers the ability to share their data between businesses and other organisations, enabling new uses of data in ways that benefit consumers, society, and economy - potentially ...",
+"source": "Bing News",
+"url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acf67b266544a559d98181e00bfa9b2&url=https%3a%2f%2fwww.which.co.uk%2fpolicy-and-insight%2farticle%2fguest-article-what-should-future-smart-data-schemes-learn-from-open-banking-apo9z2q49CkM&c=6856819030077331481&mkt=en-gb",
+"score": 11,
+"found_by": "\"smart data\" UK"
+},
+{
 "id": "63655d92e2f5",
 "date": "2025-06-18",
 "company": "",
@@ -1332,6 +1349,23 @@
 "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ace95bb1aed4f00ba6b3460ce5bb8dd&url=https%3a%2f%2fwww.itv.com%2fnews%2f2025-06-11%2fshoppers-urged-by-which-to-consider-protections-when-using-pay-by-bank&c=12626076189762328927&mkt=en-gb",
 "score": 4,
 "found_by": "\"pay by bank\""
+},
+{
+"id": "bbd63aaabd6b",
+"date": "2025-05-26",
+"company": "",
+"what_it_does": "",
+"how_it_uses_smart_data": "Open banking: customer-permissioned bank data; Bank payments made with customer permission (open banking)",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Banking (payments)",
+"headline": "Open Banking Fintech Snoop Introduces Variable Recurring Payments (VRPs)",
+"summary": "Snoop has reportedly added a new variable recurring payments feature. Fintech app Snoop has introduced Variable Recurring Payments (VRPs), allowing users to automate savings with ease while also ...",
+"source": "Bing News",
+"url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acf67badef3433fbe96f5abd8cbd8aa&url=https%3a%2f%2fwww.crowdfundinsider.com%2f2025%2f05%2f239980-open-banking-fintech-snoop-introduces-variable-recurring-payments-vrps%2f&c=7142004996885458217&mkt=en-gb",
+"score": 9,
+"found_by": "\"variable recurring payments\""
 },
 {
 "id": "ad62bc1d7244",
@@ -1399,6 +1433,23 @@
 "source": "Bing News",
 "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ace32638f744670b9d0896de97785e1&url=https%3a%2f%2fwww.pymnts.com%2fdigital-payments%2f2025%2fopen-banking-ltd-to-support-uks-launch-of-variable-recurring-payments%2f&c=15027635671481608023&mkt=en-gb",
 "score": 11,
+"found_by": "\"variable recurring payments\""
+},
+{
+"id": "be101228d15d",
+"date": "2024-12-13",
+"company": "",
+"what_it_does": "",
+"how_it_uses_smart_data": "Open banking: customer-permissioned bank data; Bank payments made with customer permission (open banking)",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Banking (payments)",
+"headline": "Commercial Variable Recurring Payments (cVRP) and the implications for banks",
+"summary": "Driving the mainstream growth of Open Banking payments continues to be a key talking point for the UK government, regulators and wider banking industry. With more than 10% of the UK adult population ...",
+"source": "Bing News",
+"url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acf67badef3433fbe96f5abd8cbd8aa&url=https%3a%2f%2fwww.finextra.com%2fblogposting%2f27456%2fcommercial-variable-recurring-payments-cvrp-and-the-implications-for-banks&c=17687317170427538179&mkt=en-gb",
+"score": 9,
 "found_by": "\"variable recurring payments\""
 },
 {
@@ -1604,6 +1655,23 @@
 "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ace2e3491aa4097b65894e265f1b4a3&url=https%3a%2f%2fwww.ft.com%2fcontent%2f2b227007-3468-4b15-8117-68a30e0023a0%3fshareType%3dnongift&c=18014673316004362845&mkt=en-gb",
 "score": 5,
 "found_by": "\"open banking\" UK"
+},
+{
+"id": "eb2040b12aaf",
+"date": "2022-11-21",
+"company": "",
+"what_it_does": "",
+"how_it_uses_smart_data": "Bank payments made with customer permission (open banking)",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Banking (payments)",
+"headline": "Three reasons why Pay by Bank can help win customers",
+"summary": "Can the way in which a customer pays really enhance the customer experience and drive real value for the retailer at the same time? fumopay’s Kevin Ludford believes it can. The online checkout has ...",
+"source": "Bing News",
+"url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acf67b88d6c4061bc10504e14d68552&url=https%3a%2f%2fwww.retail-week.com%2findustry-insight%2fthree-reasons-why-pay-by-bank-can-help-win-customers%2f7042645.article&c=12932076419633003182&mkt=en-gb",
+"score": 4,
+"found_by": "\"pay by bank\""
 },
 {
 "id": "be9f7750bced",
