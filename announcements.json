@@ -1,10 +1,10 @@
 {
-"updated": "2026-10-14 16:53 UTC",
+"updated": "2026-10-14 21:27 UTC",
 "last_run": {
 "searches": 80,
-"failed": 15,
-"headlines_read": 386,
-"new": 3
+"failed": 0,
+"headlines_read": 391,
+"new": 2
 },
 "items": [
 {
@@ -23,6 +23,23 @@
 "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acfb33c7c3e46bdb4cdda0765c4752e&url=https%3a%2f%2fwww.ftadviser.com%2fcontent%2f285ffbb3-7d57-489e-9937-d41b27d3d062&c=15753183354016879647&mkt=en-gb",
 "score": 4,
 "found_by": "\"pensions dashboard\""
+},
+{
+"id": "c0cad8e58c08",
+"date": "2026-10-14",
+"company": "",
+"what_it_does": "",
+"how_it_uses_smart_data": "Open banking: customer-permissioned bank data",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Banking (payments)",
+"headline": "Why Open Banking Is Transforming Financial Services Worldwide",
+"summary": "",
+"source": "TechBullion",
+"url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaERIQ0dSVkpVYmlXV05ZSXVVRWJMdVBlcFFWbVpkdVFvRWQ4TjBEeTN1V3g4TGZ4SjZiMHY2UmdKMFZQNENSRlo4X29QRmdZMU9hOTJwbVNSOFlfUGZEZ0gzUFVTZGxWYzlfblVDSnVGenhqT0dfR2o0bEQ5TzZLaDI5QTNXREctX3ZQQzI4Zw?oc=5",
+"score": 4,
+"found_by": "\"open banking\" UK"
 },
 {
 "id": "bbabfe1fbb3d",
@@ -1621,6 +1638,23 @@
 "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ace3269f80a4b37af8469e97b904bb9&url=https%3a%2f%2fwww.heraldscotland.com%2fnews%2f15394391.Pensions_Dashboard_will_not_solve_chronic_under-saving_problem%2f&c=10990033033894591418&mkt=en-gb",
 "score": 4,
 "found_by": "\"pensions dashboard\""
+},
+{
+"id": "a6dddd930d6e",
+"date": "2024-02-12",
+"company": "",
+"what_it_does": "",
+"how_it_uses_smart_data": "Bank payments made with customer permission (open banking)",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Banking (payments)",
+"headline": "Moneyline issues first loan using Variable Recurring Payments",
+"summary": "Moneyline, a leading social lender dedicated to financial inclusion, takes a significant step forward in its mission today by issuing its first loan to be repaid using ‘VRP’ - Variable Recurring ...",
+"source": "Bing News",
+"url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acff36c76db48a9be39bb0f51ed8d89&url=https%3a%2f%2fwww.finextra.com%2fpressarticle%2f99631%2fmoneyline-issues-first-loan-using-variable-recurring-payments&c=9002126170322608242&mkt=en-gb",
+"score": 4,
+"found_by": "\"variable recurring payments\""
 },
 {
 "id": "6699bd10970c",
