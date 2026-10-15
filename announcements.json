@@ -1,12 +1,29 @@
 {
-"updated": "2026-10-14 21:27 UTC",
+"updated": "2026-10-15 11:08 UTC",
 "last_run": {
 "searches": 80,
 "failed": 0,
-"headlines_read": 391,
-"new": 2
+"headlines_read": 385,
+"new": 3
 },
 "items": [
+{
+"id": "19d07a5e5829",
+"date": "2026-10-15",
+"company": "",
+"what_it_does": "",
+"how_it_uses_smart_data": "Open banking: customer-permissioned bank data",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Banking (payments)",
+"headline": "Commerce Commission says open banking cheaper for businesses than Visa & Mastercard debit",
+"summary": "",
+"source": "Interest.co.nz",
+"url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdC1XeFh0VUZ5WHlONWRKdmlBSjZ6TDBhMnU2Q0V4Q0RweHVmX0FRWnNxWEFxMHRINGZjcUJJa2ctcFdjaEs3bTM2QXZhWUJMTUpmTkVPX3RKWHNLeGRhNS1DVnFvbGpLZzRzOEFnWVBreUc4OVFWaHVCV1cwTm96WHhKcEw2Z1R4WEUzWEtNUjNnUjBEZEN5S3hiSmZmU1RHeHh6X3dyTDF3MG8zUnpvU0VLbXZmTHBta0x5Ni1jcTNFUQ?oc=5",
+"score": 4,
+"found_by": "\"pay by bank\""
+},
 {
 "id": "ac3d9e955fae",
 "date": "2026-10-14",
@@ -1351,6 +1368,23 @@
 "found_by": "\"pay by bank\""
 },
 {
+"id": "e5db95ec8a6c",
+"date": "2026-02-02",
+"company": "",
+"what_it_does": "",
+"how_it_uses_smart_data": "Fuel Finder: shared fuel price data",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Road fuels",
+"headline": "Fuel Finder scheme launched to help drivers compare petrol prices",
+"summary": "British drivers are set to benefit from a new government scheme requiring fuel retailers to report pump price changes, making it easier to locate cheaper petrol and diesel. From Monday, all filling ...",
+"source": "how it works",
+"url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad0b3dbce4e41b499e0263e454e7d3c&url=https%3a%2f%2fuk.finance.yahoo.com%2fnews%2ffuel-finder-scheme-launched-help-141544816.html&c=6293873716528463464&mkt=en-gb",
+"score": 6,
+"found_by": "\"Fuel Finder\""
+},
+{
 "id": "309f09cc498d",
 "date": "2025-11-05",
 "company": "",
@@ -1825,6 +1859,23 @@
 "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ace2e43f55f418ca1a8c510ebd073ef&url=https%3a%2f%2fwww.mirror.co.uk%2fnews%2fuk-news%2fsmart-meter-data-could-used-23032063&c=12589207481503802605&mkt=en-gb",
 "score": 4,
 "found_by": "\"smart meter data\""
+},
+{
+"id": "261666ca4bf8",
+"date": "2020-10-21",
+"company": "",
+"what_it_does": "",
+"how_it_uses_smart_data": "Open banking: customer-permissioned bank data",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Banking (payments)",
+"headline": "From compliance to open banking to embedded finance",
+"summary": "Banking, insurance and finance have always been highly centralised in their hierarchy, business models and information systems. But in the digital age, these industries require modification and ...",
+"source": "all thanks to APIs",
+"url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad0b3d4d037441fab97479c4f5e37e0&url=https%3a%2f%2fwww.computerweekly.com%2fopinion%2fFrom-compliance-to-open-banking-to-embedded-finance-all-thanks-to-APIs&c=4756361545215938241&mkt=en-gb",
+"score": 5,
+"found_by": "\"open banking\" UK"
 },
 {
 "id": "e0bebfe8feef",
