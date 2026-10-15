@@ -1,12 +1,29 @@
 {
-"updated": "2026-10-15 16:39 UTC",
+"updated": "2026-10-15 21:09 UTC",
 "last_run": {
 "searches": 80,
-"failed": 13,
-"headlines_read": 356,
-"new": 2
+"failed": 0,
+"headlines_read": 381,
+"new": 4
 },
 "items": [
+{
+"id": "1d520484a7a8",
+"date": "2026-10-15",
+"company": "",
+"what_it_does": "",
+"how_it_uses_smart_data": "Open banking: customer-permissioned bank data",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Banking (payments)",
+"headline": "InsurTech scale-up Fruga raises £1m to scale open banking technology",
+"summary": "",
+"source": "TheBusinessDesk.com",
+"url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZmVYVnBRcTNzTHNvUU1uYVkyYXNTVVhiUWFCMmdsdmR1LWVWRzJLeUN5bDFiYjc2c1FHcVg5T3dzT1BPWnBraUN3ck54ckF5WGJ6S3dXcnJmSXd2SFZ4MndPSTR1Vkt1U0pESGdTNTNyRzQwek5WdmlCZi1SajhOZlhfVF9kWVlzOVRfTWhoZkdxanp0ODhyeXo5djNxd3FWd2ROOTd6ZmJnMHduM2IwZkxhV0U1Rlh3ZzNfN2pyQQ?oc=5",
+"score": 7,
+"found_by": "\"open banking\" UK"
+},
 {
 "id": "19d07a5e5829",
 "date": "2026-10-15",
@@ -57,6 +74,40 @@
 "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNc3k1c28zRlFfcHpKZU96RHRBX0FHaGMtQmY4VGtJWFUwYVlwYUdWT2ZrZTJsWDlTU2prUWdGMXpzaDAzYzRPMk9kZExqYnJKd2RSdnNwenZtRDlmLUxxWlRKMFp5aFdIbjZkcmRQbWRpeWFQYlpEZGY3eUZGbHVlRmI0MkNlX1RoU183X3J6ckFzNFlUUGFpNnpWRXI?oc=5",
 "score": 4,
 "found_by": "\"account-to-account payments\" UK"
+},
+{
+"id": "634e5288e27b",
+"date": "2026-10-15",
+"company": "",
+"what_it_does": "",
+"how_it_uses_smart_data": "Account-to-account payments",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Banking (payments)",
+"headline": "Everything you need to know about A2A payments",
+"summary": "",
+"source": "London Post",
+"url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE94UDRUVVg1MU5qV2RSTnZTdEJrOXE3REw3NTZBeEdMaU53UWhoNGpnd0RvOHowU19LNnUyRVMtc1VNSk5OT3dXUVFrT0prMldfT2N1ZTYxY3YtTUFuMEVfc3c4T0h1eHd4WkppNmgwZXJ1RnBmOUk1R0lKUjNJZw?oc=5",
+"score": 4,
+"found_by": "\"open banking\" UK"
+},
+{
+"id": "027177d56b27",
+"date": "2026-10-15",
+"company": "",
+"what_it_does": "",
+"how_it_uses_smart_data": "Open banking: customer-permissioned bank data",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Banking (payments)",
+"headline": "Westpac NZ sees open banking tool reducing personal loan processing time",
+"summary": "",
+"source": "Interest.co.nz",
+"url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVlM4QzlVc3B3ZFBuNG1ETUJ0UjhwYzRZN2xTVURBUkw5aWNkRnVBOHgxTE9Ba3lYWmlWRnhEYXd5UWhveDZqZ1lWWU5mbHA4WkhmMXJfclE4Ny1xdlRRTWZrYi1XZEFjUjBiVUdhVkxYTzI0Zk8zay1aNHFYMGxxeWFBLXFqZ2ZrXzEzSGNLOFg2R2g4bF9hRVBDTXRSd0tsY3YtUklHbncybTFxdjFGblZlYnhyNGE2dkxKTmR0WTdza0U?oc=5",
+"score": 4,
+"found_by": "\"open banking\" UK"
 },
 {
 "id": "ac3d9e955fae",
@@ -1468,6 +1519,23 @@
 "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ace2e3276f64114a799a8171c66b590&url=https%3a%2f%2fwww.cityam.com%2fsmart-data-is-a-27-8bn-opportunity-for-the-uk%2f&c=5425391622749502625&mkt=en-gb",
 "score": 8,
 "found_by": "\"smart data\" UK"
+},
+{
+"id": "1f3d81b33e88",
+"date": "2025-06-17",
+"company": "",
+"what_it_does": "",
+"how_it_uses_smart_data": "Bank payments made with customer permission (open banking)",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Banking (payments)",
+"headline": "What are the pros and cons of \"Pay by Bank\"?",
+"summary": "25 million transactions a month are with \"Pay by Bank\"- but lots of us have never even heard of it! Finance expert Laura Pomfret has the pros and cons, you don't need a physical card, so it doesn't ...",
+"source": "Bing News",
+"url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad140ad60a147bbb208b5dff407b4aa&url=https%3a%2f%2fwww.bbc.co.uk%2fvideos%2fcwygvv2j5x4o&c=2488937757771230814&mkt=en-gb",
+"score": 4,
+"found_by": "\"pay by bank\""
 },
 {
 "id": "3af50d25c84b",
