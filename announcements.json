@@ -1,10 +1,10 @@
 {
-"updated": "2026-10-16 16:22 UTC",
+"updated": "2026-10-16 20:45 UTC",
 "last_run": {
 "searches": 80,
-"failed": 0,
-"headlines_read": 366,
-"new": 5
+"failed": 21,
+"headlines_read": 346,
+"new": 2
 },
 "items": [
 {
@@ -40,6 +40,23 @@
 "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNFd0ai1JdnpLZkhvUUVpcmZUd2RTNldLVWVuSm0xUDVCaDdvSHRkcGJJQU9Bbk4xaWl6bkFKTktiZEQ5QWg1V2h6RVo4OGQ5Smc4SHY5VEZrX0NRQmtLR3dybXJpMDY5RTZLQjlKOWp5Smg4N2FvMFctQThQNU9vZVJhS0Fya21sRXZYdlJZcWZRdDV1dFJtcE9MRENCZ1hDV0l3UjZHUnBJNzl4?oc=5",
 "score": 5,
 "found_by": "\"open banking\" UK"
+},
+{
+"id": "119c53a50c74",
+"date": "2026-10-16",
+"company": "",
+"what_it_does": "",
+"how_it_uses_smart_data": "Open banking: customer-permissioned bank data",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Banking (payments)",
+"headline": "Finovate Global Scandinavia: Funding Innovations in Open Banking and Personal Finance",
+"summary": "",
+"source": "Finovate",
+"url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUXEyUUlYN1BZamdPVl9xRGtFR3JldkphWEJrak12MTUwOHktTXRfREFxQW1ZMWNPN210R1NfNHlNVjFLUnAwZUdaUzhUTVJpMEtXVE01WjZ6b0RtRGFsdFJjVjd1YnFPSEdEWG9zZDdZWVBEVlFFa19wd2hGUFRXanhHemw5b1JmRzZOeVJiOUZTMmptVXQ3QTlNa1MyRnhLRS1NMHhRMURjQQ?oc=5",
+"score": 5,
+"found_by": "\"pay by bank\""
 },
 {
 "id": "68094c8e62f2",
@@ -125,6 +142,23 @@
 "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPRkdTeC1WWEpYNmpfS211N0d1WGlkSEZVUE9kdnh4NUlzT1RuM2hEMUpiS2taa3JYVVgzVWhWUWlKSEdXNmVlMHNkZHcxVUhIdUdUUGcxVGEzYkhOQnBURGdSc2lBUGtzb1ZvTV9fYmFrVWRYbS02MDVHM3Q3Mk1Tb3NoUDRCQnlyV09JdDBnUXBIbHFWem4zMmFIeHVtcjRjUmtCNVl0RDViU0pOeHo3QkZsOXI4NXlCSW1XSWoyUEZGdFphOXpudUUwbWtVMVpBYWxr?oc=5",
 "score": 4,
 "found_by": "\"customer-permissioned\" OR \"consumer-permissioned\" data"
+},
+{
+"id": "e8ad2173a8b8",
+"date": "2026-10-16",
+"company": "",
+"what_it_does": "",
+"how_it_uses_smart_data": "Account-to-account payments",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Banking (payments)",
+"headline": "ISX Financial, Mastercard partner on global A2A payments",
+"summary": "",
+"source": "The Paypers",
+"url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWVJ1ejdtR0xONkFiMktZM2V0WDUyMmlNcTlxTUM0ZDY0bFRLVkNERGFjNVJ2Vjk2cVVpeFJOcmgzLTVad3pGdkRVUzdXVzdrdV9DaFQ2RFpZakJXak5SbUlsMjJhMjhNRDFKeUtIQVVsU0pSc2VNYUhVeHQzeE04a1VOaVNmVHRGdnZQb1YwX3RkMkJnY19qaVdobzFwNk56WG42Sw?oc=5",
+"score": 4,
+"found_by": "\"open banking\" UK"
 },
 {
 "id": "1d520484a7a8",
