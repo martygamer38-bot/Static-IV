@@ -1,10 +1,10 @@
 {
-"updated": "2026-10-16 11:03 UTC",
+"updated": "2026-10-16 16:22 UTC",
 "last_run": {
 "searches": 80,
-"failed": 11,
-"headlines_read": 363,
-"new": 6
+"failed": 0,
+"headlines_read": 366,
+"new": 5
 },
 "items": [
 {
@@ -21,6 +21,23 @@
 "summary": "",
 "source": "Open Banking Expo",
 "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUl9Sc2VnSm5Bc3lzWjRlempfNkZzREx3eTFLVGdtdkpSb19yRnZnb2k3eFc1YkkzOGlUaVlxQjI3Y3Q4Q3FhX2JjVEZrcWJHdHl0eU00cHpFZWtZRjlXLThZczhta1lsWm1RQWZNT2R6LVFyRGNicVVTMTZGc2JCTjhxZWNqN2JiQ3huTFBEcVU3ZVRnMVNGT2hQbGJiU3dOM1dpdlRIVWpJbXVIMWVjYXkzY0k2OXFhRGhuaTFDSkREdw?oc=5",
+"score": 5,
+"found_by": "\"open banking\" UK"
+},
+{
+"id": "11d70464196c",
+"date": "2026-10-16",
+"company": "",
+"what_it_does": "",
+"how_it_uses_smart_data": "Open banking: customer-permissioned bank data",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Banking (payments)",
+"headline": "NatWest, Nationwide and HSBC UK join CFIT Financial Inclusion Coalition",
+"summary": "",
+"source": "Open Banking Expo",
+"url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNFd0ai1JdnpLZkhvUUVpcmZUd2RTNldLVWVuSm0xUDVCaDdvSHRkcGJJQU9Bbk4xaWl6bkFKTktiZEQ5QWg1V2h6RVo4OGQ5Smc4SHY5VEZrX0NRQmtLR3dybXJpMDY5RTZLQjlKOWp5Smg4N2FvMFctQThQNU9vZVJhS0Fya21sRXZYdlJZcWZRdDV1dFJtcE9MRENCZ1hDV0l3UjZHUnBJNzl4?oc=5",
 "score": 5,
 "found_by": "\"open banking\" UK"
 },
@@ -74,6 +91,40 @@
 "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNSjFkeUFNYmx1TGhiMlY2WDdDcURtQlhKRUo3Wi16X2dqWXhlU2JBTWF5amg3WGE0YXhqNFRKYzU4TWlPU21taXRCTzVnMDhlRk9YOTVuVVQ3RGJRZ3k3R0hPX2xMWFliemhpRzEydEo4Yzlzejk3YnNDREMyVms5YWtWY25LODMwQm1sMlEwQTMxaGJKT3ROXzJpYk1jVEpCTWxLSWRsVGRyM3M3WnJXX29SYkhpNEU2WFJpYjZ4SGF3VGJ5OUxmenBHRGdLb1B4THdjRDVRdDVRV214Q3c?oc=5",
 "score": 4,
 "found_by": "\"pay by bank\""
+},
+{
+"id": "293853861d86",
+"date": "2026-10-16",
+"company": "",
+"what_it_does": "",
+"how_it_uses_smart_data": "Bank payments made with customer permission (open banking)",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Banking (payments)",
+"headline": "What ails New Zealand’s pay by bank?",
+"summary": "What ails New Zealand’s pay by bank? National Business Review",
+"source": "National Business Review",
+"url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8wVWxzRTZLcHFyMmMwbk9xOU5mb2tOTzVKMUxHeVg0MUx0S1hYLVdIOVR3bTA5SGlTeXJCenJxV2RuTEhpdWZYcFBwaHJBTHhuVFFKb09tZFRmYnRDUm1wMVRrQVhKNVFzUVpfckdVX1ZYaDExUHViNDJPU0U?oc=5",
+"score": 4,
+"found_by": "\"pay by bank\""
+},
+{
+"id": "518f0c29b722",
+"date": "2026-10-16",
+"company": "Equifax",
+"what_it_does": "",
+"how_it_uses_smart_data": "Lending decisions using account data",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Cross-sector",
+"headline": "Equifax expands access to cash flow data solutions for confident decisioning",
+"summary": "",
+"source": "TradingView",
+"url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPRkdTeC1WWEpYNmpfS211N0d1WGlkSEZVUE9kdnh4NUlzT1RuM2hEMUpiS2taa3JYVVgzVWhWUWlKSEdXNmVlMHNkZHcxVUhIdUdUUGcxVGEzYkhOQnBURGdSc2lBUGtzb1ZvTV9fYmFrVWRYbS02MDVHM3Q3Mk1Tb3NoUDRCQnlyV09JdDBnUXBIbHFWem4zMmFIeHVtcjRjUmtCNVl0RDViU0pOeHo3QkZsOXI4NXlCSW1XSWoyUEZGdFphOXpudUUwbWtVMVpBYWxr?oc=5",
+"score": 4,
+"found_by": "\"customer-permissioned\" OR \"consumer-permissioned\" data"
 },
 {
 "id": "1d520484a7a8",
@@ -1521,6 +1572,23 @@
 "found_by": "\"Fuel Finder\""
 },
 {
+"id": "a31df1fa7dee",
+"date": "2026-03-12",
+"company": "Henderson Technology",
+"what_it_does": "",
+"how_it_uses_smart_data": "Fuel Finder: shared fuel price data",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Road fuels",
+"headline": "Henderson Technology launches automated Fuel Finder reporting through EDGEPoS",
+"summary": "Henderson Technology has introduced new functionality within its EDGEPoS system that enables forecourt retailers to automatically report fuel price changes to the UK Government’s Fuel Finder service ...",
+"source": "Bing News",
+"url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad24f19f0af4630bbb456da1eb5d0b1&url=https%3a%2f%2fretailtimes.co.uk%2fhenderson-technology-launches-automated-fuel-finder-reporting-through-edgepos%2f&c=15392982679571893992&mkt=en-gb",
+"score": 6,
+"found_by": "\"Fuel Finder\""
+},
+{
 "id": "47e038a91c8e",
 "date": "2026-02-03",
 "company": "",
@@ -1587,6 +1655,23 @@
 "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ace2e36441e41ecb0afcf31c98b79d6&url=https%3a%2f%2fwww.bobsguide.com%2fthe-uks-open-finance-roadmap-nears-its-march-2026-deadline%2f&c=8184908350269429586&mkt=en-gb",
 "score": 10,
 "found_by": "\"open finance\" UK"
+},
+{
+"id": "a3e03d777e8e",
+"date": "2025-07-17",
+"company": "",
+"what_it_does": "",
+"how_it_uses_smart_data": "Smart Data (named directly); Customers share their own data",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Energy",
+"headline": "GUEST ARTICLE: What needs to be in place to ensure smart data in the energy sector works for consumers?",
+"summary": "Smart Data gives consumers the ability to share their data with businesses and other organisations, enabling new uses of data in ways that benefit consumers, society and the economy. One of the key ...",
+"source": "Bing News",
+"url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad24f0f18f54dcd8cb283651b5bd69d&url=https%3a%2f%2fwww.which.co.uk%2fpolicy-and-insight%2farticle%2fguest-article-how-can-we-ensure-smart-data-in-the-energy-sector-works-for-consumers-afOcH5X76kK8&c=410749207002278096&mkt=en-gb",
+"score": 7,
+"found_by": "\"smart data\" UK"
 },
 {
 "id": "efe55a4036c7",
