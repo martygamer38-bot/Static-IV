@@ -1,12 +1,29 @@
 {
-"updated": "2026-10-19 12:39 UTC",
+"updated": "2026-10-19 20:28 UTC",
 "last_run": {
 "searches": 80,
 "failed": 0,
-"headlines_read": 399,
-"new": 9
+"headlines_read": 405,
+"new": 2
 },
 "items": [
+{
+"id": "96048217dbd0",
+"date": "2026-10-19",
+"company": "Equifax",
+"what_it_does": "",
+"how_it_uses_smart_data": "Open banking: customer-permissioned bank data; Open finance: customer-permissioned financial data",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Banking (payments)",
+"headline": "Equifax expands access to cash flow data solutions with Mastercard Open Finance",
+"summary": "",
+"source": "Open Banking Expo",
+"url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRW1BYTZvSW4zRjVsX0ZnckFOSmZ3Ukh1YWlaQzBXLTVjcWdiVEhiQWQtQ0RmSkVQVFJxT05oS0xMWkV4NWhHSEYwcVdjZ25KZGRoOUxreVp3TlpaRUdicXA4RGhWZXRKM1VXNF9oMFRreWdoUGVmNFpwNWZaZHpEZWszZzVSYjQycGpXTmZxMzFjeDlpeVgwYWJFLXc2YXFwZkRVcXVubjJ6OUZNLWpQMDMwQUlFaWQ1?oc=5",
+"score": 12,
+"found_by": "\"open banking\" UK"
+},
 {
 "id": "1dc86477bd76",
 "date": "2026-10-19",
@@ -55,6 +72,23 @@
 "summary": "The table below puts the latest figures in one place. Shares of online spend come from Worldpay's Global Payments Report 2026, which tracks UK e-commerce ...",
 "source": "Bing News",
 "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad60f56bc6f4c62add7301da9b6ce20&url=https%3a%2f%2fretailtimes.co.uk%2fhow-britain-pays-online-in-2026-cards-wallets-and-open-banking-in-one-table%2f&c=10443332410188659947&mkt=en-gb",
+"score": 5,
+"found_by": "\"open banking\" UK"
+},
+{
+"id": "337c8aed1b06",
+"date": "2026-10-19",
+"company": "",
+"what_it_does": "",
+"how_it_uses_smart_data": "Open banking: customer-permissioned bank data",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Banking (payments)",
+"headline": "Open Banking Expo Awards 2026: Winners celebrated in London following 46% rise in entries",
+"summary": "",
+"source": "Open Banking Expo",
+"url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNY3VEVnR0emtJckNVRmhPdjBGN2ZvcXlJVFJhZkxKaVFFRU9yRXJKenJyR1lad0hLMGNOMUJ6aTBDQ1VvR3Q5YmxZUy1XdEFldGg2R2hMdnFyblVXRm1QUnJSZ1lBcUtNaWVBRmdlSmlkNkVaVkdWRENGbldJR3lfeTFDQklkbExnUU5SQk5LNnBZZzh2TjdFYXl6bmNvcG9MM0ZzNlg1VzNqakV3R2pyNDVoOFRTLWwzVlpaYXhDLWl0QVk?oc=5",
 "score": 5,
 "found_by": "\"open banking\" UK"
 },
