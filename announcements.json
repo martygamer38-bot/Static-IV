@@ -1,12 +1,46 @@
 {
-"updated": "2026-10-19 20:28 UTC",
+"updated": "2026-10-20 11:12 UTC",
 "last_run": {
 "searches": 80,
 "failed": 0,
-"headlines_read": 405,
-"new": 2
+"headlines_read": 410,
+"new": 3
 },
 "items": [
+{
+"id": "62b854b06228",
+"date": "2026-10-20",
+"company": "",
+"what_it_does": "",
+"how_it_uses_smart_data": "Bank payments made with customer permission (open banking)",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Banking (payments)",
+"headline": "Pay by Bank Reaches More UK Checkouts as Card Frustration Grows",
+"summary": "",
+"source": "The Solihull Observer",
+"url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUlNyWUpZU1VMQXdzb3VOZUZRZG1icWxMQy1xQVVtVmNTc1RUWlpmRnBITVdYcHhDbXZaT2JwWEV5eFhVczhWOFdEdEJIbDJOMVV3aHB0TnFNbE5MMGFWaEtnWVh3Z3JTemJ0NnVYY3RCc3kzTm81WVBHNXlxM2lzR185MlZnV1V6U2gyaFVoaGdibnpHMTUySFYtN0cxZ2NiTHlza2Z4NVo?oc=5",
+"score": 5,
+"found_by": "\"pay by bank\""
+},
+{
+"id": "70c127c6c3e4",
+"date": "2026-10-20",
+"company": "",
+"what_it_does": "",
+"how_it_uses_smart_data": "Bank payments made with customer permission (open banking)",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Banking (payments)",
+"headline": "Pay by Bank sector poised for growth says survey",
+"summary": "",
+"source": "Finextra Research",
+"url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPREV5eTBlRFlHYzF0TGM3dWdtVTFsZ2g1UXBzS1E5YkZIcE80TEN6WGxxMHFmTVNfU0RPNG45X0VPVnFwc0ZaREZPa2FwUEFxTGh0S0FXN044M21OdVRCZlVFYWVLaHFaZlBhZDZIc2Vwdnkta2xEY0xIaWlLa1p0MVYtaVFmMjNwanBzN0tjQkV3REYzdlE?oc=5",
+"score": 4,
+"found_by": "\"pay by bank\""
+},
 {
 "id": "96048217dbd0",
 "date": "2026-10-19",
@@ -91,6 +125,23 @@
 "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNY3VEVnR0emtJckNVRmhPdjBGN2ZvcXlJVFJhZkxKaVFFRU9yRXJKenJyR1lad0hLMGNOMUJ6aTBDQ1VvR3Q5YmxZUy1XdEFldGg2R2hMdnFyblVXRm1QUnJSZ1lBcUtNaWVBRmdlSmlkNkVaVkdWRENGbldJR3lfeTFDQklkbExnUU5SQk5LNnBZZzh2TjdFYXl6bmNvcG9MM0ZzNlg1VzNqakV3R2pyNDVoOFRTLWwzVlpaYXhDLWl0QVk?oc=5",
 "score": 5,
 "found_by": "\"open banking\" UK"
+},
+{
+"id": "60874c5a5234",
+"date": "2026-10-19",
+"company": "",
+"what_it_does": "",
+"how_it_uses_smart_data": "Lending decisions using account data",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Cross-sector",
+"headline": "Prism Data Secures $20M Series A to Scale AI-Powered Cash Flow Underwriting",
+"summary": "",
+"source": "FF News",
+"url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORUExVUJVMjU5UWlDVnhpVzlJQm83NzlBcjBoa29YcEpGMUJqOWJzVm9YZEFyUEVWUmh3MGgtczlRaEJDMTM0RUIzd19zbHJvY2FNTm14b1oxeURwSDlzXzVqVkZ4YzF4dzE2WHAwem42dmhrcGFBYVpnS2tUZDJ2ZVBKWTV3VnQxV3VSWlN3ek41UjZvckNwaHlrY2hJaHF4?oc=5",
+"score": 4,
+"found_by": "\"bank transaction data\" lender UK"
 },
 {
 "id": "532a766b4b19",
