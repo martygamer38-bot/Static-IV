@@ -1,12 +1,46 @@
 {
-"updated": "2026-10-20 11:12 UTC",
+"updated": "2026-10-20 16:37 UTC",
 "last_run": {
 "searches": 80,
 "failed": 0,
-"headlines_read": 410,
+"headlines_read": 411,
 "new": 3
 },
 "items": [
+{
+"id": "ab03de78bbb8",
+"date": "2026-10-20",
+"company": "Fintech TrueLayer",
+"what_it_does": "",
+"how_it_uses_smart_data": "Open banking: customer-permissioned bank data",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Banking (payments)",
+"headline": "Fintech TrueLayer raises $27 mn to expand European open banking payments",
+"summary": "",
+"source": "Beinsure",
+"url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5NNUptZW9zUERQUl84eDBEXzV6NVF1ck1qUi1TSWtzSm1oenFfMkswUlYzc0M0bXFVMkRfS1k0aENldGlDTm9KRkxpUURqZC1tMENaMmViSmFxUlItOHJibTVvbHhjQzQ?oc=5",
+"score": 6,
+"found_by": "\"open banking\" UK"
+},
+{
+"id": "556ea4f4b777",
+"date": "2026-10-20",
+"company": "",
+"what_it_does": "",
+"how_it_uses_smart_data": "Open banking: customer-permissioned bank data",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Banking (payments)",
+"headline": "CMA outlines proposals to unlock contactless technology on Apple iPhone",
+"summary": "",
+"source": "Open Banking Expo",
+"url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTHg4aVZVdlBRYTFsZXFxS1hsY2RYcDNfMXdfSkNpMTE0ZUZmNk5fbWtQdjcxYWJxZDUtU25nanE0ZzhDcnNQQnFzLWMtb2ZMOVNmTmJrcVJsWEpySnEtQXRTWFQyM1pZbjVHOW54aGxaZzlSZFE5T2JhcjRROFJINXJpTGRuSGpUZW13akxCbFlaYktKOHBPR1pQY0ZEWjdOVUlVYlZGbDdBR0kyVkE?oc=5",
+"score": 6,
+"found_by": "\"open banking\" UK"
+},
 {
 "id": "62b854b06228",
 "date": "2026-10-20",
@@ -40,6 +74,23 @@
 "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPREV5eTBlRFlHYzF0TGM3dWdtVTFsZ2g1UXBzS1E5YkZIcE80TEN6WGxxMHFmTVNfU0RPNG45X0VPVnFwc0ZaREZPa2FwUEFxTGh0S0FXN044M21OdVRCZlVFYWVLaHFaZlBhZDZIc2Vwdnkta2xEY0xIaWlLa1p0MVYtaVFmMjNwanBzN0tjQkV3REYzdlE?oc=5",
 "score": 4,
 "found_by": "\"pay by bank\""
+},
+{
+"id": "ca6ff5fcf73e",
+"date": "2026-10-20",
+"company": "Westpac NZ",
+"what_it_does": "",
+"how_it_uses_smart_data": "Open banking: customer-permissioned bank data",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Banking (payments)",
+"headline": "Westpac NZ open banking users jump six-fold as access push widens",
+"summary": "",
+"source": "NZ Advisor",
+"url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVjQ0MXJrTGlhYVZZc1dFeHRxZHp6bVFTYTc0SEl5Wlh2YzIwX3ZSd0l3X3IyRTQyZjQzaWNSUVVLcUNiZkVqbktDMVFFck44MklQaVB2cXFuMVNlM3BtbXAzZlBUQ3p2YTlseWwzUTJnZjJlZEtGaXNJTmhDcmhjR2JZZ1NWSUo3OXl3NXZ2TjlHekc0SWlDd1VuRHJobGlWMFhqTzJMVnNzWXdRUHAxbQ?oc=5",
+"score": 4,
+"found_by": "\"income verification\" open banking"
 },
 {
 "id": "96048217dbd0",
