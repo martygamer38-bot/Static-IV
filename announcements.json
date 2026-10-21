@@ -1,12 +1,46 @@
 {
-"updated": "2026-10-20 21:26 UTC",
+"updated": "2026-10-21 11:28 UTC",
 "last_run": {
 "searches": 80,
-"failed": 0,
-"headlines_read": 423,
-"new": 1
+"failed": 13,
+"headlines_read": 362,
+"new": 2
 },
 "items": [
+{
+"id": "1af37bde1ffd",
+"date": "2026-10-21",
+"company": "",
+"what_it_does": "",
+"how_it_uses_smart_data": "Open banking: customer-permissioned bank data",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Banking (payments)",
+"headline": "Open Banking payments must overcome reliability and data gaps to compete with cards, industry leaders warn",
+"summary": "",
+"source": "Open Banking Expo",
+"url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNc0NsQ3VkaDV3Q1l3VDlFeTZubUlWS3JGeThTS19vWEhMVHNDTWd5dmlaaGRLVXU2SWFVaUlZNUhqVUNmc2VqWU1ndUJWQ2wyRDZVeXY1bTU5Z3NieWFSYS0yTTV5VnpqTjZpZ0c4Z2NQUy1hbVBua0VWX3V6ZVl0WDNRV1dfREVrNU1aZEJkU0VwTEJaTTQwWkthS1FYZWRRa2xTd2RISDZ5Qm9wQ05Kb19yZWFSSjE1MWszS0JCN0lzNjBaQ3Y5TXBWdldTclptZnMtSG1GS1dWWVk?oc=5",
+"score": 4,
+"found_by": "\"open banking\" UK"
+},
+{
+"id": "76380d129a08",
+"date": "2026-10-21",
+"company": "",
+"what_it_does": "",
+"how_it_uses_smart_data": "Bank payments made with customer permission (open banking)",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Banking (payments)",
+"headline": "Elderly people buy gold, confused when having to pay by bank transfer",
+"summary": "",
+"source": "Laodong.vn",
+"url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPb2pHaVRETE9UcG0xMGVaSGpkQVhuU1RVRmhYOVBQeG92TGJ5NzR3eGRmLTNuWlk4Mk9GWlMwVDFsN0cwU19aT3VXN0ZTdmw5WFJhd1dvVE5KMlJ2dFRMdTFwQXBkeTZoYXdKLVVSdGN2RTFody1wVDdKWjFLUHlpWGZ5U1JuUVhfcVF4RTVNMzdhRTNMdDBiSmNPcFhlMW5VTE9IZnpoTXBmcmVNVGlWQ25QZHhlYjd2cFJ5Ug?oc=5",
+"score": 4,
+"found_by": "\"pay by bank\""
+},
 {
 "id": "ab03de78bbb8",
 "date": "2026-10-20",
