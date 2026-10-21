@@ -1,10 +1,10 @@
 {
-"updated": "2026-10-21 16:55 UTC",
+"updated": "2026-10-21 21:27 UTC",
 "last_run": {
 "searches": 80,
-"failed": 0,
-"headlines_read": 418,
-"new": 7
+"failed": 15,
+"headlines_read": 363,
+"new": 3
 },
 "items": [
 {
@@ -22,6 +22,23 @@
 "source": "Open Banking Expo",
 "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQXE3RzFwd0dkUUdaeF9ZbGJQY1hzX3diSmM1NnQxS3JtWDJfSUx2bHpxMXRzazQ1bkhILXU5eUE2VHVodXU5RUFUX3dBS2I1SC1rQlh3TnlXSmZuUmNiT1hOcm1RcXUwRmtkTEExWC1NNTNJUDBtZWI1QWQ2MXRuNHBIMA?oc=5",
 "score": 8,
+"found_by": "\"open banking\" UK"
+},
+{
+"id": "dc5d59b9d786",
+"date": "2026-10-21",
+"company": "",
+"what_it_does": "",
+"how_it_uses_smart_data": "Open banking: customer-permissioned bank data; Uses customer bank / transaction data",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Banking (payments)",
+"headline": "The Engine Room - From access to understanding: Open Banking data in real lending decisions",
+"summary": "",
+"source": "Open Banking Expo",
+"url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOYWh5cHdoNkNGcXZ6dzZoRWFsWnVNS2FtcENaMUJmTF9qX1lCdVJiNFVlMk5Ic3pqX19kTm5RMWlpWXZNZVdySXp5Y2ZrTUVUYjBoMEFIdnI4VGh5X1FBUjFnamxySHJlSU9Iay1PWDZJZlowVk1WUDNOSGVuSEVUY3cxaWU5NmJaU1o0bWxzdDhtbXlIMmZPS2tXRERTYk1sUzkzX08wTlRHcjZPd3FhZDh1QW10RllERUt3M2U2T0pIQVpSakczNWhB?oc=5",
+"score": 7,
 "found_by": "\"open banking\" UK"
 },
 {
@@ -74,6 +91,23 @@
 "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPU3NORS1jV1ZLMjlLSXRfcWYtTzVMWFhNaDhVUmRNTnZySUg4UHNhRTJOZjVkVzFzM2RrMWJvNnVDQlBWUDJWUi04RlR5SHVEM1pYWGdLYlVFMm11ZTFNeS1YcDJ5T1YyUFZ1d0lNY3N4X3htemJWOXhicTRxOE1JSlNlNXZhYU1FSjZ1VElzY0xtMDFDSjNJYlNzWnladEYtTXRLTDRObUJMUQ?oc=5",
 "score": 5,
 "found_by": "\"open banking\" UK"
+},
+{
+"id": "2647f5d0e55e",
+"date": "2026-10-21",
+"company": "Prism Data",
+"what_it_does": "",
+"how_it_uses_smart_data": "Lending decisions using account data",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Digital markets",
+"headline": "Prism Data lands $20m Series A to scale cashflow underwriting platform",
+"summary": "",
+"source": "FinTech Futures",
+"url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQnFybnpKTjFtSFZxTWZnSDBPSEZJWlJOY29EQnZiOVNPeTl3dDZlMFdxS1doc21wQU5kTTlZNTJvY1NhTnE4b1ZiNFFNS1ZoT0hZeFh6UW5xTXFFTTN0OFpzYUl6d2NvLUl3SWlzdWNFTmxsOGhFcFlJRWNHWDZUcTNmV2RLUlNNMzR1V3RxRk5jYlZIcmhF?oc=5",
+"score": 5,
+"found_by": "\"bank transaction data\" lender UK"
 },
 {
 "id": "1af37bde1ffd",
@@ -159,6 +193,23 @@
 "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUGxaRGRDVTBQWHNBNm5UNmZpNncxRlRTY0hjbHlJR3gtTGJqMml1OXBOOTF2elBGUkpTUjZESkxDdEVuODVuTE9YNjNzc1k2Mmp2elg4M3ZFV3UtcWtyMDFNbi1UUDNoZTdXLWowZWZycXFTLXNYWmlDNDRwQUMtVEdIMVVTTmpmUjkybDF3MDdyOERNNnp1YjdUYnZORGhvcEx0VnU4aGxyc3dDdFJPVmFBUVRtZ1ZLYWRMMWlqbjM?oc=5",
 "score": 4,
 "found_by": "\"data sharing\" consumers fintech UK"
+},
+{
+"id": "6a4b295de1c7",
+"date": "2026-10-21",
+"company": "Equifax",
+"what_it_does": "",
+"how_it_uses_smart_data": "Open finance: customer-permissioned financial data",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Financial services",
+"headline": "Equifax adds Mastercard Open Finance data",
+"summary": "",
+"source": "The Paypers",
+"url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWmh2d1ZDOEVCdW1RTnRhWXJiZ1Blcl9TQkVPRkxpRHoxcm41dHpDUDhvOE9VWnlHdFVrRWhuZzVNQW42czNVekszMnY0d3Z0ZkhCSmI2a1lQNklublV6ZXdwdjhGeF93TFdseC16UmlRSk0wOGZuZFlPVVFXR0Y2N2dBSE8zVF9XU0lzODNjbF9sS3Qxd2pRZnVVYVhhQXpGMWdiTw?oc=5",
+"score": 4,
+"found_by": "\"customer-permissioned\" OR \"consumer-permissioned\" data"
 },
 {
 "id": "ab03de78bbb8",
