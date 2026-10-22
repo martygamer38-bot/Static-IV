@@ -1,12 +1,63 @@
 {
-"updated": "2026-10-22 11:28 UTC",
+"updated": "2026-10-22 16:55 UTC",
 "last_run": {
 "searches": 80,
-"failed": 9,
-"headlines_read": 376,
-"new": 10
+"failed": 0,
+"headlines_read": 397,
+"new": 4
 },
 "items": [
+{
+"id": "bbcaee396886",
+"date": "2026-10-22",
+"company": "",
+"what_it_does": "",
+"how_it_uses_smart_data": "Smart Data (named directly); Open banking: customer-permissioned bank data",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Banking (payments)",
+"headline": "Inside the UK Government’s Smart Data Council: Scoops, spills & straight answers",
+"summary": "",
+"source": "Open Banking Expo",
+"url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeTNZcHc3cTV2QTZ3dGlDQ3E1a3J6QWJxYTBoazQ1U3pMa2ZlVGtBU0hVT0tjMHVDY2o3VU8zblV2R0VHZnhJS3VvaEg0M3E5SkJZSGlONnZ4Z2l3ekVCRHNJQTFJNHpXQ0tpeTNBb0I1MlZYdDVXbWxkYmMxUUhTd3dyQWJkX0s3aHNreUNkWHRhNzhRM3N1SGU0R3RKc21nUWRkY1RSV2JMTW9wTnhlY29CLUtrQU05?oc=5",
+"score": 9,
+"found_by": "\"smart data\" UK"
+},
+{
+"id": "176be118afce",
+"date": "2026-10-22",
+"company": "",
+"what_it_does": "",
+"how_it_uses_smart_data": "Open banking: customer-permissioned bank data; Bank payments made with customer permission (open banking)",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Banking (payments)",
+"headline": "Closing the charity sector’s £82m Pay by Bank gap",
+"summary": "",
+"source": "Open Banking Expo",
+"url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPaTJueG9abTBsY2NIdXVKZ0s1WGczRGNRQ2c4TnF6YWh3V25lQW03UDBDUmdEZVBSSXRUcmhiZ0xqZVdqdkpZZ0VjV0dCeG9GS0N0NEduVXI3SVVFQ25BREcxaGVkOXRnYkxkQVdJNjVTUUM2ak1zVHlGOGlpb3pyenRvZEk5M0cyeXgtTUhWcWVLbkU?oc=5",
+"score": 9,
+"found_by": "\"open banking\" UK"
+},
+{
+"id": "396e16ea14f9",
+"date": "2026-10-22",
+"company": "",
+"what_it_does": "",
+"how_it_uses_smart_data": "Open finance: customer-permissioned financial data",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Banking (payments)",
+"headline": "TD Bank U.S. Partners with Akoya to Scale Secure Open Finance API Connectivity",
+"summary": "",
+"source": "FF News",
+"url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYmUtMTA1SkdFc05yNDZWQm5Zd2l2M1hpbHZTQWpWV2YzcEQ2V3B6dk1ESWNSUjF5aXhGX2FEN1pHQ2ZxRF92MTJ0MlFGZEdaMmQ0dkpaUEZxdVJZVk4tbUxCdXlHN2hfNjNRVVBRM3V5WGdKdDBGb2R2VTdCdVI1X1hkczFYU2QwcldkeE9wNmluRG1KdnlYWHVQNlZtc21YS0F3ZUZXd3pfOTh0V1h3NmwxQQ?oc=5",
+"score": 6,
+"found_by": "\"open finance\" UK"
+},
 {
 "id": "f42ede9dd8a2",
 "date": "2026-10-22",
@@ -74,6 +125,23 @@
 "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMTlaSDY1aHM5bDhhdW9Wc1V2QVMtQzA1VC1oWUpRTXV1VFluVnNSRDRMTXpBQk15RU1kQkZHMVFTcXFIeFQ3d0hTVWRuTm5HQXNvandnanpDV2gyR3NhbWNybzBrLUJCUjVQY1RSdGdyZ21sUnFMVDZMZ1p3Z09McU9QLWxHNlRkWGJUcUlkM0Vrc3pSb21uRnAzWFIwcmIwTkpwSFV2SXJGSGVqMVh2UXJNU0N1ZWZKdWR0cEdCS0wyaFlT?oc=5",
 "score": 4,
 "found_by": "\"rent reporting\" credit score UK"
+},
+{
+"id": "06d822e30b01",
+"date": "2026-10-22",
+"company": "",
+"what_it_does": "",
+"how_it_uses_smart_data": "Bank payments made with customer permission (open banking)",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Banking (payments)",
+"headline": "Pay by Bank Poised for Its Next Phase of Growth, Industry Survey Finds",
+"summary": "",
+"source": "Financial IT",
+"url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOS2NDWnU4QXk5YjZ1SHcxSk1scEhHNzBPRjE3WWc4MGF3TUxNTllWT3JCa1M1eHlmZ2xSSzl4MENZRlBHTVAxb3VXVkp3Skt5VnJ0QjRweGxDbXU0bFIwUlJkelFjaEJZNGJ6eVNXRnZ3Nm9SZ2ladDdoWG5YV293akNabmxRRHpIUXdZVGJVMDktMGJnNmlHSl9nY0hsZw?oc=5",
+"score": 4,
+"found_by": "\"pay by bank\""
 },
 {
 "id": "a70a357f7688",
