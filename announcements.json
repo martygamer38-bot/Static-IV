@@ -1,10 +1,10 @@
 {
-"updated": "2026-10-22 16:55 UTC",
+"updated": "2026-10-22 21:22 UTC",
 "last_run": {
 "searches": 80,
 "failed": 0,
-"headlines_read": 397,
-"new": 4
+"headlines_read": 401,
+"new": 1
 },
 "items": [
 {
@@ -363,6 +363,23 @@
 "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObE0tRVhYUWxIUHhDdDdFb29mUjVDQ1ZXaEhiR0NRelRsVlpXZkVkbUN2Nkl6T0l4bjVxRl9oY1EyYzBNSlNoYmIzbHNDbGVTOVdhVGVqa3FQby15Tl95VzlFRUJpcU9VM2s1Rl91UzZVX1BJOTEtSVFYZDZ5NjJuNzdHSks3cUxnV1pLOU90N1Q2OUE?oc=5",
 "score": 4,
 "found_by": "\"upfront information\" property"
+},
+{
+"id": "a3783e325901",
+"date": "2026-10-21",
+"company": "",
+"what_it_does": "",
+"how_it_uses_smart_data": "Open banking: customer-permissioned bank data",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Banking (payments)",
+"headline": "Moneyhub and Know Your Dosh Bring Open Banking to Family Financial Planning",
+"summary": "",
+"source": "Financial IT",
+"url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNXlaZ3RqNTJ2WWNOVy1KLTJiTXg1RktQX083OTRhYkxVcTBBZlIyc1l1S0sxZVVHUGl3MXNQcWhwWWV3elliaWFCa2o1djlEZUsxejEzTGlOX3lWUnJFa0VydHdTUGdaNjFSMDRaMU5YeGJfS3A3YjZHT2Y2RGQxXzdfU1ZEa3dJTmdrRzVNR2QwWF9pdllwdElLVVNsZUxLQnN4ZG01Ry1ySkVCNEE?oc=5",
+"score": 4,
+"found_by": "\"open banking\" UK"
 },
 {
 "id": "ab03de78bbb8",
