@@ -1,9 +1,9 @@
 {
-"updated": "2026-10-23 11:18 UTC",
+"updated": "2026-10-23 16:47 UTC",
 "last_run": {
 "searches": 80,
-"failed": 12,
-"headlines_read": 350,
+"failed": 0,
+"headlines_read": 378,
 "new": 1
 },
 "items": [
@@ -2998,6 +2998,23 @@
 "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad60f622aac442c85ac37ba156ca809&url=https%3a%2f%2fwww.politicshome.com%2fnews%2farticle%2flabour-mp-demands-investigation-delayed-pensions-dashboard-programme&c=6051955396615268815&mkt=en-gb",
 "score": 4,
 "found_by": "\"pensions dashboard\""
+},
+{
+"id": "bf5dd02ee431",
+"date": "2023-07-13",
+"company": "",
+"what_it_does": "",
+"how_it_uses_smart_data": "Fuel Finder: shared fuel price data",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Road fuels",
+"headline": "What will the CMA’s ‘fuel finder’ mean for independent forecourts?",
+"summary": "The new scheme is expected to make prices more competitive A new government scheme aimed at helping drivers find the cheapest prices at the pumps is in the works. On the back of the Competition & ...",
+"source": "Bing News",
+"url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adb8f4a65b645e4b04e18e156d8a508&url=https%3a%2f%2fwww.thegrocer.co.uk%2fanalysis-and-features%2fwhat-will-the-cmas-fuel-finder-mean-for-independent-forecourts%2f681193.article&c=17322267914898764502&mkt=en-gb",
+"score": 6,
+"found_by": "\"Fuel Finder\""
 },
 {
 "id": "9788450c79b4",
