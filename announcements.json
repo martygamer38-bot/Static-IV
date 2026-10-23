@@ -1,9 +1,9 @@
 {
-"updated": "2026-10-23 16:47 UTC",
+"updated": "2026-10-23 21:13 UTC",
 "last_run": {
 "searches": 80,
 "failed": 0,
-"headlines_read": 378,
+"headlines_read": 339,
 "new": 1
 },
 "items": [
@@ -2522,6 +2522,23 @@
 "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ace2e36441e41ecb0afcf31c98b79d6&url=https%3a%2f%2fwww.bobsguide.com%2fthe-uks-open-finance-roadmap-nears-its-march-2026-deadline%2f&c=8184908350269429586&mkt=en-gb",
 "score": 10,
 "found_by": "\"open finance\" UK"
+},
+{
+"id": "081577ced8b0",
+"date": "2025-07-22",
+"company": "",
+"what_it_does": "",
+"how_it_uses_smart_data": "Bank payments made with customer permission (open banking)",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Banking (payments)",
+"headline": "Businesses Use Credit Card Tactics to Boost Pay by Bank",
+"summary": "A new report suggests that while initial cost concerns may deter merchants from adopting pay by bank, the long-term financial and operational benefits for consumer-facing businesses could be ...",
+"source": "Bing News",
+"url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adbcd9e0ad64f6fa406c72dfbfca3ce&url=https%3a%2f%2fwww.pymnts.com%2fnews%2fpayment-methods%2f2025%2fbusinesses-use-credit-card-tactics-to-boost-pay-by-bank%2f&c=5011807354735999290&mkt=en-gb",
+"score": 4,
+"found_by": "\"pay by bank\""
 },
 {
 "id": "a3e03d777e8e",
