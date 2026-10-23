@@ -1,12 +1,29 @@
 {
-"updated": "2026-10-22 21:22 UTC",
+"updated": "2026-10-23 11:18 UTC",
 "last_run": {
 "searches": 80,
-"failed": 0,
-"headlines_read": 401,
+"failed": 12,
+"headlines_read": 350,
 "new": 1
 },
 "items": [
+{
+"id": "65fb4fc872e4",
+"date": "2026-10-23",
+"company": "",
+"what_it_does": "",
+"how_it_uses_smart_data": "Smart Data (named directly)",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Financial services",
+"headline": "Lenders urged not to wait for Smart Data to fix mortgage delays",
+"summary": "",
+"source": "www.mpamag.com",
+"url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVTlHVXJlN0k1LW55VkZZVEQ2dWZfbm5TeVlXdFY0OVM4Qnl5Wjlocll2UGN6VXotUWJGY2lSMkpQdC1VWVlmTnhCY200U0oxbHlBQlFLNUQ1WmN3OHIyNGR3RmRfNGdhLUd1bFd4YlRzeWwyN0h0dEhNclVtSkhaemFxQXNlaXR4dWN5eWN4cjF5aWJ1ZXVsVnI1b3NMM1pELXpmbVNERXMtalZhR1E?oc=5",
+"score": 4,
+"found_by": "\"smart data\" UK"
+},
 {
 "id": "bbcaee396886",
 "date": "2026-10-22",
