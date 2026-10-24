@@ -1,9 +1,9 @@
 {
-"updated": "2026-10-23 21:13 UTC",
+"updated": "2026-10-24 13:09 UTC",
 "last_run": {
 "searches": 80,
 "failed": 0,
-"headlines_read": 339,
+"headlines_read": 388,
 "new": 1
 },
 "items": [
@@ -2691,6 +2691,23 @@
 "source": "Bing News",
 "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad9f3171d6c473e8e02fb445296efc2&url=https%3a%2f%2fwww.finextra.com%2fpressarticle%2f105443%2facquiredcom-launches-solution-for-variable-recurring-payments-adoption&c=1229933558517516597&mkt=en-gb",
 "score": 5,
+"found_by": "\"variable recurring payments\""
+},
+{
+"id": "062b5b844405",
+"date": "2025-05-02",
+"company": "",
+"what_it_does": "",
+"how_it_uses_smart_data": "Bank payments made with customer permission (open banking)",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Banking (payments)",
+"headline": "Acquired.com Joins Initiative to Create Central Operator for Commercial Variable Recurring Payments",
+"summary": "Commercial variable recurring payments are a new payment method that enables customers to authorize third-party providers to initiate payments of varying amounts from their bank accounts to businesses ...",
+"source": "Bing News",
+"url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adcadac8f354debb6b83b0443a6f69c&url=https%3a%2f%2fwww.pymnts.com%2fnews%2fpayments-innovation%2f2025%2facquired-com-joins-initiative-create-central-operator-commercial-variable-recurring-payments%2f&c=3745143383297962001&mkt=en-gb",
+"score": 4,
 "found_by": "\"variable recurring payments\""
 },
 {
