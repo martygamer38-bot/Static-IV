@@ -1,12 +1,29 @@
 {
-"updated": "2026-10-24 13:09 UTC",
+"updated": "2026-10-25 13:35 UTC",
 "last_run": {
 "searches": 80,
 "failed": 0,
-"headlines_read": 388,
-"new": 1
+"headlines_read": 351,
+"new": 3
 },
 "items": [
+{
+"id": "c793121a06b4",
+"date": "2026-10-23",
+"company": "",
+"what_it_does": "",
+"how_it_uses_smart_data": "Bank payments made with customer permission (open banking)",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Banking (payments)",
+"headline": "Pay by Bank moves Into the checkouts of everyday UK businesses",
+"summary": "",
+"source": "UK News Group",
+"url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRWh3dWJnX0ZWa3JkeWVHTzJZZ1ZEZFRHV2F2T293Y2p3MDRkNTVDNGFoSi1HUXdqVDZaSHhxQnV4UjlWWkhSNGdjWENmQzJUZ2NCWUxXa3ZYMVo3am84ZzEyd3N0WEJzTWFFSTRnQ1JQcVFmZTFzMWNnRjF2R01XYUROaDlqUlIxOUNweE1vaWM1ck9aTC1Idg?oc=5",
+"score": 5,
+"found_by": "\"open banking\" UK"
+},
 {
 "id": "65fb4fc872e4",
 "date": "2026-10-23",
@@ -2524,6 +2541,23 @@
 "found_by": "\"open finance\" UK"
 },
 {
+"id": "5b41b8c4f0cb",
+"date": "2025-10-29",
+"company": "",
+"what_it_does": "",
+"how_it_uses_smart_data": "Pensions dashboard: customer-requested pension data",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Financial services",
+"headline": "Pensions dashboards: 5 key questions answered",
+"summary": "With a background in financial journalism across national titles, Ruby loves helping people take control of their money and specialises in pensions, tax, banking and benefits. Save article Set as ...",
+"source": "Bing News",
+"url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ade0574f7404cb49a0db8fe855876be&url=https%3a%2f%2fwww.which.co.uk%2fnews%2farticle%2fpensions-dashboards-5-key-questions-answered-a1GFF9r2ggJD&c=2615348790223517491&mkt=en-gb",
+"score": 4,
+"found_by": "\"pensions dashboard\""
+},
+{
 "id": "081577ced8b0",
 "date": "2025-07-22",
 "company": "",
@@ -3066,6 +3100,23 @@
 "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ace2e3491aa4097b65894e265f1b4a3&url=https%3a%2f%2fwww.ft.com%2fcontent%2f2b227007-3468-4b15-8117-68a30e0023a0%3fshareType%3dnongift&c=18014673316004362845&mkt=en-gb",
 "score": 5,
 "found_by": "\"open banking\" UK"
+},
+{
+"id": "b6992086346d",
+"date": "2023-03-22",
+"company": "",
+"what_it_does": "",
+"how_it_uses_smart_data": "Property data shared up front (homebuying)",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Property",
+"headline": "National Conveyancing Week: upfront information 'myths' debunked",
+"summary": "Conveyancers providing upfront information are averaging 12 weeks to complete a transaction, a stakeholder group helping the government improve the home buying and selling process has revealed.",
+"source": "Bing News",
+"url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ade0597198d45218a61618eba9507d0&url=https%3a%2f%2fwww.lawgazette.co.uk%2fnews%2fnational-conveyancing-week-upfront-information-myths-debunked%2f5115508.article&c=13725024242024343276&mkt=en-gb",
+"score": 4,
+"found_by": "\"upfront information\" property"
 },
 {
 "id": "eb2040b12aaf",
