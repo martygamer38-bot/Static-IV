@@ -1,10 +1,10 @@
 {
-"updated": "2026-10-27 17:45 UTC",
+"updated": "2026-10-27 21:59 UTC",
 "last_run": {
 "searches": 80,
 "failed": 0,
-"headlines_read": 333,
-"new": 5
+"headlines_read": 305,
+"new": 3
 },
 "items": [
 {
@@ -23,6 +23,40 @@
 "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUEh0ZGltczRDY1pmbW8zalc2cHJOSGRZZFotVHhOUE9tY0owSE5McEZGTi1FLW1BOWFOelVSc1FDVTZ3YmFNeEdYbDRtclNLUTcxZmxTZGF6VHJxbHk3UnV5OTVZVHY3b01jamVNenNZS2tLbjdxRkh6MUtaeU9rYndCSy1pUG5Ta2I5MUswQmtOOG9SbnRsVWZzWm5rTTY2TmR2b1Q0OA?oc=5",
 "score": 8,
 "found_by": "\"open finance\" UK"
+},
+{
+"id": "d79f9638c6e4",
+"date": "2026-10-27",
+"company": "",
+"what_it_does": "",
+"how_it_uses_smart_data": "Open banking: customer-permissioned bank data",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Banking (payments)",
+"headline": "Interview: Brite Payments CEO on FCA EMI licence, open banking and autonomous AI commerce",
+"summary": "",
+"source": "Electronic Payments International",
+"url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNT3U0NlhueVlsWmhOeUJMaVFHLXREQXpFVE5GRTI5bkdqYURObldRbXpZWjlNMWpvSnc1Mlo3YmNfRzF1RlpDYlc1VUY1dnc0N3JHQVlvQ2dibHBnOEJxWWFFNmlqa2tIUy1DX2txOGtjX19aOTI4anlESl9iUWZFWUFjSEVval9yaVFLaTdIZ0hWRlBua0EzU2t6WEF4aGZzSnI4RkZvbWV2QXNtYnQxbEF3UFFBQk9zYnlPNldVbDhKTTVPcjQ2NzcwS2dWVUtqWEFJa0w5c2V2U2FhQ2c?oc=5",
+"score": 6,
+"found_by": "\"open banking\" UK"
+},
+{
+"id": "5ed62d7f9f83",
+"date": "2026-10-27",
+"company": "",
+"what_it_does": "",
+"how_it_uses_smart_data": "Customer energy usage data; Data sharing",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Energy",
+"headline": "Power Ministry issues National Electricity Data Sharing Framework 2026",
+"summary": "",
+"source": "Power Peak Digest",
+"url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMTZadVBRZVZtcXF3VkEwOEdvQkxEVGdkVGEzeVR0WjRCZi03RlN2LU5aV21HbERIUkQzTnlwdlFSVlB2Nm9GeXo4RUd0YzAxcElkMGc3M19wbl9lSjZzOGxCWl85WUZhcHhJaXZRdV9YdkIyeVJOc19KTWNLdmRtcWhSYjVqLXB1d0lKTzJNUjFKTWdtNng4?oc=5",
+"score": 5,
+"found_by": "\"smart meter data\""
 },
 {
 "id": "f9e0a9d5ecc9",
@@ -89,6 +123,23 @@
 "summary": "",
 "source": "Open Banking Expo",
 "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVjJwUzFyTXBWTW1hRUtUYVlqN1BDa3hla1VTcTVQOHQwNmZpdllMODZsdk1KRjBwVzhGYXU4V3pLLUlfNkNEOUlNWWsyZWlyZkZNREM2d05XVHlYaDdlclZHdHBWY3c4dm5xWFJIMTBjaGw3UVlPOFFxODU0bGVXUGxQZnNsWm83MWppWmRGU0MySmU1anJlRFNHRzBQX0x1QldrYmFxVU8xQnZkYkZIc25tZlZwT00?oc=5",
+"score": 4,
+"found_by": "\"open banking\" UK"
+},
+{
+"id": "b02eb8479741",
+"date": "2026-10-27",
+"company": "",
+"what_it_does": "",
+"how_it_uses_smart_data": "Open banking: customer-permissioned bank data",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Banking (payments)",
+"headline": "open banking trust",
+"summary": "open banking trust Credit Connect",
+"source": "Credit Connect",
+"url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB0VE5RMTI3cTAzRHliOUhFYm0zdG5iM21rcm5GT2Q2SHVuN1Q5U0ZxcFVUdWIydkNhV2l6LTFOUEs3WXlSZXBXWjBOaHM3eGlBTFl2N3JPWVcxb0duQ1Q5Z2pUd0R2VXM?oc=5",
 "score": 4,
 "found_by": "\"open banking\" UK"
 },
