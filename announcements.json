@@ -1,12 +1,46 @@
 {
-"updated": "2026-10-26 20:23 UTC",
+"updated": "2026-10-27 11:52 UTC",
 "last_run": {
 "searches": 80,
 "failed": 0,
-"headlines_read": 371,
-"new": 3
+"headlines_read": 363,
+"new": 2
 },
 "items": [
+{
+"id": "f9e0a9d5ecc9",
+"date": "2026-10-27",
+"company": "",
+"what_it_does": "",
+"how_it_uses_smart_data": "Open banking: customer-permissioned bank data",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Banking (payments)",
+"headline": "Open Banking trust remains an industry challenge",
+"summary": "",
+"source": "Credit Connect",
+"url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQb1NmdUcxbElXck03b2U1Vk4zbV83TTZOUng2NDlSWGlKVlE3X2EtLUFKWjhUbEJPLUI1VTU5ZF9HdlpvZDJ2OXlkV3Vod2JEbjNpOHJjNjlDemoyblZPQXNpR3h4a0Z6SVdxMW1xclVadWRZV0RMTlRHQURURzBLU1JjWktWR0w4RUlqQnFUbjE?oc=5",
+"score": 4,
+"found_by": "\"open banking\" UK"
+},
+{
+"id": "fbcfe7a9aaa3",
+"date": "2026-10-27",
+"company": "",
+"what_it_does": "",
+"how_it_uses_smart_data": "Open banking: customer-permissioned bank data",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Banking (payments)",
+"headline": "Why Open Banking Needs Sustainable Commercial Model to Scale Payments and AI Services",
+"summary": "",
+"source": "Finextra Research",
+"url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbmhfcFBsNlZQNmNOUUFYLUloOW5VVkYxcGI3UUVDQkN2Wi1UaXdyUDZlV3A5elR2RlBaOTNfZ0EwTlhycXRJS1FYVVpQcGJobkdVSFdxRnVBc09INzFWOHNUS01Sb0tqM0lGLVVMLVA4RjhwX1RwekEwQW5YNWpidHN3MVN5MnlNVE84WW4tWTNSbFFfNlNpMVktMVRNMXUtdGowMHBhNEZHY3JWeWhueWh2T0NLcmw5cmFCNDk4bDJSM0JRcjJv?oc=5",
+"score": 4,
+"found_by": "\"open banking\" UK"
+},
 {
 "id": "a71feef22399",
 "date": "2026-10-26",
