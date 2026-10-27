@@ -1,12 +1,29 @@
 {
-"updated": "2026-10-27 11:52 UTC",
+"updated": "2026-10-27 17:45 UTC",
 "last_run": {
 "searches": 80,
 "failed": 0,
-"headlines_read": 363,
-"new": 2
+"headlines_read": 333,
+"new": 5
 },
 "items": [
+{
+"id": "d451f64316c4",
+"date": "2026-10-27",
+"company": "",
+"what_it_does": "",
+"how_it_uses_smart_data": "Open banking: customer-permissioned bank data; Open finance: customer-permissioned financial data",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Banking (payments)",
+"headline": "A2A tech enablers: Open Banking, Open Finance, and CBDCs",
+"summary": "",
+"source": "The Paypers",
+"url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUEh0ZGltczRDY1pmbW8zalc2cHJOSGRZZFotVHhOUE9tY0owSE5McEZGTi1FLW1BOWFOelVSc1FDVTZ3YmFNeEdYbDRtclNLUTcxZmxTZGF6VHJxbHk3UnV5OTVZVHY3b01jamVNenNZS2tLbjdxRkh6MUtaeU9rYndCSy1pUG5Ta2I5MUswQmtOOG9SbnRsVWZzWm5rTTY2TmR2b1Q0OA?oc=5",
+"score": 8,
+"found_by": "\"open finance\" UK"
+},
 {
 "id": "f9e0a9d5ecc9",
 "date": "2026-10-27",
@@ -38,6 +55,40 @@
 "summary": "",
 "source": "Finextra Research",
 "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbmhfcFBsNlZQNmNOUUFYLUloOW5VVkYxcGI3UUVDQkN2Wi1UaXdyUDZlV3A5elR2RlBaOTNfZ0EwTlhycXRJS1FYVVpQcGJobkdVSFdxRnVBc09INzFWOHNUS01Sb0tqM0lGLVVMLVA4RjhwX1RwekEwQW5YNWpidHN3MVN5MnlNVE84WW4tWTNSbFFfNlNpMVktMVRNMXUtdGowMHBhNEZHY3JWeWhueWh2T0NLcmw5cmFCNDk4bDJSM0JRcjJv?oc=5",
+"score": 4,
+"found_by": "\"open banking\" UK"
+},
+{
+"id": "a121b276b043",
+"date": "2026-10-27",
+"company": "",
+"what_it_does": "",
+"how_it_uses_smart_data": "Open banking: customer-permissioned bank data",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Banking (payments)",
+"headline": "Payit by NatWest: Open Banking trust gap",
+"summary": "",
+"source": "The Paypers",
+"url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPa28tV2h2NnpiVjlXSjFFbFRFXzNrOUxTSUE4U1JWOC1kY29COXlTYWJLX3dwNWt3UzA0WlA5Qk5nTjhFRnh2d3FJc3NLYzZ5UkVjZmkxdVVDak1nMENKX2NrNXNfM2oxTUNqMGtoTmNZUXhGcEw3dE5PYnFHZHhPRXZYT2hOWEY2dFhBOE5mZHdyc0FSdXdQSW5yaW5YeGRH?oc=5",
+"score": 4,
+"found_by": "\"open banking\" UK"
+},
+{
+"id": "028d97a94314",
+"date": "2026-10-27",
+"company": "",
+"what_it_does": "",
+"how_it_uses_smart_data": "Open banking: customer-permissioned bank data",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Banking (payments)",
+"headline": "From data access to real-world impact: Is Open Banking ready to prove its value?",
+"summary": "",
+"source": "Open Banking Expo",
+"url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVjJwUzFyTXBWTW1hRUtUYVlqN1BDa3hla1VTcTVQOHQwNmZpdllMODZsdk1KRjBwVzhGYXU4V3pLLUlfNkNEOUlNWWsyZWlyZkZNREM2d05XVHlYaDdlclZHdHBWY3c4dm5xWFJIMTBjaGw3UVlPOFFxODU0bGVXUGxQZnNsWm83MWppWmRGU0MySmU1anJlRFNHRzBQX0x1QldrYmFxVU8xQnZkYkZIc25tZlZwT00?oc=5",
 "score": 4,
 "found_by": "\"open banking\" UK"
 },
@@ -157,6 +208,23 @@
 "summary": "",
 "source": "The Paypers",
 "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQ2dfeUtSM2cyam5iMHNCalVUOHR6d1dMemotX2Rmd2JEVDg2dVRCVlRuYnVFdm9XSnZkYjNfbi15cmRlQXNoVkFxSG4yZEFYN19DZ09BYWJUUktyRDJIbF9KdW12TTVmd3IyX0xKb2VUNmxYSXdrTm5rUzFwZ01DSWhDZUc1d0xvQVAyWXYzMzlkVktMa0NkbWN3dkJqWjY4?oc=5",
+"score": 4,
+"found_by": "\"open banking\" UK"
+},
+{
+"id": "c52c70311244",
+"date": "2026-10-26",
+"company": "",
+"what_it_does": "",
+"how_it_uses_smart_data": "Open banking: customer-permissioned bank data",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Banking (payments)",
+"headline": "As Open Banking Adoption Grows, Trust Becomes the Next Challenge for Businesses Amid Ongoing Payment Friction",
+"summary": "",
+"source": "Financial IT",
+"url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQ3hBbFVXM05adlh5WEJ0QlFHeXJEUnN4VzRWYXYxMzR4SlYtajdFamFiN1RaODlIVDhDUkZQTmRkVG43RDZMd29uRC1ZUnBCTVZaXzJsT0ltNzBuTVFsWjdJb0lWWlNNN3E1NnEzbEVEeThIdThzYXhFaUthcGJGR2ZKODI3cGJHSkozSFhnMFdLZWVPdEEtQnlBeFhfMlRFUkxwVl9qYVdHWlhZR1ZaaDJia0QyeFJnd1E?oc=5",
 "score": 4,
 "found_by": "\"open banking\" UK"
 },
@@ -2743,6 +2811,23 @@
 "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adbcd9e0ad64f6fa406c72dfbfca3ce&url=https%3a%2f%2fwww.pymnts.com%2fnews%2fpayment-methods%2f2025%2fbusinesses-use-credit-card-tactics-to-boost-pay-by-bank%2f&c=5011807354735999290&mkt=en-gb",
 "score": 4,
 "found_by": "\"pay by bank\""
+},
+{
+"id": "995a3877237a",
+"date": "2025-07-21",
+"company": "",
+"what_it_does": "",
+"how_it_uses_smart_data": "Open banking: customer-permissioned bank data",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Banking (payments)",
+"headline": "Why oh why are we still debating open banking in the UK?",
+"summary": "Open banking needs urgency – not more debate, write John Glen, three years on from opening the conversation as City minister In the UK, open banking has quietly transformed the way millions of people ...",
+"source": "Bing News",
+"url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae0e30bc71c4a8fb79edca0d7c9fbb2&url=https%3a%2f%2fwww.cityam.com%2fwhy-oh-why-are-we-still-debating-open-banking-in-the-uk%2f&c=12743075889976144841&mkt=en-gb",
+"score": 5,
+"found_by": "\"open banking\" UK"
 },
 {
 "id": "a3e03d777e8e",
