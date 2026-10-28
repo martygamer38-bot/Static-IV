@@ -1,12 +1,46 @@
 {
-"updated": "2026-10-28 12:27 UTC",
+"updated": "2026-10-28 20:10 UTC",
 "last_run": {
 "searches": 80,
 "failed": 0,
-"headlines_read": 274,
-"new": 1
+"headlines_read": 289,
+"new": 3
 },
 "items": [
+{
+"id": "ec39111b20cf",
+"date": "2026-10-28",
+"company": "ZEN.COM",
+"what_it_does": "",
+"how_it_uses_smart_data": "Open banking: customer-permissioned bank data; Open finance: customer-permissioned financial data",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Banking (payments)",
+"headline": "ZEN.COM introduces Pay by Bank to nine European markets via Mastercard Open Finance",
+"summary": "",
+"source": "Open Banking Expo",
+"url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdEJtYjRDNUhRTVNjc3dBUkJpUkNWMG82T0NlRmVfRVdtcm80LV83a3BWczQ5Q2ZicWROWkNQRWY0T0toZTBieDdpT29Vdm1jWVN4U0wyVFgzNnZrTXpiMEFUWklhQjF1QnJ1b05NME5oWk1zcXJBTHZGM1hjd1NJWjlHRXVJVmR2UE9abWdIc2phVklHRHY0OVFDLWZDcVhsS2xhWmQ0WGJmdXZ2R0RNeUM4RmFwUE84OVpndGRn?oc=5",
+"score": 12,
+"found_by": "\"pay by bank\""
+},
+{
+"id": "46576b471f22",
+"date": "2026-10-28",
+"company": "Revolut Pay",
+"what_it_does": "",
+"how_it_uses_smart_data": "Open banking: customer-permissioned bank data",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Banking (payments)",
+"headline": "Revolut Pay partners with Just Eat Takeaway.com to launch rewarding checkouts across the UK and Ireland",
+"summary": "",
+"source": "Open Banking Expo",
+"url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUXlIUE5CdHNrWmtLZFBRQ3QwYndrb0hkTkJlbnVGbTVxbm4xc3dZUTN4S013WklhOTNhRHo2dzJiNnpCdXJ6MkxhWDk5ZWpKdW9fTmd5bEtlbXhyWG03SUNCUDdUVHJLRm9fd0pMMEhQVzZTWmVGX1JwZHFoT1ljMGp5eWJDeTJ1WEpMLTNrc2pObTZsTHY5WkhUZVpqdkpFRlE1cWpvbkRKM1RQcXB2SlpHUGM4c1E1bUlhNGJvZjFYcTVKOXNWUjZlLVpmc2FwZ0FhcXVncmQ?oc=5",
+"score": 6,
+"found_by": "\"open banking\" UK"
+},
 {
 "id": "daee50ba4fbc",
 "date": "2026-10-28",
@@ -22,6 +56,23 @@
 "source": "Finextra Research",
 "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOemJmNHFSc2UtbTB1NURvQ3VjVFJmRXpuNWQxaFJOSEcwVFpXZ3VvZHR6RzlYMUlvcjNlamQwZWtzamx4Umlac3VORWdOX3l2SmdzeEhhSXhqTVVaMlMxUkIwdUFBZnlaT3NiaTIyRkIwUTA2czNtZUFWRUw4NWY2NVlGM1hoZHA3Y01EQW9WaGN2N1RELWxkSFVVaFlINHZoQ3NqeXkxdjEtcWdsZzMtMFlLVWxSQ1J0b3k4TmFXaTdsY2c?oc=5",
 "score": 5,
+"found_by": "\"pay by bank\""
+},
+{
+"id": "6ceccacbc9d6",
+"date": "2026-10-28",
+"company": "",
+"what_it_does": "",
+"how_it_uses_smart_data": "Open banking: customer-permissioned bank data",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Banking (payments)",
+"headline": "Open Banking in iGaming and the questions nobody is asking",
+"summary": "",
+"source": "iGaming Expert",
+"url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOV2NmeVFzUG9fU2QydVRHV2VvcDU5cUVFRUZwdTYyN2Y4a2JxekJnM3lQaHBKX1ZMdjY2d21pc0laSzRLWFVXc3lWVXd0QjV6Z3ZteFJrWGJtVFlnZFlOLUgxZ3NwdXA3M3dkdmlXY0VMSEh2VTAyYjdRMkxGZGdmNTUwRkhHQm5QWmZuSXRR0gGOAUFVX3lxTE5XY2Z5UXNQb19TZDJ1VEdXZW9wNTlxRUVFRnB1NjI3ZjhrYnF6QmczeVBocEpfVkx2NjZ3bWlzSVpLNEtYVVdzeVZVd3RCNXpndm14UmtYYm1UWWdkWU4tSDFnc3B1cDczd2R2aVdjRUxISHZVMDJiN1EyTEZkZ2Y1NTBGSEdCblBaZm5JdFE?oc=5",
+"score": 4,
 "found_by": "\"pay by bank\""
 },
 {
