@@ -1,12 +1,29 @@
 {
-"updated": "2026-10-28 20:10 UTC",
+"updated": "2026-10-29 12:36 UTC",
 "last_run": {
 "searches": 80,
-"failed": 0,
-"headlines_read": 289,
-"new": 3
+"failed": 15,
+"headlines_read": 353,
+"new": 4
 },
 "items": [
+{
+"id": "b0cf749d5097",
+"date": "2026-10-29",
+"company": "Noda",
+"what_it_does": "",
+"how_it_uses_smart_data": "Open banking: customer-permissioned bank data",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Banking (payments)",
+"headline": "Noda launches BIN-to-Bank for Open Banking at checkout",
+"summary": "",
+"source": "The Paypers",
+"url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBEM3ZtV0VTV1lvd0JIcF84T0Q2dmFuY3FySXc2d1RzaHY2MWVZcDB4Y1RNZlZTNjhOUUZaOGhXRXVvSmd1OWJWSlpFdWZ5YXJyTFhEZ003aXpzOHRUemJGZTZGUVM1ekdRLS1kYXlxaw?oc=5",
+"score": 5,
+"found_by": "\"pay by bank\""
+},
 {
 "id": "ec39111b20cf",
 "date": "2026-10-28",
@@ -74,6 +91,40 @@
 "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOV2NmeVFzUG9fU2QydVRHV2VvcDU5cUVFRUZwdTYyN2Y4a2JxekJnM3lQaHBKX1ZMdjY2d21pc0laSzRLWFVXc3lWVXd0QjV6Z3ZteFJrWGJtVFlnZFlOLUgxZ3NwdXA3M3dkdmlXY0VMSEh2VTAyYjdRMkxGZGdmNTUwRkhHQm5QWmZuSXRR0gGOAUFVX3lxTE5XY2Z5UXNQb19TZDJ1VEdXZW9wNTlxRUVFRnB1NjI3ZjhrYnF6QmczeVBocEpfVkx2NjZ3bWlzSVpLNEtYVVdzeVZVd3RCNXpndm14UmtYYm1UWWdkWU4tSDFnc3B1cDczd2R2aVdjRUxISHZVMDJiN1EyTEZkZ2Y1NTBGSEdCblBaZm5JdFE?oc=5",
 "score": 4,
 "found_by": "\"pay by bank\""
+},
+{
+"id": "526a862b9e18",
+"date": "2026-10-28",
+"company": "",
+"what_it_does": "",
+"how_it_uses_smart_data": "Open banking: customer-permissioned bank data",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Banking (payments)",
+"headline": "Invela says open banking needs a liability fix before the CFPB settles the fee fight",
+"summary": "",
+"source": "TheStreet",
+"url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMTdjcHBucmRhNW54X2dIU1VoTk5iNGlmX2FGMXVCcVZjMHhmZGZBWXBhdTA0T0JaWk00clFkT1hTX2RUYVdIVDl3QWtxQkpNVF9aT0xqRjZTMmRQY2pkclQ3SVZIcDA2Y0pnanN6dTR2c093V2tqaC12RmNQZThDY2xtWnRWT0ZWalF6cDBIRFNaWkxnQ3lKLTBLT1ZHM1hzb1ZIaG5WbHFkTHBfS295em9aZ19xeGJNeWdIa0pkOFc0MGM?oc=5",
+"score": 4,
+"found_by": "\"open finance\" UK"
+},
+{
+"id": "b6fa793317fb",
+"date": "2026-10-28",
+"company": "",
+"what_it_does": "",
+"how_it_uses_smart_data": "Property data shared up front (homebuying)",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Property",
+"headline": "Material information and the case for intelligent client onboarding",
+"summary": "",
+"source": "Today's Conveyancer",
+"url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZ005enRMZFVCZnhvMlp2UEhFMmVhbFl5ejRBbXVNWE9hT0V1UE1OODZQQXQyMTZZX2poNDYzZkFHY0JTbzlMSUV0Zk1QSExKeUk4UE1tSnVyWVltMncwdndqQ3FJaVBGSFNJdldLdmE5VUN6eThwNDdFTm1HaHZLMVhQblB4Z1l0THM1TTZLYThFUQ?oc=5",
+"score": 4,
+"found_by": "\"upfront information\" property"
 },
 {
 "id": "d451f64316c4",
@@ -3644,6 +3695,23 @@
 "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ace2e3491aa4097b65894e265f1b4a3&url=https%3a%2f%2fwww.business-reporter.co.uk%2ffinance%2fthe-current-state-of-play-in-the-global-open-banking-scene&c=5939992761796101247&mkt=en-gb",
 "score": 4,
 "found_by": "\"open banking\" UK"
+},
+{
+"id": "a30a39366738",
+"date": "2018-04-19",
+"company": "",
+"what_it_does": "",
+"how_it_uses_smart_data": "Pensions dashboard: customer-requested pension data",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Financial services",
+"headline": "Pensions dashboard must cope with 15 million users",
+"summary": "The pensions dashboard will need to be fit to handle up to 15 million users when it goes live next year, technology provider Origo has said. The provider-owned fintech company warned the underlying ...",
+"source": "Bing News",
+"url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae33d95f7e14555a656c8a10596ec22&url=https%3a%2f%2fwww.ftadviser.com%2fcontent%2f477813ce-44c2-5f43-b72a-10027f6f5e09%3fpage%3d1&c=16812879049904420735&mkt=en-gb",
+"score": 6,
+"found_by": "\"pensions dashboard\""
 },
 {
 "id": "a233bce62125",
