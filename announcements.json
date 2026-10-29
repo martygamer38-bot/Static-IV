@@ -1,10 +1,10 @@
 {
-"updated": "2026-10-29 12:36 UTC",
+"updated": "2026-10-29 20:08 UTC",
 "last_run": {
 "searches": 80,
-"failed": 15,
-"headlines_read": 353,
-"new": 4
+"failed": 0,
+"headlines_read": 343,
+"new": 3
 },
 "items": [
 {
@@ -261,6 +261,23 @@
 "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB0VE5RMTI3cTAzRHliOUhFYm0zdG5iM21rcm5GT2Q2SHVuN1Q5U0ZxcFVUdWIydkNhV2l6LTFOUEs3WXlSZXBXWjBOaHM3eGlBTFl2N3JPWVcxb0duQ1Q5Z2pUd0R2VXM?oc=5",
 "score": 4,
 "found_by": "\"open banking\" UK"
+},
+{
+"id": "174cc3df261f",
+"date": "2026-10-27",
+"company": "",
+"what_it_does": "",
+"how_it_uses_smart_data": "Property data shared up front (homebuying)",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Financial services",
+"headline": "Lenders Live examines upfront information, affordability and housing supply",
+"summary": "",
+"source": "Mortgage Soup",
+"url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPeXBFb0EzOFhJaHR2RTFTbExYVF80RkYxeUo2aWpIM1BMRE5zeU81OW8yeTZVTXRNQWw0UmxUN2dBeEp3M2dZMTd6N2VGN1Etd0MyTEZiM19IQUtyVGxDSjJQSE9IYVFWZm93NmJzQUNIcVFnRjN2dzBPVHBqcHdpQnNVN2RGdGUzSm1pekJvNUMwclViN0FQN2dPRjBzaXhsVGR4SA?oc=5",
+"score": 4,
+"found_by": "\"upfront information\" property"
 },
 {
 "id": "a71feef22399",
@@ -2915,6 +2932,23 @@
 "found_by": "\"Fuel Finder\""
 },
 {
+"id": "d4c1ff2caec2",
+"date": "2026-02-02",
+"company": "",
+"what_it_does": "",
+"how_it_uses_smart_data": "Fuel Finder: shared fuel price data",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Road fuels",
+"headline": "Government Fuel Finder scheme launches today",
+"summary": "Petrol station forecourts come under closer scrutiny from today, as a new government-backed pricing system goes live with the aim of saving motorists money. Known as Fuel Finder, the scheme requires ...",
+"source": "Bing News",
+"url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae3a76ff77b447e976006a8a19984c1&url=https%3a%2f%2fwww.carthrottle.com%2fnews%2fgovernment-fuel-finder-scheme-launches-today&c=12842639161813978749&mkt=en-gb",
+"score": 5,
+"found_by": "\"Fuel Finder\""
+},
+{
 "id": "8253258e2793",
 "date": "2025-11-26",
 "company": "",
@@ -3695,6 +3729,23 @@
 "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ace2e3491aa4097b65894e265f1b4a3&url=https%3a%2f%2fwww.business-reporter.co.uk%2ffinance%2fthe-current-state-of-play-in-the-global-open-banking-scene&c=5939992761796101247&mkt=en-gb",
 "score": 4,
 "found_by": "\"open banking\" UK"
+},
+{
+"id": "734dfc06e54d",
+"date": "2018-07-06",
+"company": "",
+"what_it_does": "",
+"how_it_uses_smart_data": "Pensions dashboard: customer-requested pension data",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Financial services",
+"headline": "Delay to pensions dashboard is hampering people's saving",
+"summary": "This article is brought to you by our exclusive subscriber partnership with our sister title USA Today, and has been written by our American colleagues. It does not necessarily reflect the view of The ...",
+"source": "Bing News",
+"url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae3a7739831425591c880d751885f63&url=https%3a%2f%2fwww.heraldscotland.com%2fbusiness_hq%2f16339606.delay-to-pensions-dashboard-is-hampering-peoples-saving%2f&c=16101454136526699333&mkt=en-gb",
+"score": 5,
+"found_by": "\"pensions dashboard\""
 },
 {
 "id": "a30a39366738",
