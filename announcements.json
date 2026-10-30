@@ -1,12 +1,29 @@
 {
-"updated": "2026-10-29 20:08 UTC",
+"updated": "2026-10-30 12:27 UTC",
 "last_run": {
 "searches": 80,
 "failed": 0,
-"headlines_read": 343,
-"new": 3
+"headlines_read": 310,
+"new": 1
 },
 "items": [
+{
+"id": "92e9345f9ed6",
+"date": "2026-10-30",
+"company": "",
+"what_it_does": "",
+"how_it_uses_smart_data": "Open banking: customer-permissioned bank data",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Banking (payments)",
+"headline": "PIS: reaching the reliability Open Banking needs to grow",
+"summary": "",
+"source": "The Paypers",
+"url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSC04SG5qODUzSHFTTTFHVGpjbk9VX1NjYXhYWF9YN256cG1DX0pIWWRXVkdRVVV6YXRnMmx5VWZJTmJ0SlZMZHFrbWd5Y2hzYTg4ZWkxcEtkWDVNNXpZZDVWQkM0Q1VpMHNEUmFaM1l3RGZ3TXA3YUEyYmRtdEttUjNyVU9Jd0M4OEFLV0diM19kRmFueUJRZElFZFU4THM?oc=5",
+"score": 4,
+"found_by": "\"open banking\" UK"
+},
 {
 "id": "b0cf749d5097",
 "date": "2026-10-29",
