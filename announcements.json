@@ -1,12 +1,29 @@
 {
-"updated": "2026-10-30 19:54 UTC",
+"updated": "2026-10-31 15:05 UTC",
 "last_run": {
 "searches": 80,
-"failed": 29,
-"headlines_read": 257,
-"new": 4
+"failed": 0,
+"headlines_read": 274,
+"new": 2
 },
 "items": [
+{
+"id": "64c7fe9b69a0",
+"date": "2026-10-31",
+"company": "",
+"what_it_does": "",
+"how_it_uses_smart_data": "Bank payments made with customer permission (open banking)",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Banking (payments)",
+"headline": "Pay by Bank: Consumer Adoption Hinges on Security Concerns",
+"summary": "",
+"source": "PYMNTS.com",
+"url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPM0VNRmVTT0ZxMktlb2dnV3ViOXlKMTdERDB5RjlaQ0dOaG9fWGptclNCZGZCVEI1VVFManFxZ0J1eTZkdUdyRnNCM2I4ZXh2NDZjY0NaR01sZmhiOFVCUldqaEdQQnMteDZYMDFLVmtIemxfNndpcjBNUGpTOEVEME5ISGZSUTVaeGYxQU5oT3hHME0yZXNaa3hB?oc=5",
+"score": 4,
+"found_by": "\"pay by bank\""
+},
 {
 "id": "28b9035ca7bc",
 "date": "2026-10-30",
@@ -74,6 +91,23 @@
 "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSWJ2dVY2VmYtTVRwd2pFOG1seHMyMTdxN2NyTER3VTJ4N19oUmlibWxUVXJpeEo2THZWbTJKdC1vRS1ONnhUOTF0UWpwbHhQR1MyX25YTGJnLTNpYUVnbUJGYzAtQWlablVtUUxXWkxRR05hWHRfMzN2ejZ0MlJFc2930gGHAUFVX3lxTE1tNVV4cHpSVXQtY1dHOUJoT0tyZ290T3NiWVJscGFDa0w2VjRHVUhFT1dpZExUNFcxRG5uZHlMQ3RUbXNWN2hwX0dwbjd1MTVnT05uNWRhdVM1TWgtdm82TTJNSUtFVnI5SjItZ0FveTY3QnhhY1g5UFVITEZmaFJQeFotQzNFRQ?oc=5",
 "score": 4,
 "found_by": "\"pensions dashboard\""
+},
+{
+"id": "387cb42a82d3",
+"date": "2026-10-30",
+"company": "",
+"what_it_does": "",
+"how_it_uses_smart_data": "Open banking: customer-permissioned bank data",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Banking (payments)",
+"headline": "SBP issues draft open banking regulations, seeks public feedback",
+"summary": "",
+"source": "Pkrevenue.com",
+"url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBfc0JrUDdBUzA4U2VlaGpyN04wNE1CSmQwLUZDM2pxQnd3R1FyaHBjQmlNX2RWWWtZcUR4eXluNEE4YnFIZXlJQTlfOGNRRVlBcmdBelpJU0dSdWY5eGM0cHVRMFdDeE9wb3N5Vl84OTRWTU00ODdkTUtRNnhnZw?oc=5",
+"score": 4,
+"found_by": "\"data sharing\" consumers fintech UK"
 },
 {
 "id": "b0cf749d5097",
