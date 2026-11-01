@@ -1,12 +1,29 @@
 {
-"updated": "2026-10-31 15:05 UTC",
+"updated": "2026-11-01 15:48 UTC",
 "last_run": {
 "searches": 80,
-"failed": 0,
-"headlines_read": 274,
-"new": 2
+"failed": 21,
+"headlines_read": 323,
+"new": 1
 },
 "items": [
+{
+"id": "17b32589c125",
+"date": "2026-10-31",
+"company": "",
+"what_it_does": "",
+"how_it_uses_smart_data": "Open banking: customer-permissioned bank data",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Banking (payments)",
+"headline": "NatWest issues Open Banking update for thousands of business customers",
+"summary": "",
+"source": "Birmingham Live",
+"url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMzJIZVVQWDRVUURyQ2hwM0l5cnRyTE9RNHFJdHNOSkotV1ptUVhTcFRkdDZZazRFNkJ2UDN5OGhNNUhpVjB4N2UySDhCUnZvUzVjWXQwYTdPTXN2RjlFOHRoVmFCNU11U3dmazJOd04xdXBYQXBvNFRFa1pfNXZTSHNkWXpKay1xWnJ5X2JWRkFUMnEzRFgyRU5VRTjSAaIBQVVfeXFMUERRakVuTTlNVnpTbEdsc0JpR1RoUTM1SkVKai1YM0laWnZZTVRHSUxXRHc0MUE5UG84ekdfV0dxVWE1Sk9VREpOQ3FMcmdlWkJ4dS1KY3VCSHlNNG9mN3BkUEk0V3hKUHVXTHIzakVjY2M5Q1g4eTlXTXJUZktxTy1LNWsxZ0pUQVhseXdLR1VtcThLVWpnYjhJZjN6T2pwNUx3?oc=5",
+"score": 5,
+"found_by": "\"open banking\" UK"
+},
 {
 "id": "64c7fe9b69a0",
 "date": "2026-10-31",
