@@ -1,10 +1,10 @@
 {
-"updated": "2026-11-02 15:13 UTC",
+"updated": "2026-11-03 00:47 UTC",
 "last_run": {
 "searches": 80,
 "failed": 0,
-"headlines_read": 311,
-"new": 7
+"headlines_read": 270,
+"new": 2
 },
 "items": [
 {
@@ -91,6 +91,23 @@
 "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQdWF3eXVUSl8waUdkOG1EZWJHc2pfeV9qVjJfdEVUUzBCOWc1S2ZoSklxMUM1V2FmR0N3b1RnN2Vaazc0U3A2TEtxVEtGOTJfeDJ5Rkt3OWhjMFFaZ29iRHlfMU13QlhlWEtjTHpNaFZTUTczUTI4QXVVT0RLeDFlLVJyLTA0SnFZMEZ1ZFVOWjNWbjdzY3VSX1NrbFNVVkx3WnhtUUNpT2lGcnByaWQ2eFBzcURKUEtoa3dnOVJ3WXBnWlBJTjZMZG4yX0JGc1N3VnRwRWJXOXpuTGdzMTVPT3B3T2k?oc=5",
 "score": 4,
 "found_by": "\"upfront information\" property"
+},
+{
+"id": "5fd6618efc1a",
+"date": "2026-11-02",
+"company": "",
+"what_it_does": "",
+"how_it_uses_smart_data": "Open banking: customer-permissioned bank data",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Banking (payments)",
+"headline": "AI agents could render traditional payment authentication obsolete, warns Dr Ruth Wandhöfer",
+"summary": "",
+"source": "Open Banking Expo",
+"url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSnQ1cm45anZncUp1T2VINWNmMDFXVnR3dzc1UXl2MENSNjJWWm05YUVBM3pDOW1VWUFsMTNPRjBuZUQ1ZkFRS1JZRWxDOWY1VlR5Q3BmU1FDcDQwNkNESEJ3NWR5SkU3LXdzZlpvYzFPZEFibzA5QmpvY1hPc1d3YUd0Z3ZROUY2TlJwQkFyRXU5SkZFQ3gyUmQwSTlhUHlyNHFBTlFtUjNIZXhnN1BuT0s3YkdYWVFRcXFDMUs3QnlZZm94UWVN?oc=5",
+"score": 4,
+"found_by": "\"open banking\" UK"
 },
 {
 "id": "17b32589c125",
@@ -2879,6 +2896,23 @@
 "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad36d596a694698bd7a4d4f5d3b98ae&url=https%3a%2f%2fwww.dailyrecord.co.uk%2flifestyle%2fmoney%2fnew-rules-forgotten-pension-pots-37688384&c=9365346470220109894&mkt=en-gb",
 "score": 5,
 "found_by": "\"pensions dashboard\""
+},
+{
+"id": "137e51117ca6",
+"date": "2026-08-24",
+"company": "",
+"what_it_does": "",
+"how_it_uses_smart_data": "Fuel Finder: shared fuel price data",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Road fuels",
+"headline": "Fuel finder reaches almost every UK petrol station, here’s what it means for drivers",
+"summary": "The expansion comes as the Competition and Markets Authority (CMA) continues to scrutinise fuel pricing. Although pump prices fell in June as wholesale costs declined, they remained significantly ...",
+"source": "Bing News",
+"url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae92ed5d0c24f5b823996c4cd999a16&url=https%3a%2f%2fwww.msn.com%2fen-gb%2fmoney%2fother%2ffuel-finder-reaches-almost-every-uk-petrol-station-here-s-what-it-means-for-drivers%2far-AA2aOZQe&c=10853479421101872608&mkt=en-gb",
+"score": 6,
+"found_by": "\"Fuel Finder\""
 },
 {
 "id": "720ad0c46b0c",
