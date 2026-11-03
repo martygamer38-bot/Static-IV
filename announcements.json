@@ -1,12 +1,29 @@
 {
-"updated": "2026-11-03 00:47 UTC",
+"updated": "2026-11-03 13:54 UTC",
 "last_run": {
 "searches": 80,
-"failed": 0,
-"headlines_read": 270,
+"failed": 1,
+"headlines_read": 292,
 "new": 2
 },
 "items": [
+{
+"id": "982f541a7a81",
+"date": "2026-11-03",
+"company": "",
+"what_it_does": "",
+"how_it_uses_smart_data": "Bank payments made with customer permission (open banking)",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Banking (payments)",
+"headline": "How to Improve Ecommerce Payments With Wallets and Pay by Bank",
+"summary": "",
+"source": "365 Retail",
+"url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9TZU1aV0M0cG52bTktUXpRRkdNMVEwZHBPc2FHWUlSazdmT2F3RG5FaGhMXzd0WUdDN1R6aV8zMmlFaHdaRHRqNERYOUJIeV9QYU41ejVDWmdqYmxnUGV4TjBzdmtzanZxLU9IbjI5ZUg5M0VKYXBDc1RpYw?oc=5",
+"score": 4,
+"found_by": "\"pay by bank\""
+},
 {
 "id": "62c8f6048463",
 "date": "2026-11-02",
@@ -3338,6 +3355,23 @@
 "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad4c2bbb1f7429b9d94a643bcdc85fa&url=https%3a%2f%2fwww.business-reporter.co.uk%2ffinance%2ffrom-open-banking-to-open-finance&c=12269323361870488093&mkt=en-gb",
 "score": 11,
 "found_by": "\"open finance\" UK"
+},
+{
+"id": "0f79c3b1c5e3",
+"date": "2025-06-26",
+"company": "",
+"what_it_does": "",
+"how_it_uses_smart_data": "Bank payments made with customer permission (open banking)",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Banking (payments)",
+"headline": "Legacy Infrastructure Won’t Cut It in a Pay-by-Bank World, Says Nuvei",
+"summary": "Pay by bank is an emerging tool for firms to gain competitive advantages by reimagining costs, improving cash flow and enhancing customer loyalty, Nuvei Vice President of Product Ed Dean told PYMNTS.",
+"source": "Bing News",
+"url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae9e760bef34e6cb85d4d72a2dd9dea&url=https%3a%2f%2fwww.pymnts.com%2fnews%2fb2b-payments%2f2025%2flegacy-infrastructure-wont-cut-it-in-a-pay-by-bank-world-says-nuvei%2f&c=1915148491049453697&mkt=en-gb",
+"score": 4,
+"found_by": "\"pay by bank\""
 },
 {
 "id": "efe55a4036c7",
