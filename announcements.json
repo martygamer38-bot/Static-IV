@@ -1,10 +1,10 @@
 {
-"updated": "2026-11-04 14:02 UTC",
+"updated": "2026-11-04 21:08 UTC",
 "last_run": {
 "searches": 80,
 "failed": 0,
-"headlines_read": 301,
-"new": 6
+"headlines_read": 254,
+"new": 4
 },
 "items": [
 {
@@ -22,6 +22,57 @@
 "source": "Open Banking Expo",
 "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNlJ0c1htRUYyd1drWDB5WDZudDY2SlYxUE02Yi00Z193enM4SEdSaFdaS2hPVEFpNmgyS3lUMlZxUDVGWTAxcFdfU3lrS3hxRDdHQldOVlozR0loWjJNV3U4MTFRc0VzZmxtNXBwLVNhVV94NzYwUEhsRFBlR1J4amhuaVl5Q3JCUS1BWmUzV3JsSWVIT1RBRXlId1FLZUhCenQza0R3?oc=5",
 "score": 8,
+"found_by": "\"open banking\" UK"
+},
+{
+"id": "8e86c199e67a",
+"date": "2026-11-04",
+"company": "",
+"what_it_does": "",
+"how_it_uses_smart_data": "Open banking: customer-permissioned bank data; Bank payments made with customer permission (open banking)",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Banking (payments)",
+"headline": "InvestEngine achieves 98% payment success rate with commercial VRP",
+"summary": "",
+"source": "Open Banking Expo",
+"url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNlJ0c1htRUYyd1drWDB5WDZudDY2SlYxUE02Yi00Z193enM4SEdSaFdaS2hPVEFpNmgyS3lUMlZxUDVGWTAxcFdfU3lrS3hxRDdHQldOVlozR0loWjJNV3U4MTFRc0VzZmxtNXBwLVNhVV94NzYwUEhsRFBlR1J4amhuaVl5Q3JCUS1BWmUzV3JsSWVIT1RBRXlId1FLZUhCenQza0R3?oc=5",
+"score": 8,
+"found_by": "\"open banking\" UK"
+},
+{
+"id": "6149eebdd90d",
+"date": "2026-11-04",
+"company": "",
+"what_it_does": "",
+"how_it_uses_smart_data": "Open banking: customer-permissioned bank data; Open finance: customer-permissioned financial data",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Banking (payments)",
+"headline": "Open Finance risk: Seven things happened in October that you need to know about",
+"summary": "",
+"source": "Open Banking Expo",
+"url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUmd3cHN4TEtLN0RTby1Cd3p6WkZLWUlHRUFsYWNoR0hZLUlQOGNydFZSTWVMS0lXbVRrbm12c0JkZzQ4QTdTaE1BSzlwNVpCUVMxYTFMWjZXNG1TbmlyWE81bVBMNjlzeXFzQ0ZidGdSQlY2ZlFLby1aYUZIZklMLU82SkNRdlA1aGdVTVlMS1dQMDF6YzllX0FIZEJUcHhNdHdjX0V5NlB2QkpqNzN1ZGhiUFJPXzJHa0IzLQ?oc=5",
+"score": 8,
+"found_by": "\"open banking\" UK"
+},
+{
+"id": "838a31b7ef95",
+"date": "2026-11-04",
+"company": "",
+"what_it_does": "",
+"how_it_uses_smart_data": "Open banking: customer-permissioned bank data",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Banking (payments)",
+"headline": "Instant payments and open banking: What they mean for UK consumer businesses",
+"summary": "",
+"source": "London Business News",
+"url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbnMxNUZTVHowaUNiWlMyakhBNnFDWUZidFQ4bGhPdzFvWWNrcTBBSUdnOEZ0WU5hZlE0RU1iOVYyYkVOWFNCZy1xNllhdERzQkFwRXh6OHRSTTFvYmJrbVdScFpsNkVMRnVMUW9mdjVyRnF1YXhleGl0bG9Jd01pTjlOeDdwQ1NEUFI4dy1Bb3ZYU1VIZ3VOOUhjeWh2UXBrLU44TGhiRUhCMnNr?oc=5",
+"score": 5,
 "found_by": "\"open banking\" UK"
 },
 {
@@ -4203,6 +4254,23 @@
 "summary": "Gain an understanding of: the level of progress the pensions dashboard project has made Be able to describe: industry views on the snap election's impact on the progress of the pensions dashboard ...",
 "source": "Bing News",
 "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ace3269f80a4b37af8469e97b904bb9&url=https%3a%2f%2fwww.ftadviser.com%2fcontent%2f9d6a6750-ed6d-556e-bcee-a36f5af33f06%3fpage%3d2&c=17630978890818749258&mkt=en-gb",
+"score": 4,
+"found_by": "\"pensions dashboard\""
+},
+{
+"id": "a26bc0778f39",
+"date": "2016-05-25",
+"company": "",
+"what_it_does": "",
+"how_it_uses_smart_data": "Pensions dashboard: customer-requested pension data",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Financial services",
+"headline": "Pensions dashboard should be hosted on multiple sites, working group recommends",
+"summary": "The pensions dashboard, which will allow consumers to see all their pension savings in one place, should be available in one location, but hosted by a number of approved finance industry websites and ...",
+"source": "Bing News",
+"url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aeb9e9625bc4b06a866e9b2bb887ba1&url=https%3a%2f%2fwww.professionalpensions.com%2fnews%2f2459468%2fpensions-dashboard-hosted-multiple-sites-recommends&c=12973752737562674793&mkt=en-gb",
 "score": 4,
 "found_by": "\"pensions dashboard\""
 }
