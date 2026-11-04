@@ -1,12 +1,63 @@
 {
-"updated": "2026-11-03 20:51 UTC",
+"updated": "2026-11-04 14:02 UTC",
 "last_run": {
 "searches": 80,
 "failed": 0,
-"headlines_read": 278,
-"new": 0
+"headlines_read": 301,
+"new": 6
 },
 "items": [
+{
+"id": "7ed387c3a952",
+"date": "2026-11-04",
+"company": "",
+"what_it_does": "",
+"how_it_uses_smart_data": "Open banking: customer-permissioned bank data; Bank payments made with customer permission (open banking)",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Banking (payments)",
+"headline": "InvestEngine Reports 98% Payment Success Rate Using Commercial VRP",
+"summary": "",
+"source": "Open Banking Expo",
+"url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNlJ0c1htRUYyd1drWDB5WDZudDY2SlYxUE02Yi00Z193enM4SEdSaFdaS2hPVEFpNmgyS3lUMlZxUDVGWTAxcFdfU3lrS3hxRDdHQldOVlozR0loWjJNV3U4MTFRc0VzZmxtNXBwLVNhVV94NzYwUEhsRFBlR1J4amhuaVl5Q3JCUS1BWmUzV3JsSWVIT1RBRXlId1FLZUhCenQza0R3?oc=5",
+"score": 8,
+"found_by": "\"open banking\" UK"
+},
+{
+"id": "631437993bee",
+"date": "2026-11-04",
+"company": "",
+"what_it_does": "",
+"how_it_uses_smart_data": "Bank payments made with customer permission (open banking)",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Banking (payments)",
+"headline": "Akahu Pay by Bank caps fees at 5c to take on card networks",
+"summary": "",
+"source": "B2B News",
+"url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMlZTRHVybXY1cUJkZ1VrRkIySmVOQWVTOExNem5XRTF1VldKLTdJcHE5Rk9lMmpnMUJ3cmFpU2c0UlRDYTN3NWRNN3VYQ1ZTZTNaOW5FX2RyRFBjWGwwSFdRS2tFYk5SVV9YM3ZzSVVkU3hQRF9hQXI1N3pzaVFGVDl6c0s5MjUzN0FvbVIyVQ?oc=5",
+"score": 4,
+"found_by": "\"pay by bank\""
+},
+{
+"id": "772f2bbae782",
+"date": "2026-11-04",
+"company": "",
+"what_it_does": "",
+"how_it_uses_smart_data": "Bank payments made with customer permission (open banking)",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Banking (payments)",
+"headline": "Pay by Bank takes aim at card fees",
+"summary": "Pay by Bank takes aim at card fees RNZ",
+"source": "RNZ",
+"url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWjJIemJzNlFvaTFyNllsWlo0QTNJUXpSNWtrcjB6UGFFcUxKUmlTRVUybXYydjJ0dmVKNW1XcmhKWV9zbVd4OWpzUnByZl9HYXk1ZVZZRFQ4WU5uaDRLaVRKVmlRd0ttRkIyRkZlRVdjZThuZTFJNElGVUZMN2c5cXZ6R2Y?oc=5",
+"score": 4,
+"found_by": "\"pay by bank\""
+},
 {
 "id": "982f541a7a81",
 "date": "2026-11-03",
@@ -23,6 +74,23 @@
 "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9TZU1aV0M0cG52bTktUXpRRkdNMVEwZHBPc2FHWUlSazdmT2F3RG5FaGhMXzd0WUdDN1R6aV8zMmlFaHdaRHRqNERYOUJIeV9QYU41ejVDWmdqYmxnUGV4TjBzdmtzanZxLU9IbjI5ZUg5M0VKYXBDc1RpYw?oc=5",
 "score": 4,
 "found_by": "\"pay by bank\""
+},
+{
+"id": "f5960fe8e316",
+"date": "2026-11-03",
+"company": "",
+"what_it_does": "",
+"how_it_uses_smart_data": "Property data shared up front (homebuying)",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Financial services",
+"headline": "Upfront property information could boost buyer confidence",
+"summary": "",
+"source": "Mortgage Soup",
+"url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYkJCYWJJQ0JNMjhUb2VaX0RiUktqWUwwX1c4OEhmLWxkWWhaR1hKNVA1TmlhbHVLUGxHTWJvNnU5UWd0QTdMQWJtQ0t6c2d4ZGZpbVctYTV3emVOLWZLelVhUHcxb1VVci1IYkxXRlRKc1hSLUh3bERfd1pQdDZHT3RZM1hVcjhhdXpmNHd3?oc=5",
+"score": 4,
+"found_by": "\"upfront information\" property"
 },
 {
 "id": "62c8f6048463",
@@ -3068,6 +3136,23 @@
 "found_by": "\"pensions dashboard\""
 },
 {
+"id": "c50edb5f236d",
+"date": "2026-05-11",
+"company": "",
+"what_it_does": "",
+"how_it_uses_smart_data": "Fuel Finder: shared fuel price data",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Road fuels",
+"headline": "Inaccurate fuel finder apps could cost drivers £260 a year",
+"summary": "What Car?’s research revealed that prices on four of five fuel price checking sites that use the Government-supplied real-time data were showing outdated information. This means drivers using these ...",
+"source": "Bing News",
+"url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aeb3a9418ef487d97d6ab9d4a85600e&url=https%3a%2f%2fwww.whatcar.com%2fnews%2finaccurate-fuel-finder-apps-could-cost-drivers-260-a-year%2fn29005&c=4524115918215340201&mkt=en-gb",
+"score": 5,
+"found_by": "\"Fuel Finder\""
+},
+{
 "id": "ebe53ad9b52d",
 "date": "2026-05-04",
 "company": "",
@@ -3899,6 +3984,23 @@
 "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ade0597198d45218a61618eba9507d0&url=https%3a%2f%2fwww.lawgazette.co.uk%2fnews%2fnational-conveyancing-week-upfront-information-myths-debunked%2f5115508.article&c=13725024242024343276&mkt=en-gb",
 "score": 4,
 "found_by": "\"upfront information\" property"
+},
+{
+"id": "65e0ed5ac889",
+"date": "2023-03-21",
+"company": "",
+"what_it_does": "",
+"how_it_uses_smart_data": "Customer purchase data",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Retail",
+"headline": "A quarter of UK retailers now exclusively offer digital receipts, research shows",
+"summary": "Digital receipts are becoming ever more prevalent throughout the UK, as increasing numbers of stores ditch paper receipts in favour of a more environmentally friendly alternative. The eco credentials ...",
+"source": "Bing News",
+"url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aeb3ad328864a5da63a392b6ec11781&url=https%3a%2f%2fretailtimes.co.uk%2fa-quarter-of-uk-retailers-now-exclusively-offer-digital-receipts-research-shows%2f&c=3293436052940001174&mkt=en-gb",
+"score": 4,
+"found_by": "\"digital receipts\" data UK"
 },
 {
 "id": "eb2040b12aaf",
