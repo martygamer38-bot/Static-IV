@@ -1,12 +1,46 @@
 {
-"updated": "2026-11-04 21:08 UTC",
+"updated": "2026-11-05 14:23 UTC",
 "last_run": {
 "searches": 80,
 "failed": 0,
-"headlines_read": 254,
-"new": 4
+"headlines_read": 261,
+"new": 3
 },
 "items": [
+{
+"id": "b0bd78692265",
+"date": "2026-11-05",
+"company": "",
+"what_it_does": "",
+"how_it_uses_smart_data": "Open banking: customer-permissioned bank data",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Banking (payments)",
+"headline": "Trading 212 Adds Automated Bank Deposits as 97% Success Claim Tests Open Banking Adoption",
+"summary": "",
+"source": "FinanceFeeds",
+"url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUzVfY3BIQUZxT0JiVG9ILUttVTZNNUNfSXlXLURfSnBFUHpfamI0SDduVXZMQ2xqY254MEVUaDV4NnlFeGpiaHF6ZDZSY3J3aWJlSlFaRjF2eWZ6aEVGZ0hqd1A1UnhjMUp0M09kNDRoaEdsLUFDR05SVWhucFZydHh4cW1NVU9jZFZZYnhkcHNaaFlZNnVrTGpOb0YzQnppWW5vanpNSkVxY2tHWWkxSmZLZ3g?oc=5",
+"score": 4,
+"found_by": "\"variable recurring payments\""
+},
+{
+"id": "194e12985dfa",
+"date": "2026-11-05",
+"company": "",
+"what_it_does": "",
+"how_it_uses_smart_data": "Property data shared up front (homebuying)",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Property",
+"headline": "Upfront property information could unlock faster offers, survey suggests",
+"summary": "",
+"source": "Property Industry Eye",
+"url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPeVNuVjRBZ3lVbnNDZE9qOVJwWlNOcDM4VHpBSmlhb2ZmelU2dmxtRWRBQjBSNEhCNmhCd1otLTNsMVJMZnBfMzFzSWFfQnNHR0pVTmpTb3BlRUJrdmlnQkk2WXhUeFAtYjBSdlUyM2RjMG15UGFFZ19iSmdQWmRGUVc2VFNwZnJTRW5JaEtadFp3SzY4R2dqdENnWG1BTHRxYUxWekl5aw?oc=5",
+"score": 4,
+"found_by": "\"upfront information\" property"
+},
 {
 "id": "7ed387c3a952",
 "date": "2026-11-04",
@@ -431,6 +465,23 @@
 "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOemJmNHFSc2UtbTB1NURvQ3VjVFJmRXpuNWQxaFJOSEcwVFpXZ3VvZHR6RzlYMUlvcjNlamQwZWtzamx4Umlac3VORWdOX3l2SmdzeEhhSXhqTVVaMlMxUkIwdUFBZnlaT3NiaTIyRkIwUTA2czNtZUFWRUw4NWY2NVlGM1hoZHA3Y01EQW9WaGN2N1RELWxkSFVVaFlINHZoQ3NqeXkxdjEtcWdsZzMtMFlLVWxSQ1J0b3k4TmFXaTdsY2c?oc=5",
 "score": 5,
 "found_by": "\"pay by bank\""
+},
+{
+"id": "b15e3eafe128",
+"date": "2026-10-28",
+"company": "",
+"what_it_does": "",
+"how_it_uses_smart_data": "Open banking: customer-permissioned bank data",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Banking (payments)",
+"headline": "Equifax (EFX) Expands Open Banking Offering For Lenders And Fintechs",
+"summary": "",
+"source": "Yahoo Finance",
+"url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdDdiNl9ob2RrN0R5dm92ZFVHaDVPbVQ2WkgyX2t0ZXBXTlhmeXRlSE40clZZNFkzdWpEdjlmVFF6azBXTlNReklkc081cFVFNlBremFfRS0yRVR1TFE2NEpKdnhxd1oyakd3c2hFZjI3RDRMT0xEZ1JtT2w5a3hyLXRSbGhodE1GYXE0aGZWVVJjZnRmSnhVMWc5NEdWUQ?oc=5",
+"score": 5,
+"found_by": "\"customer-permissioned\" OR \"consumer-permissioned\" data"
 },
 {
 "id": "6ceccacbc9d6",
