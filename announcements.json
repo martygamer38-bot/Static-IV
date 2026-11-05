@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-05 14:23 UTC",
+"updated": "2026-11-05 21:25 UTC",
 "last_run": {
 "searches": 80,
-"failed": 0,
-"headlines_read": 261,
+"failed": 2,
+"headlines_read": 263,
 "new": 3
 },
 "items": [
@@ -40,6 +40,23 @@
 "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPeVNuVjRBZ3lVbnNDZE9qOVJwWlNOcDM4VHpBSmlhb2ZmelU2dmxtRWRBQjBSNEhCNmhCd1otLTNsMVJMZnBfMzFzSWFfQnNHR0pVTmpTb3BlRUJrdmlnQkk2WXhUeFAtYjBSdlUyM2RjMG15UGFFZ19iSmdQWmRGUVc2VFNwZnJTRW5JaEtadFp3SzY4R2dqdENnWG1BTHRxYUxWekl5aw?oc=5",
 "score": 4,
 "found_by": "\"upfront information\" property"
+},
+{
+"id": "2782cceb6a11",
+"date": "2026-11-05",
+"company": "Ottawa",
+"what_it_does": "",
+"how_it_uses_smart_data": "Open banking: customer-permissioned bank data",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Banking (payments)",
+"headline": "Ottawa extends open banking principles to other sectors—but continues to delay original framework",
+"summary": "",
+"source": "The Logic",
+"url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9wUE5rVjNhOGxZSEVRamdFZ2Zja2drZlg1WUh0R0FhM2p1S2drd0pPOHRKblZHSkswUjlneU1RQkRmLUFxYUxaWnp4akJfeUQ0LVpnNWduUUNRWkdoM0pZdVl5R01Ya0tHdGZYLUJPNUNQWmhuS2ctRw?oc=5",
+"score": 4,
+"found_by": "\"open banking\" UK"
 },
 {
 "id": "7ed387c3a952",
@@ -3629,6 +3646,23 @@
 "found_by": "\"pay by bank\""
 },
 {
+"id": "120549c40e72",
+"date": "2025-06-03",
+"company": "Visa",
+"what_it_does": "",
+"how_it_uses_smart_data": "Bank payments made with customer permission (open banking)",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Banking (payments)",
+"headline": "Visa launches pay by bank offering with built-in consumer protection",
+"summary": "Visa has launched its own pay by bank offering, which it says comes with built-in consumer protection. The product, known as Visa A2A, makes use of Visa's consumer protections, making it the first pay ...",
+"source": "Bing News",
+"url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aecf3f573484962b666fa25732279d0&url=https%3a%2f%2fwww.thisismoney.co.uk%2fmoney%2fsaving%2farticle-14772967%2fVisa-launches-pay-bank-offering-built-consumer-protection.html&c=7140715939379748171&mkt=en-gb",
+"score": 5,
+"found_by": "\"pay by bank\""
+},
+{
 "id": "b2152ad613b0",
 "date": "2025-05-28",
 "company": "",
@@ -3695,6 +3729,23 @@
 "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adcadac8f354debb6b83b0443a6f69c&url=https%3a%2f%2fwww.pymnts.com%2fnews%2fpayments-innovation%2f2025%2facquired-com-joins-initiative-create-central-operator-commercial-variable-recurring-payments%2f&c=3745143383297962001&mkt=en-gb",
 "score": 4,
 "found_by": "\"variable recurring payments\""
+},
+{
+"id": "61a3f01db642",
+"date": "2025-03-10",
+"company": "",
+"what_it_does": "",
+"how_it_uses_smart_data": "Bank payments made with customer permission (open banking)",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Banking (payments)",
+"headline": "80% of Pay-by-Bank Users Report Better Data Security and Lower Cart Abandonment",
+"summary": "The payment method is in its early stages, but it’s already helping reduce cart abandonment, improve data security and lower transaction costs. Consumer-facing companies that have adopted pay by bank ...",
+"source": "Bing News",
+"url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aecf3f573484962b666fa25732279d0&url=https%3a%2f%2fwww.pymnts.com%2fnews%2fpayment-methods%2f2025%2f80percent-pay-by-bank-users-report-better-data-security-lower-cart-abandonment%2f&c=15902485358370430848&mkt=en-gb",
+"score": 4,
+"found_by": "\"pay by bank\""
 },
 {
 "id": "ad62bc1d7244",
