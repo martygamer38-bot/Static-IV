@@ -1,10 +1,10 @@
 {
-"updated": "2026-11-05 21:25 UTC",
+"updated": "2026-11-06 13:59 UTC",
 "last_run": {
 "searches": 80,
 "failed": 2,
-"headlines_read": 263,
-"new": 3
+"headlines_read": 262,
+"new": 2
 },
 "items": [
 {
@@ -57,6 +57,40 @@
 "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9wUE5rVjNhOGxZSEVRamdFZ2Zja2drZlg1WUh0R0FhM2p1S2drd0pPOHRKblZHSkswUjlneU1RQkRmLUFxYUxaWnp4akJfeUQ0LVpnNWduUUNRWkdoM0pZdVl5R01Ya0tHdGZYLUJPNUNQWmhuS2ctRw?oc=5",
 "score": 4,
 "found_by": "\"open banking\" UK"
+},
+{
+"id": "c2108623dd96",
+"date": "2026-11-05",
+"company": "",
+"what_it_does": "",
+"how_it_uses_smart_data": "Bank payments made with customer permission (open banking)",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Banking (payments)",
+"headline": "Small Tweaks, Great Output: What Merchants Can Do to Maximize Pay By Bank Conversion",
+"summary": "",
+"source": "HackerNoon",
+"url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMmVidTl3UndLdzIzc0FYbEhxbWJMVGgwdmpLOWxoUUFrTml1cHlReC1XdXJMZjAxb285UWt2YWFyN2VSSURVSjBrb1dhSDh2SENZQldOakluWHBqR2lNOE1TU0V1SjdaV2hodkQ3SUVxNnFRbnRUS1dUeEhWUHlId3JRTlNKVTlKZW9HWWlCdnFXOGpXaGdPTXQtdEhWSE54T0JNbmZjV2M?oc=5",
+"score": 4,
+"found_by": "\"pay by bank\""
+},
+{
+"id": "942c0022bae9",
+"date": "2026-11-05",
+"company": "",
+"what_it_does": "",
+"how_it_uses_smart_data": "Customer energy usage data (smart meters)",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Energy",
+"headline": "Greensboro to use smart meter data to enforce water restrictions as drought continues",
+"summary": "",
+"source": "wfmynews2.com",
+"url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOa01SZ051NFFmYUplVzd3dTlHQXY1RW8taWRIX0tGRkM5T1pLakgyUmNNVWdwdHR1QkFlQndoX0RRU3hWVHRmUW5VOC1UNnBvU1JUZ3Zsb0ZmUmlCNWhaNEdNeG5lZXMyMmVRMTdIZjdNc3U4R1FKQTI3RXhwRmNIcUNmZndobHZqUkJCLXpPdFQwSi1FUzd0MFRiX3pwQ0xRNU9WS3pGMkVQWGZ6MGJrY3VYY09ucFRzT3Q4ODBMTUpEUmdyOURFWnNfNEo2ZHR2TWFvMkdVemtjRWJKR0ttQnRtWGtnU0Ztakt4eg?oc=5",
+"score": 4,
+"found_by": "\"smart meter data\""
 },
 {
 "id": "7ed387c3a952",
