@@ -1,12 +1,46 @@
 {
-"updated": "2026-11-06 13:59 UTC",
+"updated": "2026-11-06 20:46 UTC",
 "last_run": {
 "searches": 80,
-"failed": 2,
-"headlines_read": 262,
+"failed": 0,
+"headlines_read": 274,
 "new": 2
 },
 "items": [
+{
+"id": "05813049ca4d",
+"date": "2026-11-06",
+"company": "Segpay",
+"what_it_does": "",
+"how_it_uses_smart_data": "Bank payments made with customer permission (open banking)",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Banking (payments)",
+"headline": "Segpay expands Pay by Bank with TrueLayer to eight markets",
+"summary": "",
+"source": "The Paypers",
+"url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMF9NWTFNNTlNbG1ld01QOGxPbmI3TGUtU3FBcVdfM3dNbk42Ykl2X21fSDd4VktLNjFUdmVENEJtNlJBYWxNajVacGQ0ZmdocVNHR0I4bTdqcm1URVBXaF90Y1NxbmlQNW05Z0NoUzhqbWMyRlpta25aWEYxX2xmR3JGdDFjS1VlS3c2WHJ1VXBoWkU?oc=5",
+"score": 5,
+"found_by": "\"pay by bank\""
+},
+{
+"id": "6c324d4738c5",
+"date": "2026-11-06",
+"company": "",
+"what_it_does": "",
+"how_it_uses_smart_data": "Fuel Finder: shared fuel price data",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Road fuels",
+"headline": "How do I find the cheapest petrol near me? Use the apps fed by the government's Fuel Finder",
+"summary": "",
+"source": "Nacionale",
+"url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTm9qS1NIWlB5Q3ppSm1ZLUVZWjByemVCY2pxWFN3OGNpSFM3cWxyRmNXWTl3OXdONWZjSFRpZklPOUFuajF1UjRDUHUxSnhNUjUwNmh3LUZ4a3AxVTFHUjBEU1JsNURzZWNicEh3cklBVUNhMDlwWXVPbng3UDB5ZFNsb2xKZW9oRlZ4ZUpQYTlYM3dkOHZBZmtOWkxMWV9vUWlNYWwyTQ?oc=5",
+"score": 4,
+"found_by": "\"Fuel Finder\""
+},
 {
 "id": "b0bd78692265",
 "date": "2026-11-05",
