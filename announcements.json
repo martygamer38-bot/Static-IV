@@ -1,10 +1,10 @@
 {
-"updated": "2026-11-06 20:46 UTC",
+"updated": "2026-11-07 15:28 UTC",
 "last_run": {
 "searches": 80,
 "failed": 0,
-"headlines_read": 274,
-"new": 2
+"headlines_read": 261,
+"new": 1
 },
 "items": [
 {
@@ -516,6 +516,23 @@
 "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdEJtYjRDNUhRTVNjc3dBUkJpUkNWMG82T0NlRmVfRVdtcm80LV83a3BWczQ5Q2ZicWROWkNQRWY0T0toZTBieDdpT29Vdm1jWVN4U0wyVFgzNnZrTXpiMEFUWklhQjF1QnJ1b05NME5oWk1zcXJBTHZGM1hjd1NJWjlHRXVJVmR2UE9abWdIc2phVklHRHY0OVFDLWZDcVhsS2xhWmQ0WGJmdXZ2R0RNeUM4RmFwUE84OVpndGRn?oc=5",
 "score": 12,
 "found_by": "\"pay by bank\""
+},
+{
+"id": "fb98ee5eb12a",
+"date": "2026-10-28",
+"company": "Revolut Pay",
+"what_it_does": "",
+"how_it_uses_smart_data": "Open banking: customer-permissioned bank data; Account-to-account payments",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Banking (payments)",
+"headline": "Revolut Pay partners with Just Eat Takeaway.com to introduce one-click A2A payments at checkout",
+"summary": "",
+"source": "Open Banking Expo",
+"url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUXlIUE5CdHNrWmtLZFBRQ3QwYndrb0hkTkJlbnVGbTVxbm4xc3dZUTN4S013WklhOTNhRHo2dzJiNnpCdXJ6MkxhWDk5ZWpKdW9fTmd5bEtlbXhyWG03SUNCUDdUVHJLRm9fd0pMMEhQVzZTWmVGX1JwZHFoT1ljMGp5eWJDeTJ1WEpMLTNrc2pObTZsTHY5WkhUZVpqdkpFRlE1cWpvbkRKM1RQcXB2SlpHUGM4c1E1bUlhNGJvZjFYcTVKOXNWUjZlLVpmc2FwZ0FhcXVncmQ?oc=5",
+"score": 8,
+"found_by": "\"open banking\" UK"
 },
 {
 "id": "46576b471f22",
