@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-07 15:28 UTC",
+"updated": "2026-11-08 15:49 UTC",
 "last_run": {
 "searches": 80,
 "failed": 0,
-"headlines_read": 261,
+"headlines_read": 256,
 "new": 1
 },
 "items": [
@@ -3336,6 +3336,23 @@
 "summary": "There is still a long way to go until the UK has a pensions dashboard, but it is something worth pursuing, according to AJ Bell. Pensions dashboards will allow people to see details of all their ...",
 "source": "Bing News",
 "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ace3269f80a4b37af8469e97b904bb9&url=https%3a%2f%2fwww.ftadviser.com%2fcontent%2fb78b3a35-a106-4adf-8f59-fe88bde9fbe8&c=4371736178463778730&mkt=en-gb",
+"score": 5,
+"found_by": "\"pensions dashboard\""
+},
+{
+"id": "37e93a90019b",
+"date": "2026-05-27",
+"company": "",
+"what_it_does": "",
+"how_it_uses_smart_data": "Pensions dashboard: customer-requested pension data",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Financial services",
+"headline": "What stage is the pensions dashboard at?",
+"summary": "While there is still no concrete date for the pensions dashboard launch, testing of the service is well under way and the end could soon be in sight. Speaking at the Amps conference this week (May 12) ...",
+"source": "Bing News",
+"url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af099ca11fc46b98d268eef1e0a8537&url=https%3a%2f%2fwww.ftadviser.com%2fcontent%2fb8a0b6e6-dcbb-4aba-8c43-1c6a8a2887a8&c=1689918207012795767&mkt=en-gb",
 "score": 5,
 "found_by": "\"pensions dashboard\""
 },
