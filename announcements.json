@@ -1,10 +1,10 @@
 {
-"updated": "2026-11-09 15:42 UTC",
+"updated": "2026-11-10 01:21 UTC",
 "last_run": {
 "searches": 80,
 "failed": 2,
-"headlines_read": 248,
-"new": 5
+"headlines_read": 255,
+"new": 1
 },
 "items": [
 {
@@ -3916,6 +3916,23 @@
 "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adcadac8f354debb6b83b0443a6f69c&url=https%3a%2f%2fwww.pymnts.com%2fnews%2fpayments-innovation%2f2025%2facquired-com-joins-initiative-create-central-operator-commercial-variable-recurring-payments%2f&c=3745143383297962001&mkt=en-gb",
 "score": 4,
 "found_by": "\"variable recurring payments\""
+},
+{
+"id": "02e47ed6aac7",
+"date": "2025-04-30",
+"company": "",
+"what_it_does": "",
+"how_it_uses_smart_data": "Bank payments made with customer permission (open banking)",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Banking (payments)",
+"headline": "Walmart’s Pay by Bank Project Remains on Track for 2025",
+"summary": "A test this past September of a real-time pay by bank payments option inside the Walmart app indicates the service is on track for a broader debut in 2025, Digital Transactions News has learned.",
+"source": "Bing News",
+"url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af2714bde984eeeafbe75acb04d73cd&url=https%3a%2f%2fwww.digitaltransactions.net%2fwalmarts-pay-by-bank-project-remains-on-track-for-2025%2f&c=3549859532190082474&mkt=en-gb",
+"score": 4,
+"found_by": "\"pay by bank\""
 },
 {
 "id": "61a3f01db642",
