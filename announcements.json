@@ -1,12 +1,63 @@
 {
-"updated": "2026-11-10 01:21 UTC",
+"updated": "2026-11-10 14:37 UTC",
 "last_run": {
 "searches": 80,
 "failed": 2,
-"headlines_read": 255,
-"new": 1
+"headlines_read": 245,
+"new": 4
 },
 "items": [
+{
+"id": "f6e693721908",
+"date": "2026-11-10",
+"company": "",
+"what_it_does": "",
+"how_it_uses_smart_data": "Open banking: customer-permissioned bank data; Uses customer bank / transaction data",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Banking (payments)",
+"headline": "Planky Secures €6.9M to Transform Open Banking Data into Real-Time AI Credit Decisions",
+"summary": "",
+"source": "FF News",
+"url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcUc1Y3J2NTdzQkJQSDVJZXJlUjVJbFpJUS1NNW8tZ3BKWEZ2Rm04MXRiV2gxa3RVdExtbEFBYVE1RE9mUGlnVEpEam9QbVFfTm9tNVRCelg3QWh0Yldtd0w3b3FJRzhjWTFUcXEzVHV2eHFVTWVWaHJfNFgyOEJiS1dtbThHMHF0d2tTbENNV2I4N08xWHZocUE1UWtiZXRFWEFnMl9lcWNScF9QV005Tk5ZZw?oc=5",
+"score": 7,
+"found_by": "\"open banking\" UK"
+},
+{
+"id": "361f7878bda1",
+"date": "2026-11-10",
+"company": "",
+"what_it_does": "",
+"how_it_uses_smart_data": "Bank payments made with customer permission (open banking)",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Banking (payments)",
+"headline": "Fake BYD website offers a $41,900 EV and directs buyers to pay by bank transfer",
+"summary": "",
+"source": "The Cool Down",
+"url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTXR0Q05TMjRmcWFwbEtWVjQ5bkdXMHBabGREZ2xGd2pSVFFXQXp2WkE1VzlOZ1FVQmFzZnloZkdnYWVZZEpzU29xdzV1TzFKQVBBajlqemFpN0VYeEpGRXRudWF6SVVLU2pMeEFMNDNqY3k5YzZMMjZpMms3WWJrajJuV2RwV1E?oc=5",
+"score": 4,
+"found_by": "\"pay by bank\""
+},
+{
+"id": "e442930ec037",
+"date": "2026-11-10",
+"company": "",
+"what_it_does": "",
+"how_it_uses_smart_data": "Open finance: customer-permissioned financial data",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Financial services",
+"headline": "Mastercard, Tidalwave bring Open Finance to mortgages",
+"summary": "",
+"source": "The Paypers",
+"url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOM0Nmblp6aV83amZXWVJhX3IwTElxR1R0aUw5ZVFQbFZfcE9OajMyQTBCV0tUdlYxeTkzTHJEd0NpOFJGcmVpVEExRHV2VzhCdHFEdlJkNk1DUmxsVGhBb2w2Vkx4cC1pY2I4RzB6bU1ZaHJzQUZDVjVDM29iT3A4Q3FwLVJ0VWpvV2xxUEk2bFU1M21yekk1c0VRdnhGbWd6d2JWQzYxeUE?oc=5",
+"score": 4,
+"found_by": "\"customer-permissioned\" OR \"consumer-permissioned\" data"
+},
 {
 "id": "b5772ba64c1b",
 "date": "2026-11-09",
@@ -3474,6 +3525,23 @@
 "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ace328b188b4c8eab88f5c8732c550c&url=https%3a%2f%2fwww.propertywire.com%2fnews%2fuk%2fproperty-sector-debates-upfront-information-requirements%2f&c=13547866951974433640&mkt=en-gb",
 "score": 4,
 "found_by": "\"upfront information\" property"
+},
+{
+"id": "23ce8e1ac61b",
+"date": "2026-05-01",
+"company": "",
+"what_it_does": "",
+"how_it_uses_smart_data": "Fuel Finder: shared fuel price data",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Road fuels",
+"headline": "Warnings sent to petrol forecourts over failing to sign up to Fuel Finder scheme",
+"summary": "FINANCIAL penalties will be handed out to fuel forecourts for not signing up to the Fuel Finder scheme to help drivers get the best prices. The Competition and Markets Authority will take action ...",
+"source": "Bing News",
+"url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af32bec5f8d4301920332f947bd48af&url=https%3a%2f%2fwww.thesun.co.uk%2funcategorized%2f38991634%2ffuel-finder-warning-pump-action%2f&c=15630122145255458644&mkt=en-gb",
+"score": 4,
+"found_by": "\"Fuel Finder\""
 },
 {
 "id": "219442598e12",
