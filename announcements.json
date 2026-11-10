@@ -1,10 +1,10 @@
 {
-"updated": "2026-11-10 14:37 UTC",
+"updated": "2026-11-10 21:15 UTC",
 "last_run": {
 "searches": 80,
-"failed": 2,
-"headlines_read": 245,
-"new": 4
+"failed": 0,
+"headlines_read": 253,
+"new": 1
 },
 "items": [
 {
@@ -4443,6 +4443,23 @@
 "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acf67b88d6c4061bc10504e14d68552&url=https%3a%2f%2fwww.retail-week.com%2findustry-insight%2fthree-reasons-why-pay-by-bank-can-help-win-customers%2f7042645.article&c=12932076419633003182&mkt=en-gb",
 "score": 4,
 "found_by": "\"pay by bank\""
+},
+{
+"id": "619365cd9be4",
+"date": "2022-10-19",
+"company": "Allpay",
+"what_it_does": "",
+"how_it_uses_smart_data": "Open banking: customer-permissioned bank data",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Banking (payments)",
+"headline": "Allpay taps Salt Edge to boost financial inclusion with open banking",
+"summary": "UK-based payments specialists, allpay Limited, have joined forces with Salt Edge, a leader in Open Banking solutions, to allow the business to provide clients, including people with vulnerable ...",
+"source": "Bing News",
+"url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af3893e6a8c4671908195cabb6a99ce&url=https%3a%2f%2fwww.finextra.com%2fpressarticle%2f94524%2fallpay-taps-salt-edge-to-boost-financial-inclusion-with-open-banking&c=7675967142711240228&mkt=en-gb",
+"score": 5,
+"found_by": "\"open banking\" UK"
 },
 {
 "id": "cff1767ce5d2",
