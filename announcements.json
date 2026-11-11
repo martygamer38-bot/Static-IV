@@ -1,10 +1,10 @@
 {
-"updated": "2026-11-11 13:52 UTC",
+"updated": "2026-11-11 21:49 UTC",
 "last_run": {
 "searches": 80,
 "failed": 0,
-"headlines_read": 266,
-"new": 5
+"headlines_read": 275,
+"new": 2
 },
 "items": [
 {
@@ -91,6 +91,40 @@
 "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaGVNRmZqUzdFNDJqbUdBekpKY1pQYVNwTXgyS294N3djTERvSVlTX0xSa2xGd01tdHkxUW9MbHJNdjZRZldiQk0xYWZGTXAyY29WR0pIa19WQ1lxSEdSb3JzRjBHWVNOcTRoQnZVRWVYQXBGRVZEZV9vV0JJUDBVbks1N3ZBT0lKX2I0cjNQNnNQcC1LSWxxYzFPUHdfZ2Qxcml1QXA5Ulg?oc=5",
 "score": 5,
 "found_by": "\"instant bank payments\" launch UK"
+},
+{
+"id": "cae630054eab",
+"date": "2026-11-11",
+"company": "Yaspa",
+"what_it_does": "",
+"how_it_uses_smart_data": "Open banking: customer-permissioned bank data",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Banking (payments)",
+"headline": "Yaspa partners with The Big Leagues to power instant Open Banking payments and seamless onboarding",
+"summary": "",
+"source": "Open Banking Expo",
+"url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZTVnSk9Ucjl0dzRiUkNnOGNoRWtRNjFTNzZLX244UlEtNnFkcDFtTFJJMllnajl0dVNTNGN5VlM1RFlfaThVd1pyZ05MUlRhLVZCanhJZ24wekRuckpFRXJhQTNnNVFOTjVSNEpmenNkS3dFWkprNUU5eTI4TmFuN1k4OWM1MU1VejBfekJySjNNaVVoV3U1djF6UG9RZXE0OGFlb05ubldESU15RzhTTWtjaThtVmR5MGs4RGI3U2cxQVpVY1piOGR0Zlo1ekhHYmc?oc=5",
+"score": 5,
+"found_by": "\"open banking\" UK"
+},
+{
+"id": "af63ea6c37e4",
+"date": "2026-11-11",
+"company": "Fuel Finder Pro",
+"what_it_does": "",
+"how_it_uses_smart_data": "Fuel Finder: shared fuel price data",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Road fuels",
+"headline": "Fuel Finder Pro launches app for owner-operators",
+"summary": "",
+"source": "American Journal of Transportation",
+"url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9fS1NrMWg2SkFqZXRzOGFOS0VLQmdoQXlTb0ZfYzktM1dCYUNXbndUM2hyd3N2SElNMmhVRjktNXZleW9ha0E5b09BUmhBS0psbTE4OC1jY21JOVpwNEdpNktjWUx0ZGZubHZFSlpadlUwa2xETllkcHcyTDU3UUU?oc=5",
+"score": 5,
+"found_by": "\"Fuel Finder\""
 },
 {
 "id": "f6e693721908",
