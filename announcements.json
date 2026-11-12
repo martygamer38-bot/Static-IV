@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-12 14:55 UTC",
+"updated": "2026-11-12 21:48 UTC",
 "last_run": {
 "searches": 80,
-"failed": 1,
-"headlines_read": 278,
+"failed": 0,
+"headlines_read": 280,
 "new": 2
 },
 "items": [
@@ -40,6 +40,23 @@
 "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZV84RWhYdFVlX0twanZ4eGZHbGtUbkVBUl9Od1drdXJxV0I3WC1HYXhxcmw2dXlSMm9ZdEpjTkozUndod1BqVW1iOXpYY1dxMWxmMk5zbWNVSktFUHNYc1FHNTRGMjg4Z0UwMUpWRUtpRERFNGVsb2FwUENRYzNrX05tZ1c3WGNYOTl4NU5uLW5hX1F2M0pR?oc=5",
 "score": 4,
 "found_by": "\"rent reporting\" credit score UK"
+},
+{
+"id": "0b8e0fc74d62",
+"date": "2026-11-12",
+"company": "Planky",
+"what_it_does": "",
+"how_it_uses_smart_data": "Open banking: customer-permissioned bank data",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Banking (payments)",
+"headline": "Planky secures €6.9m to evolve Open Banking analytics into real-time AI decisioning",
+"summary": "",
+"source": "Open Banking Expo",
+"url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYkVNN1c2TS1iaE9GQUVKR1gyVU83Vm5oUVF5YmQwdzkyckwzdURHeW5xc1F3ZlhuTHZqT3dUazJnWURVR0ExY1J2NkthRENNTHU1TjhpaHJlVnB4dF9zYm9JekY4Z2tTZVFWajlSTERNa1BrUTl2SUFscVdWeGJZMDBMOWNLUGlmQU82R2w3OEJLamJUcUJGb2RNb1NmU2EtdTFKLVBjQnk0UkNSU0FNd1R0bGI3b0VTbG9IUF93?oc=5",
+"score": 4,
+"found_by": "\"open banking\" UK"
 },
 {
 "id": "939c3a089050",
@@ -159,6 +176,23 @@
 "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9fS1NrMWg2SkFqZXRzOGFOS0VLQmdoQXlTb0ZfYzktM1dCYUNXbndUM2hyd3N2SElNMmhVRjktNXZleW9ha0E5b09BUmhBS0psbTE4OC1jY21JOVpwNEdpNktjWUx0ZGZubHZFSlpadlUwa2xETllkcHcyTDU3UUU?oc=5",
 "score": 5,
 "found_by": "\"Fuel Finder\""
+},
+{
+"id": "b935122a4d20",
+"date": "2026-11-11",
+"company": "",
+"what_it_does": "",
+"how_it_uses_smart_data": "Open banking: customer-permissioned bank data",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Banking (payments)",
+"headline": "Have the DWP bank account checks been scrapped? No, only a separate open banking plan was dropped",
+"summary": "",
+"source": "Nacionale",
+"url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYkJNaE5PRzk5U0tHV0hNNnUtTEZSeDhMSUx3TW9maXp2dGI5dWZzU2ItMEpvYjhEUWdPaW56clZnLUl1WG9idVE2cVhYdE1lNlVlN1k3RkhrRU9abFVzeXp0UWNPZEZnLW5rN2RITVJrbm5kbzdma0xDeU1SOU8yUnhFQ1liWWw0ckJiRW9xRS1QNXMxS2xJb0ExUVJ5Yk1WQ1VvMlVScnMtcW9rNG9yYVNGZlA?oc=5",
+"score": 4,
+"found_by": "\"open banking\" UK"
 },
 {
 "id": "f6e693721908",
