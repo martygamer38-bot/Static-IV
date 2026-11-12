@@ -1,12 +1,46 @@
 {
-"updated": "2026-11-11 21:49 UTC",
+"updated": "2026-11-12 14:55 UTC",
 "last_run": {
 "searches": 80,
-"failed": 0,
-"headlines_read": 275,
+"failed": 1,
+"headlines_read": 278,
 "new": 2
 },
 "items": [
+{
+"id": "0ce1e2bbc166",
+"date": "2026-11-12",
+"company": "Uber and Revolut",
+"what_it_does": "",
+"how_it_uses_smart_data": "Account-to-account payments",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Banking (payments)",
+"headline": "Uber and Revolut expand tie up to bring account-to-account payments to Uber Eats across UK and Europe",
+"summary": "",
+"source": "Retail Technology Innovation Hub",
+"url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNdDRjZng1SFZtZmRnYlU2a0xBbUtrLXFkNnJIYU9WX0JxS0ZDa3p6dGVFVUhRQUtpLUpndVVBaGZ1MlpxV2dlTGlnakhXdWZrYWU2ZnRnbEgxak54cm92TGNfUzFEcEFmWU5TZ0tXNVNMTGlUdkdoN2FGa0k3b3RBbzROcUJqZkRNUm5FXzM2dmpfeERSVW9YOVdGdTdDM1dWZTZOWHFSdms0dl9uaWJHU0hjZjlKWU5rZm9uMS00T1dKQTdmMDk5dTJiWWZqWWJCN05HNkR1TnhxbDF5NElYV3gyY0ZlRzYy?oc=5",
+"score": 5,
+"found_by": "\"account-to-account payments\" UK"
+},
+{
+"id": "481dfab8ec47",
+"date": "2026-11-12",
+"company": "ClearScore",
+"what_it_does": "",
+"how_it_uses_smart_data": "Customers share payment history to improve credit",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Financial services",
+"headline": "ClearScore launches free rent reporting to credit bureaus",
+"summary": "",
+"source": "PropertyWire",
+"url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZV84RWhYdFVlX0twanZ4eGZHbGtUbkVBUl9Od1drdXJxV0I3WC1HYXhxcmw2dXlSMm9ZdEpjTkozUndod1BqVW1iOXpYY1dxMWxmMk5zbWNVSktFUHNYc1FHNTRGMjg4Z0UwMUpWRUtpRERFNGVsb2FwUENRYzNrX05tZ1c3WGNYOTl4NU5uLW5hX1F2M0pR?oc=5",
+"score": 4,
+"found_by": "\"rent reporting\" credit score UK"
+},
 {
 "id": "939c3a089050",
 "date": "2026-11-11",
