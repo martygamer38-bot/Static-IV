@@ -1,12 +1,46 @@
 {
-"updated": "2026-11-12 21:48 UTC",
+"updated": "2026-11-13 14:18 UTC",
 "last_run": {
 "searches": 80,
 "failed": 0,
-"headlines_read": 280,
-"new": 2
+"headlines_read": 270,
+"new": 4
 },
 "items": [
+{
+"id": "9a888e05020b",
+"date": "2026-11-13",
+"company": "ClearScore",
+"what_it_does": "",
+"how_it_uses_smart_data": "Customers share payment history to improve credit",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Financial services",
+"headline": "ClearScore launches free rent reporting – will it help your credit score?",
+"summary": "",
+"source": "Skint Dad",
+"url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5qbzh0THVCRXZWMUVINGoxbFhZaG16NkJHcllSd1BvREhyY19zOFJSN3JPODF4UWlnMzdTLXdLeUhJT0ZHNDVteDZJbWpNcDM4dnpGd3RSMGt6UjQ2WW5CdGZsT24?oc=5",
+"score": 4,
+"found_by": "\"rent reporting\" credit score UK"
+},
+{
+"id": "466d5292e7a3",
+"date": "2026-11-12",
+"company": "",
+"what_it_does": "",
+"how_it_uses_smart_data": "Customers moving their data between services; Data sharing",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Digital markets",
+"headline": "CPI | Data Portability Between Individual Control and Data Sharing at Scale",
+"summary": "",
+"source": "PYMNTS.com",
+"url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQ3ZaOTNlNzVhSUR0U1BIUTgxR29fU2pBbmE2LThJSEw1SFRMOHgxeE5OQ1ozYW4xbHR6eHVFcXZWdXBwbHdXNUI0TjlROGZFR0czQTk0aThnQ0tZaVgyS1I2ZDhNYl9tQ0wtMU1sYkdnclk4blNUZ1VDUGFKSl9GblN2czVHSDNOQy1sQVlMaUYyaGFEbFBxVFJ5VTNmRE1KUUtjWUxR?oc=5",
+"score": 6,
+"found_by": "\"data portability\" UK"
+},
 {
 "id": "0ce1e2bbc166",
 "date": "2026-11-12",
@@ -191,6 +225,23 @@
 "summary": "",
 "source": "Nacionale",
 "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYkJNaE5PRzk5U0tHV0hNNnUtTEZSeDhMSUx3TW9maXp2dGI5dWZzU2ItMEpvYjhEUWdPaW56clZnLUl1WG9idVE2cVhYdE1lNlVlN1k3RkhrRU9abFVzeXp0UWNPZEZnLW5rN2RITVJrbm5kbzdma0xDeU1SOU8yUnhFQ1liWWw0ckJiRW9xRS1QNXMxS2xJb0ExUVJ5Yk1WQ1VvMlVScnMtcW9rNG9yYVNGZlA?oc=5",
+"score": 4,
+"found_by": "\"open banking\" UK"
+},
+{
+"id": "2e6165c4677c",
+"date": "2026-11-11",
+"company": "",
+"what_it_does": "",
+"how_it_uses_smart_data": "Open banking: customer-permissioned bank data",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Banking (payments)",
+"headline": "John Glen MP donates Open Banking fee to Salisbury 800 celebrations",
+"summary": "",
+"source": "Salisbury Radio",
+"url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeWVWMy15ek1rYTMwa2xSZzZKNHYyZnZVRWNMZGozeVpldXRSbVFvemE2UGZScWozUnVqZzRmb3NQM3pxdElNM1dTSDFXSVhqaXpkR09uR0t5MHFSdUV4Wm9meUVoaG9mTDRJLTFqRHJ6Z3JDcnJBREdzZU8yWW9STU4yNkVMTl9nc2I2Q282NkgwSmhaS3FLUlZBTXpuOHBjdXVzY0hxREg0RGRpR0NDelh2cEViOHJq?oc=5",
 "score": 4,
 "found_by": "\"open banking\" UK"
 },
@@ -3763,6 +3814,23 @@
 "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ace32865be54f35b030694b71f36184&url=https%3a%2f%2fwww.computing.co.uk%2finterview%2f2026%2fflexibility-first-how-edf-is-using-half-hourly-data-to-reshape-the-energy-industry&c=18065278446493573930&mkt=en-gb",
 "score": 5,
 "found_by": "\"half-hourly data\" energy UK"
+},
+{
+"id": "35acf48d3059",
+"date": "2026-04-07",
+"company": "",
+"what_it_does": "",
+"how_it_uses_smart_data": "Bank payments made with customer permission (open banking)",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Banking (payments)",
+"headline": "Trustly Marks Pay by Bank Milestone With 120-Plus Million Users",
+"summary": "“Trustly’s rapidly growing user base reflects the increasing adoption of Pay by Bank seen around the world,” the company said in a news release provided to PYMNTS Tuesday (April 7). The release notes ...",
+"source": "Bing News",
+"url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af71c0b4b514df0aa2d94dc868863a1&url=https%3a%2f%2fwww.pymnts.com%2fnews%2fpayment-methods%2f2026%2ftrustly-marks-pay-by-bank-milestone-with-120-plus-million-users%2f&c=4517895634300847712&mkt=en-gb",
+"score": 4,
+"found_by": "\"pay by bank\""
 },
 {
 "id": "6d905907d11a",
