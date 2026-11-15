@@ -1,10 +1,10 @@
 {
-"updated": "2026-11-14 15:36 UTC",
+"updated": "2026-11-15 16:06 UTC",
 "last_run": {
 "searches": 80,
-"failed": 2,
-"headlines_read": 270,
-"new": 0
+"failed": 0,
+"headlines_read": 248,
+"new": 1
 },
 "items": [
 {
@@ -244,6 +244,23 @@
 "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeWVWMy15ek1rYTMwa2xSZzZKNHYyZnZVRWNMZGozeVpldXRSbVFvemE2UGZScWozUnVqZzRmb3NQM3pxdElNM1dTSDFXSVhqaXpkR09uR0t5MHFSdUV4Wm9meUVoaG9mTDRJLTFqRHJ6Z3JDcnJBREdzZU8yWW9STU4yNkVMTl9nc2I2Q282NkgwSmhaS3FLUlZBTXpuOHBjdXVzY0hxREg0RGRpR0NDelh2cEViOHJq?oc=5",
 "score": 4,
 "found_by": "\"open banking\" UK"
+},
+{
+"id": "34a045ac2c33",
+"date": "2026-11-11",
+"company": "",
+"what_it_does": "",
+"how_it_uses_smart_data": "Smart Data (named directly)",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Cross-sector",
+"headline": "Unlocking machines’ full potential with smart data analysis",
+"summary": "",
+"source": "تین نیوز",
+"url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSmV0bHRUbG5fcGJiQVBnS3M5cXVOMzV4ZUxadGs1ekFqejVNRjA0NU5OcTVSdHR1RnFNMkxhNnprS3FEZW9SSElyT09WWnVjS2tQOHFwYndQSXgtU3pHWlFwUzc2V09MMmlDM1NudWlnbGI1Qzd6bzBBLXFCM0xjRS1xaVlZTEQwV3VrVE5IUm9INWIwbXRqSGlkcnhqam1IRnF0TFdNV00?oc=5",
+"score": 4,
+"found_by": "\"smart data\" UK"
 },
 {
 "id": "f6e693721908",
