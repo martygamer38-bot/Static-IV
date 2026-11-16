@@ -1,12 +1,63 @@
 {
-"updated": "2026-11-15 16:06 UTC",
+"updated": "2026-11-16 15:18 UTC",
 "last_run": {
 "searches": 80,
 "failed": 0,
-"headlines_read": 248,
-"new": 1
+"headlines_read": 254,
+"new": 4
 },
 "items": [
+{
+"id": "7a3caaac2dfc",
+"date": "2026-11-16",
+"company": "",
+"what_it_does": "",
+"how_it_uses_smart_data": "Open banking: customer-permissioned bank data; Open finance: customer-permissioned financial data",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Banking (payments)",
+"headline": "Open Banking News – Latest Open Finance News",
+"summary": "",
+"source": "FF News",
+"url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE0yOG9uZzZkbmdIbnpMQkpqbjNjWWs0aExFZDlIdlg1UmxmdlFOZ2hPbF96aTZsQzFERnB0VXQ1T3o3ajJ5X2c?oc=5",
+"score": 8,
+"found_by": "\"open banking\" UK"
+},
+{
+"id": "acdfaf5dbe86",
+"date": "2026-11-16",
+"company": "",
+"what_it_does": "",
+"how_it_uses_smart_data": "Bank payments made with customer permission (open banking)",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Banking (payments)",
+"headline": "UK Commercial Variable Recurring Payments: Costs and Access",
+"summary": "",
+"source": "JournalArta",
+"url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQa0pvSDZMVjgxVlQ0V0xrMDNMVlpQOU1VQmo4LVo3LTktZXJLclp6aUhxVE9SVmdOM1VMa2RGS2s1V19VR1FKR2JSSDZWRy11N2o5WmVjeGNXcXF3TGZKQTdsZGxYTXhQVnNfN29Gd3RGeEFqVGlKcFRPaHBrZl94V1NCd2RQLUlZcU9ZSkk4U2tuTEtFblVlb1ZMSQ?oc=5",
+"score": 5,
+"found_by": "\"variable recurring payments\""
+},
+{
+"id": "0be29b8628b5",
+"date": "2026-11-16",
+"company": "",
+"what_it_does": "",
+"how_it_uses_smart_data": "Open banking: customer-permissioned bank data",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Banking (payments)",
+"headline": "Banks becoming ‘default shock absorber’ for online fraud, warns Capital One",
+"summary": "",
+"source": "Open Banking Expo",
+"url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSVVGLUlxTnl6b2o4Q1M3LTNSY3VIM1lkdmJfMFhTVWRkSTVOMHo3M0R0RHBwTVEzSUhOc1hxVmxWYmVkRzhsSmNfdGVrQlp1Y0praXhZTEpQYlhNdFNGbk9ZQWNJLVJ1dnVKZGkyYzVuemJFTmVfZnBXZWlmTVJsS1hLNWIya2phY29lNVJ0NkEtY2JnMkdnYW5waVhYT2NFOGx3RTB4SnNubzR1eXo4?oc=5",
+"score": 4,
+"found_by": "\"open banking\" UK"
+},
 {
 "id": "9a888e05020b",
 "date": "2026-11-13",
@@ -431,6 +482,23 @@
 "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTm9qS1NIWlB5Q3ppSm1ZLUVZWjByemVCY2pxWFN3OGNpSFM3cWxyRmNXWTl3OXdONWZjSFRpZklPOUFuajF1UjRDUHUxSnhNUjUwNmh3LUZ4a3AxVTFHUjBEU1JsNURzZWNicEh3cklBVUNhMDlwWXVPbng3UDB5ZFNsb2xKZW9oRlZ4ZUpQYTlYM3dkOHZBZmtOWkxMWV9vUWlNYWwyTQ?oc=5",
 "score": 4,
 "found_by": "\"Fuel Finder\""
+},
+{
+"id": "fad1b9a5c4a3",
+"date": "2026-11-05",
+"company": "Segpay",
+"what_it_does": "",
+"how_it_uses_smart_data": "Bank payments made with customer permission (open banking)",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Banking (payments)",
+"headline": "Segpay expands Pay by Bank service to eight European markets",
+"summary": "Segpay, a global leader in digital payment processing, announced today that it has expanded its Pay by Bank service to eight European markets.",
+"source": "Bing News",
+"url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afb1e7422c94460a205bbede860f20e&url=https%3a%2f%2fwww.finextra.com%2fpressarticle%2f111591%2fsegpay-expands-pay-by-bank-service-to-eight-european-markets&c=1082129270753929650&mkt=en-gb",
+"score": 5,
+"found_by": "\"pay by bank\""
 },
 {
 "id": "b0bd78692265",
