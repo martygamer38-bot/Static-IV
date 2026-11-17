@@ -1,12 +1,63 @@
 {
-"updated": "2026-11-17 01:46 UTC",
+"updated": "2026-11-17 15:45 UTC",
 "last_run": {
 "searches": 80,
-"failed": 6,
-"headlines_read": 238,
-"new": 2
+"failed": 0,
+"headlines_read": 251,
+"new": 3
 },
 "items": [
+{
+"id": "bbb6394a6443",
+"date": "2026-11-17",
+"company": "",
+"what_it_does": "",
+"how_it_uses_smart_data": "Open banking: customer-permissioned bank data; Bank payments made with customer permission (open banking)",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Banking (payments)",
+"headline": "Temu and TrueLayer begin Europe-wide rollout of Pay by Bank",
+"summary": "",
+"source": "Open Banking Expo",
+"url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNb0xNVzFPRHo1a05MVXBncXlPTl91aE5kZ3NaV0pVZE1BWWI2bmNvdXdHS29MeVdVXzJfSllSVmRESTlLLWp0eU4yYzFsRzdYdldUSHVnbDFQMV9TN1FaNzNtT0o1eGk1YWNMQVJRWVdadVUwV3Z4Z1ZlNElmS1NVVGxQaV9fR2o0NF85LTFDOEdzcFJYOENub0dCTzdOUQ?oc=5",
+"score": 8,
+"found_by": "\"pay by bank\""
+},
+{
+"id": "a9fa64c5ffc1",
+"date": "2026-11-17",
+"company": "Temu",
+"what_it_does": "",
+"how_it_uses_smart_data": "Bank payments made with customer permission (open banking)",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Banking (payments)",
+"headline": "Temu adds TrueLayer Pay by Bank in Europe",
+"summary": "",
+"source": "The Paypers",
+"url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeFZPaVJsZXctNWEzRnBVQkE1bFNyeUM1b0x5b082Mkk2bTlvQVlVN2s1b0JDVU1scjRZRmE2SE5yUmVtWFhhNEkxLWJMZ1BEVkZoOGdUVTlrYnZ2OWIxWFBPSzkxbnlQbS1FY3N6X0hMekp2dThvMk05aEx2V0ZqN09IcVZNN0JnLTdxd0ZWMG5uUzVO?oc=5",
+"score": 4,
+"found_by": "\"pay by bank\""
+},
+{
+"id": "b468c5777e3f",
+"date": "2026-11-17",
+"company": "Odoo",
+"what_it_does": "",
+"how_it_uses_smart_data": "Bank payments made with customer permission (open banking)",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Banking (payments)",
+"headline": "Odoo adds Salt Edge Pay by Bank and Bulk Payments",
+"summary": "",
+"source": "The Paypers",
+"url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVnFpT043b00tOHJmQjJieDlGc19WU0dWR0FSRlBTaWZyTXMtWFdWMHJJTlNNbGVwNlZJLXdqcGh1QjNrZklRXzRvZTI5aDZ0aHpObVNQeEhxUFhCNHRzMTg5c3p2aGN1a1JDaGs5SllQTjVMSmhZTHFOMERiQnNaVmp1QlB4TlZRaU8tYUxYSWxGWkhhMXVVZ1Vaa3BYemQ5SXpvclJR?oc=5",
+"score": 4,
+"found_by": "\"pay by bank\""
+},
 {
 "id": "7a3caaac2dfc",
 "date": "2026-11-16",
