@@ -1,10 +1,10 @@
 {
-"updated": "2026-11-16 15:18 UTC",
+"updated": "2026-11-17 01:46 UTC",
 "last_run": {
 "searches": 80,
-"failed": 0,
-"headlines_read": 254,
-"new": 4
+"failed": 6,
+"headlines_read": 238,
+"new": 2
 },
 "items": [
 {
@@ -55,6 +55,40 @@
 "summary": "",
 "source": "Open Banking Expo",
 "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSVVGLUlxTnl6b2o4Q1M3LTNSY3VIM1lkdmJfMFhTVWRkSTVOMHo3M0R0RHBwTVEzSUhOc1hxVmxWYmVkRzhsSmNfdGVrQlp1Y0praXhZTEpQYlhNdFNGbk9ZQWNJLVJ1dnVKZGkyYzVuemJFTmVfZnBXZWlmTVJsS1hLNWIya2phY29lNVJ0NkEtY2JnMkdnYW5waVhYT2NFOGx3RTB4SnNubzR1eXo4?oc=5",
+"score": 4,
+"found_by": "\"open banking\" UK"
+},
+{
+"id": "a96158a20e35",
+"date": "2026-11-16",
+"company": "",
+"what_it_does": "",
+"how_it_uses_smart_data": "Open banking: customer-permissioned bank data",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Banking (payments)",
+"headline": "Open Banking Is Not a European Market – It’s 27 Different Ones",
+"summary": "",
+"source": "Financial IT",
+"url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNR0lFcHVSb0xlcGhQaHpTRHhqVTRKXy1hUkNoWU9QWEFqY05yenU3Q0ZhLVY2eHpQaUdRVU4wQ0tmbzlHaGVVRWw1Q3IzNWtRa2p6Q0dyaVloTHR5bGxQWkx2UWxCNnhILXVmaDN1Qk9PcDM1TmpYV0tNSVJNeGFjN3BKNXdMQXF0QWVuaXRpOFhYNEVCMG83cW5hWQ?oc=5",
+"score": 4,
+"found_by": "\"open banking\" UK"
+},
+{
+"id": "59a9571de95c",
+"date": "2026-11-16",
+"company": "",
+"what_it_does": "",
+"how_it_uses_smart_data": "Open banking: customer-permissioned bank data",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Banking (payments)",
+"headline": "Banking competition: Can ‘open banking’ ride to the rescue?",
+"summary": "",
+"source": "www.thepost.co.nz",
+"url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSVlCRGh0cnNpSnBiYTl0RFdLZXFMTDFmXzJFX01rY2w3UHB2ZmNHWHlqMEFYN0ZyWlVmQi1weEdGMjNqdVljRVlHeUtrU3hpQ3BFMzZDbUJDRUIxd000cnY5YTZQWktfMU5LelhSd0FRdmFQTmlGYlpEelNPV2FTT1ZGQXZGTTh3NjFmVFJPNkVPTHBkSXA4WA?oc=5",
 "score": 4,
 "found_by": "\"open banking\" UK"
 },
