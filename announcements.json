@@ -1,12 +1,46 @@
 {
-"updated": "2026-11-18 00:47 UTC",
+"updated": "2026-11-18 15:24 UTC",
 "last_run": {
 "searches": 80,
-"failed": 0,
-"headlines_read": 260,
-"new": 1
+"failed": 2,
+"headlines_read": 246,
+"new": 2
 },
 "items": [
+{
+"id": "c73fd9c2744b",
+"date": "2026-11-18",
+"company": "",
+"what_it_does": "",
+"how_it_uses_smart_data": "Open banking: customer-permissioned bank data",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Banking (payments)",
+"headline": "Lloyds Banking Group outlines how Open Banking is scaling across business payments",
+"summary": "",
+"source": "Open Banking Expo",
+"url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONUs0WEFTUm9yZ25YZ05tTzlaSjNxX1Rob3d6OVpWU3IxakVtSnRSSDJ2WEFWTGFfZWYzcWZBQ28yM2lkb1pkMGZtS19DTW9DMzJOd0l5cU5pQlM0NUVVRzhOMzRqcUZ3MXZFTk5tQjR2dE96a3F6ZTlsM2psOXhYMVBPeHVMYU0tTkNGWnhyTm5Pem9pTlYxU29vRmRKcHdfdzN2NHJENGtQZi1uSmUtMHB2TDh2bzRXTkxNaw?oc=5",
+"score": 4,
+"found_by": "\"open banking\" UK"
+},
+{
+"id": "0e89d07efd93",
+"date": "2026-11-18",
+"company": "",
+"what_it_does": "",
+"how_it_uses_smart_data": "Lending decisions using account data",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Cross-sector",
+"headline": "Propel Launches Next-Generation AI Cash-Flow Underwriting Model, Partners with Plaid",
+"summary": "",
+"source": "TradingView",
+"url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOQWdPcVZmWEJ2NVZhSnhkcmxqYmI1QmxGS05HcllGSS1HWEI4Mk5CTnlXVXVDdG9fbzFZR2NYRWgzT0FwMGVIMEJuNTltRGtTM2dRQVBmQmFHZUl3UGFFeUJ5Vm9QSENrcjRVUjJPRjc1MW1DOG9JQ2djeGh3TDVQZVA5bFg3MHdaclpWcVk2MU5ZZEI5NmZjM1ZvR2NESnNrUjI0dEhiak5jUlZaa2ZsSlZheEViZGdmdUNodU9YU2xuM19DVTV5TDBNVWIxM25HcnF3cnJvMWZQYjQt?oc=5",
+"score": 4,
+"found_by": "\"customer-permissioned\" OR \"consumer-permissioned\" data"
+},
 {
 "id": "bbb6394a6443",
 "date": "2026-11-17",
