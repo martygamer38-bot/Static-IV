@@ -1,12 +1,29 @@
 {
-"updated": "2026-11-18 15:24 UTC",
+"updated": "2026-11-19 00:05 UTC",
 "last_run": {
 "searches": 80,
-"failed": 2,
-"headlines_read": 246,
+"failed": 0,
+"headlines_read": 264,
 "new": 2
 },
 "items": [
+{
+"id": "a871fc9c80c7",
+"date": "2026-11-18",
+"company": "",
+"what_it_does": "",
+"how_it_uses_smart_data": "Open banking: customer-permissioned bank data; Data sharing",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Banking (payments)",
+"headline": "BoG develops open banking framework to facilitate customer data sharing",
+"summary": "",
+"source": "Ghana News Agency",
+"url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQ3J0a3RDNThxQlVLYV9rQmttSFhrSWRUVzl5OHNwREpVckNCSmo1b3FYMC1IWmUydFBXRVF6bWFtalFqb0dYb1I5R2UxU3FEZDZ4ellpRl9BcFJPQ1hxSTAxbFNVZmFtVVIycG5IUEVoUlNuYU1EMHF5VlBLYVYydWZDVTU1SXBScm9hdFhDSlBUUGk3dHdQMGp4RGxpdF9i?oc=5",
+"score": 6,
+"found_by": "\"data sharing\" consumers fintech UK"
+},
 {
 "id": "c73fd9c2744b",
 "date": "2026-11-18",
@@ -40,6 +57,23 @@
 "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOQWdPcVZmWEJ2NVZhSnhkcmxqYmI1QmxGS05HcllGSS1HWEI4Mk5CTnlXVXVDdG9fbzFZR2NYRWgzT0FwMGVIMEJuNTltRGtTM2dRQVBmQmFHZUl3UGFFeUJ5Vm9QSENrcjRVUjJPRjc1MW1DOG9JQ2djeGh3TDVQZVA5bFg3MHdaclpWcVk2MU5ZZEI5NmZjM1ZvR2NESnNrUjI0dEhiak5jUlZaa2ZsSlZheEViZGdmdUNodU9YU2xuM19DVTV5TDBNVWIxM25HcnF3cnJvMWZQYjQt?oc=5",
 "score": 4,
 "found_by": "\"customer-permissioned\" OR \"consumer-permissioned\" data"
+},
+{
+"id": "cc06cdcfb2db",
+"date": "2026-11-18",
+"company": "",
+"what_it_does": "",
+"how_it_uses_smart_data": "Property data shared up front (homebuying)",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Cross-sector",
+"headline": "What movers want from upfront information, and it isn’t only speed",
+"summary": "",
+"source": "Leaders Romans Group (LRG)",
+"url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeUJYcEU5ZzNwUzdUai1GdmFpYk9heV94c0Z3WjlHd0JLeWRKejZTaUpMS0lIaEE0VlhacXVLQ19qRnY0cE1nVEUxVThFSFYyajhpZ0tuYkgzdGxuT3JXaWMxUWRxcHV5N0RIeDRYZFBnVnFmOGVZQTZhbUtFZ080cHdkaGVFUHlyZGlWNEZhVTlZTW9xeDR3UENpX3o2bmVHMG02TDcwZHBTQQ?oc=5",
+"score": 4,
+"found_by": "\"upfront information\" property"
 },
 {
 "id": "bbb6394a6443",
