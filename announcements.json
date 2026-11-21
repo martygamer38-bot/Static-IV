@@ -1,10 +1,10 @@
 {
-"updated": "2026-11-20 23:50 UTC",
+"updated": "2026-11-21 16:38 UTC",
 "last_run": {
 "searches": 80,
 "failed": 0,
-"headlines_read": 315,
-"new": 4
+"headlines_read": 333,
+"new": 2
 },
 "items": [
 {
@@ -57,6 +57,23 @@
 "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b006224210548759e712723385521f2&url=https%3a%2f%2fwww.easterneye.biz%2fuk-pensions-dashboard-finally-gets-a-launch-date-after-a-decade-of-delays%2f&c=8006217703951056503&mkt=en-gb",
 "score": 6,
 "found_by": "\"pensions dashboard\""
+},
+{
+"id": "67919a5c1412",
+"date": "2026-11-20",
+"company": "",
+"what_it_does": "",
+"how_it_uses_smart_data": "Pensions dashboard: customer-requested pension data",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Financial services",
+"headline": "UK Pension Dashboards Set for Summer 2026 Launch as ABI Welcomes Major Milestone",
+"summary": "",
+"source": "FF News",
+"url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSUhTTklVa1NfVUtkT0pYM1MxSW12NWxqbUEzNk9LZ1F6ZTduT283VWhIdFV5cFVsODVzRkJjVHQ5TjhyNmpSTGY1aExYZkZTemxpQkdMcFdjc0F1QUk1bVFfaVNjeGd6Z2tDQURBOFFUNlh3N0RlblFRSVROQWF2dkJJUnJtSDFWdmgzbThBWUlCQQ?oc=5",
+"score": 6,
+"found_by": "\"open finance\" UK"
 },
 {
 "id": "4958efbd25d8",
@@ -4477,6 +4494,23 @@
 "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad36d596a694698bd7a4d4f5d3b98ae&url=https%3a%2f%2fwww.dailyrecord.co.uk%2flifestyle%2fmoney%2fnew-rules-forgotten-pension-pots-37688384&c=9365346470220109894&mkt=en-gb",
 "score": 5,
 "found_by": "\"pensions dashboard\""
+},
+{
+"id": "3b3227c987e7",
+"date": "2026-08-28",
+"company": "",
+"what_it_does": "",
+"how_it_uses_smart_data": "Customer energy usage data (smart meters)",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Energy",
+"headline": "Smart Meter Data Management Report Forecasts Market Growth from $2.49B (2025) to $12.65B by 2035, Profiling Oracle, Landis+Gyr, Itron, Siemens, Schneider Electric, and 48 Other ...",
+"summary": "Dublin, Aug. 28, 2026 (GLOBE NEWSWIRE)-- The \"Smart Meter Data Management Global Market Opportunities and Strategies to 2035\" has been added to ResearchAndMarkets.com's offering. Global Smart Meter ...",
+"source": "Bing News",
+"url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b01c8dca30b4534b3d15b343cfca471&url=https%3a%2f%2fuk.finance.yahoo.com%2fnews%2fsmart-meter-data-management-report-081500601.html&c=858301434394782762&mkt=en-gb",
+"score": 4,
+"found_by": "\"smart meter data\""
 },
 {
 "id": "137e51117ca6",
