@@ -1,10 +1,10 @@
 {
-"updated": "2026-11-23 17:44 UTC",
+"updated": "2026-11-24 03:54 UTC",
 "last_run": {
 "searches": 80,
 "failed": 0,
-"headlines_read": 305,
-"new": 13
+"headlines_read": 400,
+"new": 1
 },
 "items": [
 {
@@ -429,6 +429,23 @@
 "summary": "",
 "source": "kalkine.co.uk",
 "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPdm1reEtDZGIxNXkxdGJiX3ZYTHdjWi1SYk9VWGRBa3FBTlJBLVU5ZlBydm15d2FMRHBQdG9ENU5OX3IzYjZXWVBVenpfMTFsUThvWmY3eGNreXJlZFBHNEVhOXh6TlNXMGNGUUdkSy01emNrSW5BWHU4WjcwT3RQWENhLXBfNFFHR1E2aUlqVTR4SkxzWXlNN3FhZWdqOU5xSnFVRHFuRUF1TEl2OTcwRmh4U3REYTNqLUpDQmQ5OGVQVWhmTkJrckZuc0J6bXU0?oc=5",
+"score": 5,
+"found_by": "\"pensions dashboard\""
+},
+{
+"id": "997f3de83643",
+"date": "2026-11-20",
+"company": "",
+"what_it_does": "",
+"how_it_uses_smart_data": "Pensions dashboard: customer-requested pension data",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Financial services",
+"headline": "UK Pension Dashboard 2027 - New DWP Service Will Let Millions Find All Their Retirement Savings in One Place",
+"summary": "",
+"source": "https://capitolskyline.com/",
+"url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAxa2huZE9ZbTRxX21tSUxuejJkZTZhV2xWMDlUbnZyS2VpQmtiM1ZLWmM4OThaOEp3bURmUEp3RDVIeWJQRklmRnd2azhWOUNZVEQwTlQ2UktTU2lMWEZpRzQzMXRPYTFwVlFNWFJkalpaQVkxNEJscw?oc=5",
 "score": 5,
 "found_by": "\"pensions dashboard\""
 },
