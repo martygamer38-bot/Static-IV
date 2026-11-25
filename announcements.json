@@ -1,10 +1,10 @@
 {
-"updated": "2026-11-24 17:17 UTC",
+"updated": "2026-11-25 02:04 UTC",
 "last_run": {
 "searches": 80,
-"failed": 2,
-"headlines_read": 361,
-"new": 5
+"failed": 0,
+"headlines_read": 349,
+"new": 1
 },
 "items": [
 {
@@ -91,6 +91,23 @@
 "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOG4wcVF5QkVkZTdoSGw4ZmdWNWlHR3hBZ2JidWFRTnpBOWFyTDl6VlhORWRLSVV4YUFEOEFPeHVKcXlUT05MUVRmWGw3NzFab3cxLXVOX2pKcS16TWo1OF9LWm9xWmZvZjJBOWFXQU8zcW5iX1FIUWJpdmZVNnhTZ1lTTm5CUFFVbmlTNWRlQ01pQmpQVTR3UGVlVmI4UTZXSGZ2eQ?oc=5",
 "score": 5,
 "found_by": "\"customer-permissioned\" OR \"consumer-permissioned\" data"
+},
+{
+"id": "61385465317a",
+"date": "2026-11-24",
+"company": "",
+"what_it_does": "",
+"how_it_uses_smart_data": "Open banking: customer-permissioned bank data",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Banking (payments)",
+"headline": "Open Banking Firm Trustly Raises $60 Million",
+"summary": "",
+"source": "Finovate",
+"url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5LUEpweG10M240cXB0S1NCa1U2bzJ3T1E3NEFnMml3MGhsQWdEdk9uVnZFeVlTdHpnSXBLMmR5dzdCbXZjSExwY3pldVIzWnNjV3hnU0Qtdy1SX3VicGw2aGJINTRUeUxnQnByU2pFTXRDSVE?oc=5",
+"score": 5,
+"found_by": "\"open banking\" UK"
 },
 {
 "id": "499dd77e5ec5",
