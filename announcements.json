@@ -1,12 +1,46 @@
 {
-"updated": "2026-11-26 01:42 UTC",
+"updated": "2026-11-26 16:39 UTC",
 "last_run": {
 "searches": 80,
-"failed": 6,
-"headlines_read": 390,
+"failed": 1,
+"headlines_read": 391,
 "new": 2
 },
 "items": [
+{
+"id": "335e40cf4ff1",
+"date": "2026-11-26",
+"company": "Experian",
+"what_it_does": "",
+"how_it_uses_smart_data": "Lending decisions using account data",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Cross-sector",
+"headline": "Experian rolls out UK Cashflow Data Bureau",
+"summary": "",
+"source": "The Paypers",
+"url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcXVRcWZ1NXc2bnJVUW95b1didnZyWkxVWlVxLVVDb0JGQW5pTXlZRmJ6RGV1SHRhMlJoRHJUVVRIX1FISE5VaFJ2U0tlQmt1MzVfVTBmT3lYZXZFbG5tVWc2dk03SHItdURFVWVVbnNiNWJ3cjM2UjlZcnEwcmV5emNlLVNHRFhWTlRlTi1uUUFhRzg?oc=5",
+"score": 5,
+"found_by": "\"customer-permissioned\" OR \"consumer-permissioned\" data"
+},
+{
+"id": "b638e4c5a8af",
+"date": "2026-11-26",
+"company": "",
+"what_it_does": "",
+"how_it_uses_smart_data": "Open banking: customer-permissioned bank data",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Banking (payments)",
+"headline": "Open Banking 2026: PSD3, BaaS Returns & Core Reset",
+"summary": "",
+"source": "FinanceX Magazine",
+"url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQd2pxeEFzNnA4ZDNyanduUjhCWUV2NFVybXJDZ2FJXzZBTnBCMmtIVkJuNFRRSzhOaXFuM1VSRHlyYWlRcXg2SzVKcVdETTlFaW5zQVJoSjRVOUMwck1iWGNHVm9ybmFRTUNnbzlFRVBCZC01R2R4bDlPdlZDcnBuUnhsSVFTMFQtbkEydHZlX3ptZGJQMnZVb1hIczgzeWUyM3Y5SkQ1ejJNZFRIcVdxSlVrYW1hWU5uRnI3UXk2cW5rNFJ3c0VScEdzdFhlaFZM?oc=5",
+"score": 4,
+"found_by": "\"open finance\" UK"
+},
 {
 "id": "16bcae23fc59",
 "date": "2026-11-25",
