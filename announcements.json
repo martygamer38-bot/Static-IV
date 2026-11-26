@@ -1,10 +1,10 @@
 {
-"updated": "2026-11-25 16:59 UTC",
+"updated": "2026-11-26 01:42 UTC",
 "last_run": {
 "searches": 80,
-"failed": 0,
-"headlines_read": 372,
-"new": 7
+"failed": 6,
+"headlines_read": 390,
+"new": 2
 },
 "items": [
 {
@@ -74,6 +74,40 @@
 "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPX3ptLUhmQlpNd1l3eFRRdjFDemliS09YLVJnd3NwbXJ6Mjh4SHpHRnZVU2RQMk9LMlBLdVhVOXlvMFk2SllhNDZEVVFRbElZWkM0dkhybHY0YVAwVWExQ2lIWG1BbzJ2WEJqdDZxYTd3dkxTbzZvbTRSeDlXblNIWlItSUo0RjNB?oc=5",
 "score": 4,
 "found_by": "\"pensions dashboard\""
+},
+{
+"id": "84539ce2785c",
+"date": "2026-11-25",
+"company": "",
+"what_it_does": "",
+"how_it_uses_smart_data": "Bank payments made with customer permission (open banking)",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Banking (payments)",
+"headline": "Pay by Bank Grows Up: 6 Things Businesses Should Know About Commercial VRPs in 2026",
+"summary": "",
+"source": "Startup Stash",
+"url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNV2thS29KZXBIN1BvUVYwcVBpTUdXbUVoNEQwRzAyYTZSUmNyM2Z5TWZmTUl1UWx1eEZ2a0V0WFQyMFZBazVVaTNTZGtFRXZhLVJkcktHVUszZ25maHV5bFNNTFdTUTltaFhsN0RZaGo5UEo4VTRPQ0FhNHc0akc0VGEtRTQybktPd1lDR1lSM1F3RDFmNXVybWlJWldEUDFQOFVyS0huQnNVV0N0cHRPVGhaTDJ6d2JFNXZudEhYei05M2s?oc=5",
+"score": 4,
+"found_by": "\"open banking\" UK"
+},
+{
+"id": "de4a338436de",
+"date": "2026-11-25",
+"company": "",
+"what_it_does": "",
+"how_it_uses_smart_data": "Open banking: customer-permissioned bank data",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Banking (payments)",
+"headline": "Vietnam has the opportunity to develop open banking.",
+"summary": "",
+"source": "Vietnam.vn",
+"url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWVZBeXRFN3hvby14bDY4clhwb2d4R29SeER6eUJuVTZ3YlpYV1IxcDhseDBCRnNQcFI3dzV6VkJVNU4xaC1HcXJFZ2czbUZ5NC1xOHRkbWI2TFlheTA1eWFsNzVWcDdqamhMRDN1MTJGWFIyUWtxVEdXZzBPRVRFSXRR?oc=5",
+"score": 4,
+"found_by": "\"open banking\" UK"
 },
 {
 "id": "68f3ac851b5e",
