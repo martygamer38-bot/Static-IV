@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-26 16:39 UTC",
+"updated": "2026-11-27 01:36 UTC",
 "last_run": {
 "searches": 80,
-"failed": 1,
-"headlines_read": 391,
+"failed": 0,
+"headlines_read": 379,
 "new": 2
 },
 "items": [
@@ -701,6 +701,23 @@
 "summary": "",
 "source": "https://capitolskyline.com/",
 "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAxa2huZE9ZbTRxX21tSUxuejJkZTZhV2xWMDlUbnZyS2VpQmtiM1ZLWmM4OThaOEp3bURmUEp3RDVIeWJQRklmRnd2azhWOUNZVEQwTlQ2UktTU2lMWEZpRzQzMXRPYTFwVlFNWFJkalpaQVkxNEJscw?oc=5",
+"score": 5,
+"found_by": "\"pensions dashboard\""
+},
+{
+"id": "26864a0d1273",
+"date": "2026-11-20",
+"company": "",
+"what_it_does": "",
+"how_it_uses_smart_data": "Pensions dashboard: customer-requested pension data",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Financial services",
+"headline": "Pensions dashboard set for summer 2027 launch",
+"summary": "",
+"source": "MoneyAge",
+"url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9fYlVGMXUzaEx5V1d5cEQ4MXpEaUtpZmZxWDhHYTl0eEZnWmlwdC1ST19Ub3J6OXh5WVNGenhyQ1I0aTQ4X3RsNGhxYjRLZVRPRzZjM2JKTWpDSjhPNkRjcjRvaklFMkgtWFpiVmd0aEhuS1JQbXBVTG1rS0Y3UQ?oc=5",
 "score": 5,
 "found_by": "\"pensions dashboard\""
 },
@@ -5410,6 +5427,23 @@
 "summary": "Petrol station forecourts come under closer scrutiny from today, as a new government-backed pricing system goes live with the aim of saving motorists money. Known as Fuel Finder, the scheme requires ...",
 "source": "Bing News",
 "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae3a76ff77b447e976006a8a19984c1&url=https%3a%2f%2fwww.carthrottle.com%2fnews%2fgovernment-fuel-finder-scheme-launches-today&c=12842639161813978749&mkt=en-gb",
+"score": 5,
+"found_by": "\"Fuel Finder\""
+},
+{
+"id": "73fbc31e8dcb",
+"date": "2026-02-02",
+"company": "",
+"what_it_does": "",
+"how_it_uses_smart_data": "Fuel Finder: shared fuel price data",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Road fuels",
+"headline": "New Fuel Finder rules to save motorists £40 per year on petrol",
+"summary": "Petrol stations across the UK must, from today, report any changes in the cost of fuel. This all comes as part of the Government’s new Fuel Finder scheme which is designed to increase competition by ...",
+"source": "Bing News",
+"url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08de68f2e14b8dbe2297ab33a86897&url=https%3a%2f%2fwww.autoexpress.co.uk%2fnews%2f368881%2fnew-fuel-finder-rules-save-motorists-ps40-year-petrol&c=903041916249851764&mkt=en-gb",
 "score": 5,
 "found_by": "\"Fuel Finder\""
 },
