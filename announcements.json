@@ -1,10 +1,10 @@
 {
-"updated": "2026-11-27 16:24 UTC",
+"updated": "2026-11-28 01:16 UTC",
 "last_run": {
 "searches": 80,
-"failed": 2,
-"headlines_read": 358,
-"new": 7
+"failed": 3,
+"headlines_read": 380,
+"new": 6
 },
 "items": [
 {
@@ -23,6 +23,23 @@
 "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPLW5xeVpqMVhlLWxidDBvVjhMLWVXTk82UHd6Vmh5OWpnT0VrWWl5dHYtYThqUUJ6Q3ZMYmVMdElPdW9CMllUNXZJZlJ6ZF9FMUhfbGdMTHRMYmcxNkROUDB0c0R1QXBRWkZ3N2xSdFRFUFRSOHNoSktxVWFDWXJGdjN5S1paRW9RdE9zVko5bEJSRWhIWjZkWnE2dFNXaFpHVFJzOU9XcXRnOUJZX25fR3l3c1ExbGFOOTNrN01xRlpnanYzUFZoQjR3ODk?oc=5",
 "score": 10,
 "found_by": "\"open banking\" UK"
+},
+{
+"id": "8b04a1905bfd",
+"date": "2026-11-27",
+"company": "",
+"what_it_does": "",
+"how_it_uses_smart_data": "Bank payments made with customer permission (open banking)",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Banking (payments)",
+"headline": "Nine Pizzas, Zero Cards: TrueLayer and Papa John’s Complete UK’s First Agentic Pay by Bank Order in FCA Sandbox",
+"summary": "",
+"source": "Gadget Review",
+"url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQYURzcWlJSGhHTm55WVlUVlp2ZHViRTJRM3l1Qmg2enJiRlpfSGotdDF6bGlNYlBldTc4SkNXSXJSZ3ZNa2pwc09rR1RETjBGYkFrcDk2RU9PdnBkUkRJcEs2ZC1nVzhDaDREREl0WHhNTjRKSlhad21Pck81U3d4dVRrWGxrVFpxcFJFelpnUk1QUnpXWTE2c2tzTE5TbUlTbEJKcXUtRk9PZXZFSk9VRnhuY2xlWDFIa0liUUhFbUF6T0xVdTFOSFVGZkhNV2Q3U2c?oc=5",
+"score": 6,
+"found_by": "\"pay by bank\""
 },
 {
 "id": "dcdc58ca65a7",
@@ -57,6 +74,23 @@
 "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNjRBR3VlV2Q0MGp2TUpNbzJVOGtYalhUWm5BLWplOVp4dU1oekUwTzRrNHBFTWhJeWFPTDlqZ01rcnF0Vk12TTZmY2puZGNGRlRaOUJYbXAxT1cwdzR1NVp5VVpsbEVKcUdRVzlSVUYtaC1ZTm4tT1A2ak9faDM0MnI1RjN4VWNLV3dIdER1ZWVnZlhQaDY1Z0JOTTBETHJqSGROMkIwRFZPU1FEeVRv?oc=5",
 "score": 5,
 "found_by": "\"open banking\" UK"
+},
+{
+"id": "7146615aae92",
+"date": "2026-11-27",
+"company": "",
+"what_it_does": "",
+"how_it_uses_smart_data": "Bank payments made with customer permission (open banking)",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Banking (payments)",
+"headline": "Papa John's and TrueLayer Complete the UK’s First Agentic Pay by Bank Payment",
+"summary": "",
+"source": "Financial IT",
+"url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPa1JlTVZKMWVBNFJvRktJaGNpUEdTSGttVll3VFQzNnVaN0lXallLdHFacnBUWEEwOWVwMVRyTkVyaWNkVExBWDNYd1lmYlNoek5oMDBOSGk4cVd3NWppNHI4OW1yQjNFTi1lMU4xdUJuSkVEM0ZwQTVnUi1Yb2JQQjRzQll2Wm5URGlYOEgzWnp3YnhlRXRKWWR3bFVkY1A2Z1laTUpCSjA3LVQxcWNvV0N6Z1N2cGI4QXN6VDFR?oc=5",
+"score": 5,
+"found_by": "\"pay by bank\""
 },
 {
 "id": "6e1a58cbb41f",
@@ -106,6 +140,23 @@
 "summary": "",
 "source": "OneSafe",
 "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVVR6STVGN0ZhS3RpYl9CZV94VmVURTRtcmgwSVZFMzJCSF9uN0xXaFJvSmhfUHhlZWRwbV95ZjN2RVI3V3BGSFpYRlRXWnJDMEZvazRiQnprQzI5bUxRem16S2EtWXJMck16MUVpV0VITEhjNGRXSGNxWV81elQwZS0yUkRlX2V4SUFoVVFKNA?oc=5",
+"score": 4,
+"found_by": "\"pay by bank\""
+},
+{
+"id": "769d50f01030",
+"date": "2026-11-27",
+"company": "",
+"what_it_does": "",
+"how_it_uses_smart_data": "Bank payments made with customer permission (open banking)",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Banking (payments)",
+"headline": "TrueLayer and Papa Johns Pit Pay by Bank Against Cards in Agentic Commerce",
+"summary": "",
+"source": "PYMNTS.com",
+"url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNalJCOGx0bGdpc0tjN3JLQVN0dVhZVlBJcE1SbDVLQjNXU0xlOXdkZ29qb2tjLU1aMU54UkFHU0ViQ0hYSEFTSUprRjFxLWRfTTFVY2RuR1N1RVZKYTFGS0xPZ2NQclh2NW1lVDYzNjZnLWJjZkdkMVJqQXY1emFsWDNmQ3FldFRaZ2h3QXk0ajlYTnJGaXdIMk4yWVZ3ZGpFaTV1aHM4cDU3WF9abXZGMUZ6VjdESW1SM25aUFZrNDdudw?oc=5",
 "score": 4,
 "found_by": "\"pay by bank\""
 },
@@ -569,6 +620,23 @@
 "found_by": "\"pensions dashboard\""
 },
 {
+"id": "1b2ced43c229",
+"date": "2026-11-23",
+"company": "",
+"what_it_does": "",
+"how_it_uses_smart_data": "Open finance: customer-permissioned financial data",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Financial services",
+"headline": "Mastercard’s Jess Turner Says Open Finance Depends on Earning Consumer Trust",
+"summary": "",
+"source": "SSBCrack",
+"url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNc3VCa3NsWVlTazlTaGpQSXI5R1pMYVBpOVBOb0IzbUFkRVpPQ29vU1Njenk5NlVzckJleVBSc1JVRDM5UjdqRUVXQkpWTGJSZXRlblBsdDJQeGJTaWpnM0RLWDM1ZUNvcUotRkZpNDI5aUxKQkdvb3NrRnJ5blJpYXF2MTN0ZzROMnZES3RMcUhMQXI1aWk4ZUppY2JlTFR5NS01YQ?oc=5",
+"score": 4,
+"found_by": "\"open finance\" UK"
+},
+{
 "id": "b6f9a5312c29",
 "date": "2026-11-20",
 "company": "",
@@ -839,6 +907,23 @@
 "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9fYlVGMXUzaEx5V1d5cEQ4MXpEaUtpZmZxWDhHYTl0eEZnWmlwdC1ST19Ub3J6OXh5WVNGenhyQ1I0aTQ4X3RsNGhxYjRLZVRPRzZjM2JKTWpDSjhPNkRjcjRvaklFMkgtWFpiVmd0aEhuS1JQbXBVTG1rS0Y3UQ?oc=5",
 "score": 5,
 "found_by": "\"pensions dashboard\""
+},
+{
+"id": "690990d7f5ee",
+"date": "2026-11-20",
+"company": "",
+"what_it_does": "",
+"how_it_uses_smart_data": "Open banking: customer-permissioned bank data",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Banking (payments)",
+"headline": "The Future of Fintech App Development: AI, Open Banking, and Embedded Finance",
+"summary": "",
+"source": "Nasscom",
+"url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUkVrSUlLMjhndTdkNm1nNEpvWVVUSHI3Vk9aazJNMXhMcWphV2JsZTE4X29TbHM2bF9mWWhqaFZZOHJpVElGN2hxcWRxYnZjQWJDcUktVm5XakVYRThSTUU5QXhsbDBrRDFEQzBHMmxFSVBMQ1E2UjVQbEtfT21Rd3FQQTRxUk9LcEhTX0Y5aWtiYkZlQkxCaVYzWEdmZmM4cm00dkJNZXF4QV8wamotVkxnVGhHT2s?oc=5",
+"score": 5,
+"found_by": "\"open finance\" UK"
 },
 {
 "id": "28d26801c4ce",
@@ -1451,6 +1536,23 @@
 "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVnFpT043b00tOHJmQjJieDlGc19WU0dWR0FSRlBTaWZyTXMtWFdWMHJJTlNNbGVwNlZJLXdqcGh1QjNrZklRXzRvZTI5aDZ0aHpObVNQeEhxUFhCNHRzMTg5c3p2aGN1a1JDaGs5SllQTjVMSmhZTHFOMERiQnNaVmp1QlB4TlZRaU8tYUxYSWxGWkhhMXVVZ1Vaa3BYemQ5SXpvclJR?oc=5",
 "score": 4,
 "found_by": "\"pay by bank\""
+},
+{
+"id": "7fd1cbc41af8",
+"date": "2026-11-17",
+"company": "",
+"what_it_does": "",
+"how_it_uses_smart_data": "Open finance: customer-permissioned financial data",
+"hq": "",
+"size": "",
+"turnover": "",
+"sector": "Banking (payments)",
+"headline": "Bank Negara Malaysia establishes an open finance regulatory framework in Malaysia",
+"summary": "",
+"source": "Traders Union",
+"url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUXVxZWdoQXpIcURmbG02eFNRakpEUmhDQlpQZWNTXzgtODBVZGIySzNzN083a3VtUVlKVWhMVDdVRmNEZlN5TFVOOHlLYmJ1dDVCaDhnQVNnT2lLRVpBTHJ4UjV5bXhGVWNwYjlIUWxqSU9JR0dHUFNRWkQ3UTJCUFJoc2daYlowanhHX0V3UTNNSDdaQ2VWaVE1VGdfTUE?oc=5",
+"score": 4,
+"found_by": "\"open finance\" UK"
 },
 {
 "id": "7a3caaac2dfc",
